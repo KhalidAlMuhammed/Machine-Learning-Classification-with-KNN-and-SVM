@@ -1,0 +1,1001 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Sales,Quantity,Discount,Profit
+0,46-4816999,2022-03-23,2022-04-09,Standard Class,644 XTY,B,US,West Monicachester,Missouri,64371,Region 2,UGTL75441153102783,Information Technology,Software,2100,210,50.1,430.08
+1,73-5181087,2022-01-12,2022-02-27,Standard Class,475-LZM,C,US,Lake John,Idaho,91207,Region 2,GVYW14247878597778,Industrials,Airlines,4900,380,62.25,736.62
+2,81-7956611,2022-01-24,2022-03-29,Second Class,V58 3HZ,D,US,Thomastown,Idaho,50112,Region 0,XENR14542827045198,Consumer Staples,Food Products,9400,490,29.06,694.03
+3,57-9402637,2022-03-26,2022-04-06,First Class,ZTK 496,B,US,North Adamfurt,Colorado,09718,Region 4,ZJCO05337125698910,Consumer Discretionary,Multiline Retail,3800,770,83.25,14.85
+4,26-4834140,2022-04-04,2022-04-08,Standard Class,DSU 934,D,US,Longland,Rhode Island,90806,Region 3,QPEM87055166429647,Telecommunication Services,Diversified Telecommunication Services,7900,110,66.72,269.76
+5,74-7941984,2022-01-24,2022-03-20,First Class,601 TKM,D,US,Mcdonaldshire,Mississippi,08251,Region 4,BDAA82329728919136,Consumer Staples,Beverages,2700,350,91.08,658.11
+6,10-0562416,2022-03-09,2022-03-27,First Class,XLI-993,D,US,Mortonmouth,South Carolina,42760,Region 4,VJAD68714014950503,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",1500,510,23.94,689.13
+7,84-5136311,2022-01-16,2022-04-01,First Class,MJH 333,D,US,Samanthaview,Georgia,79340,Region 1,CCTE36064493665975,Industrials,Marine,2400,180,32.32,851.0
+8,02-9166033,2022-01-12,2022-03-19,Second Class,RWS-1644,D,US,Dustinmouth,Ohio,60463,Region 0,SZRE93175676965132,Real Estate,Equity Real Estate Investment Trusts,2900,610,72.95,298.39
+9,92-0867650,2022-01-23,2022-03-24,Standard Class,016Q6,A,US,Meganberg,New Mexico,98285,Region 2,NRFF54638623441231,Consumer Staples,Household Products,6300,960,45.78,23.46
+10,52-0219959,2022-01-17,2022-02-28,Standard Class,861-IVI,A,US,Meredithside,Maine,15751,Region 3,UIGC71330637326788,Financials,Consumer Finance,4200,290,27.1,599.07
+11,73-9809992,2022-01-01,2022-02-06,Second Class,HHK6712,D,US,New Josephchester,Montana,30450,Region 1,BTOL16656915060678,Health Care,Pharmaceuticals,200,50,57.13,945.74
+12,03-4778934,2022-02-25,2022-02-25,First Class,4KM 322,B,US,East Jessica,Rhode Island,98658,Region 2,CBYA21353369242269,Industrials,Industrial Conglomerates,8300,740,51.41,371.18
+13,98-7813279,2022-04-06,2022-04-08,Second Class,330-OOM,D,US,Stephensburgh,Kentucky,42571,Region 1,AJEU46977538030136,Telecommunication Services,Diversified Telecommunication Services,9800,760,48.8,108.87
+14,60-0227523,2022-03-26,2022-04-05,Second Class,753-PFL,D,US,West Teresaville,South Dakota,12024,Region 4,GIPF91635396818763,Industrials,Construction & Engineering,9800,410,71.03,489.59
+15,55-3670004,2022-03-08,2022-03-25,Standard Class,077GGD,D,US,South Annaview,Kentucky,59037,Region 4,UMQY38400303254705,Financials,Diversified Financial Services,600,80,49.24,510.96
+16,87-4319445,2022-03-11,2022-03-27,First Class,0-U1122,C,US,Lake Chelsea,Louisiana,90515,Region 1,TBIP92664128206535,Health Care,Life Sciences Tools & Services,2100,470,4.85,836.4
+17,33-4920821,2022-02-26,2022-03-28,First Class,396-QJT,D,US,North Kathleen,North Dakota,35545,Region 1,BXPY15167074396357,Utilities,Electric Utilities,4500,60,65.62,325.75
+18,02-0604614,2022-03-23,2022-04-06,Second Class,5II I84,D,US,Valeriefurt,Colorado,30540,Region 4,OYIM48647859228196,Materials,Construction Materials,900,560,6.67,515.85
+19,03-7717923,2022-02-15,2022-03-12,Second Class,06UI5,C,US,Charlesbury,Georgia,66268,Region 3,GLUD87524078793618,Energy,Energy Equipment & Services,5200,110,67.34,686.9
+20,47-5558369,2022-02-20,2022-04-03,Second Class,262 UTL,B,US,Owenborough,Connecticut,05835,Region 1,GRWT68181739574285,Information Technology,"Electronic Equipment, Instruments & Components",1300,40,28.21,502.34
+21,76-6947107,2022-01-03,2022-01-14,First Class,63I 632,A,US,Vanessaton,Montana,18869,Region 0,MAUS83482334981026,Industrials,Professional Services,5800,820,33.85,277.55
+22,66-2507409,2022-01-10,2022-03-09,First Class,GI-9669,D,US,Harveyfurt,Maine,31727,Region 0,REUI22845215993542,Materials,Metals & Mining,7200,120,11.81,899.1
+23,90-5730602,2022-02-06,2022-02-06,Standard Class,262 NRC,B,US,West Tarabury,Oregon,77851,Region 4,GCZM30633528705792,Telecommunication Services,Diversified Telecommunication Services,8300,930,63.19,190.22
+24,38-5925162,2022-03-17,2022-03-28,Second Class,56FL0,A,US,Millerbury,Tennessee,12163,Region 4,SEOW65497358603315,Health Care,Biotechnology,6300,500,89.08,999.96
+25,30-0340302,2022-01-23,2022-03-10,First Class,47Z 1283,C,US,North Jacqueline,Iowa,40889,Region 4,UHFQ31042801191040,Materials,Metals & Mining,5800,270,55.81,519.29
+26,44-2460719,2022-01-20,2022-04-08,First Class,897 2KZ,A,US,Haynesfurt,New Hampshire,50603,Region 0,AVSE74510612679465,Utilities,Multi-Utilities,4200,740,81.21,720.03
+27,61-3274100,2022-01-31,2022-03-02,Standard Class,FPB 159,B,US,Rileyhaven,Rhode Island,92352,Region 1,RSIL90367236923074,Industrials,Air Freight & Logistics,9500,970,4.97,191.44
+28,32-8836677,2022-01-26,2022-03-09,First Class,JPA9627,C,US,Port Karen,Tennessee,82599,Region 4,SSRF88548333500382,Consumer Staples,Personal Products,5200,750,17.41,621.46
+29,16-5467007,2022-03-01,2022-03-28,Standard Class,VXD 160,D,US,Woodborough,Oregon,96476,Region 3,KEXP63131354233551,Telecommunication Services,Diversified Telecommunication Services,3500,750,18.92,601.7
+30,59-5008828,2022-02-18,2022-02-22,Standard Class,LFM 024,D,US,Port Josephstad,Oklahoma,47782,Region 2,TZZX30898813274980,Materials,Paper & Forest Products,7300,60,17.64,632.92
+31,39-3374328,2022-02-07,2022-02-21,First Class,4527 HT,A,US,Davismouth,North Dakota,85765,Region 2,MBDW20866129223323,Financials,Consumer Finance,700,1000,77.18,208.61
+32,43-9432510,2022-03-07,2022-03-11,Standard Class,8KU 753,B,US,North Jerryhaven,North Carolina,54778,Region 2,XDFL70665744584346,Consumer Staples,Food Products,3100,460,75.46,465.23
+33,37-3543100,2022-02-05,2022-02-09,First Class,92X 105,A,US,Matthewport,Michigan,43947,Region 2,EYZX23081964861766,Consumer Staples,Food & Staples Retailing,700,880,60.29,579.92
+34,68-4026763,2022-04-01,2022-04-06,Second Class,871 UWZ,D,US,Paulbury,Rhode Island,00992,Region 3,NBCO38148443410560,Energy,"Oil, Gas & Consumable Fuels",7300,830,58.99,288.64
+35,44-2982937,2022-01-11,2022-01-18,Second Class,9HH42,B,US,Christinefort,Utah,90269,Region 1,GAEH84858705886070,Real Estate,Real Estate Management & Development,8800,960,75.36,12.74
+36,53-9941066,2022-03-03,2022-03-20,Standard Class,0ZB 683,A,US,West Lindseychester,Michigan,23787,Region 1,ACUA92818903086460,Industrials,Transportation Infrastructure,1500,900,83.68,496.9
+37,51-1682647,2022-01-19,2022-04-04,Second Class,1GM 230,D,US,East Kristie,Virginia,22366,Region 3,ZJSQ48155233742276,Telecommunication Services,Wireless Telecommunication Services,1800,790,95.47,484.28
+38,15-4344580,2022-03-11,2022-04-01,Second Class,2746 YW,D,US,New Pamelaland,Florida,27794,Region 2,TWDX94197983239136,Information Technology,Communications Equipment,2700,230,5.17,10.78
+39,92-0740776,2022-04-05,2022-04-05,Standard Class,06-99498,C,US,Lake Danielberg,Pennsylvania,40176,Region 4,MEWA60327664169686,Telecommunication Services,Wireless Telecommunication Services,6500,410,18.68,773.02
+40,71-2003137,2022-04-06,2022-04-08,Standard Class,OSE 498,D,US,Jacquelineberg,Kansas,76207,Region 1,QCUV42240674121958,Telecommunication Services,Diversified Telecommunication Services,4400,520,6.41,97.96
+41,76-7645552,2022-02-03,2022-02-28,Second Class,0695,C,US,Lake Rhondatown,Pennsylvania,23097,Region 3,IRPQ69184817056784,Utilities,Independent Power and Renewable Electricity Producers,5700,620,71.02,613.81
+42,41-3502479,2022-01-24,2022-01-29,First Class,850 VPV,C,US,Lake Scott,New York,89638,Region 0,JPWL49411238136886,Real Estate,Equity Real Estate Investment Trusts,5800,380,14.45,538.36
+43,43-8927397,2022-04-03,2022-04-04,Standard Class,O43-22H,A,US,Shawnchester,New Hampshire,99646,Region 3,UFJL08345216721250,Utilities,Gas Utilities,6000,210,92.76,556.55
+44,38-0546000,2022-03-11,2022-04-02,Standard Class,087 WJW,C,US,South Jason,North Carolina,84051,Region 3,SHXJ88557480444926,Materials,Chemicals,6600,930,36.7,519.35
+45,35-5097019,2022-03-11,2022-03-17,Second Class,2BX8661,D,US,South Leahland,Louisiana,09278,Region 2,NREV25279190194297,Industrials,Commercial Services & Supplies,2900,290,89.49,895.25
+46,37-9625850,2022-03-02,2022-03-11,Standard Class,ZST 856,C,US,Hawkinston,Idaho,73516,Region 3,KCPF63539147287804,Utilities,Electric Utilities,4600,700,84.4,13.79
+47,03-9386802,2022-02-28,2022-03-05,Standard Class,19-GX94,A,US,North Juliaview,Minnesota,71847,Region 1,ONPM53708970506467,Information Technology,Communications Equipment,5200,410,35.01,471.72
+48,20-7036331,2022-01-29,2022-03-24,Second Class,3WO N97,A,US,Kyleside,Oregon,71059,Region 1,AWLB87411201326525,Real Estate,Equity Real Estate Investment Trusts,6900,990,37.26,287.99
+49,45-1886395,2022-01-11,2022-03-20,Second Class,ZGS 805,D,US,Port Kelly,Oregon,89913,Region 4,FMDP85523718694566,Financials,Consumer Finance,2300,990,80.4,852.53
+50,23-2609917,2022-01-08,2022-03-17,First Class,F76-93L,C,US,Joneschester,Massachusetts,50357,Region 3,MTBE70055186937469,Utilities,Multi-Utilities,2900,1000,67.91,521.47
+51,50-6574232,2022-04-01,2022-04-09,Second Class,ASS-5704,D,US,Coxport,South Carolina,77340,Region 3,WSVY47442926886664,Energy,"Oil, Gas & Consumable Fuels",8000,80,85.46,958.04
+52,60-9402220,2022-03-23,2022-03-28,Standard Class,QFN 811,C,US,Singhtown,Minnesota,77385,Region 4,KIJG62196696547570,Industrials,Air Freight & Logistics,600,400,25.56,653.2
+53,54-1545804,2022-03-19,2022-03-29,First Class,AEG-7867,C,US,South Michael,Utah,39397,Region 2,JYFZ28761296825285,Energy,Energy Equipment & Services,3000,660,89.88,300.75
+54,40-2204260,2022-01-11,2022-03-01,First Class,68-A197,C,US,Osborneport,South Carolina,74333,Region 2,FAPZ07744710399936,Industrials,Transportation Infrastructure,1000,750,3.73,73.58
+55,99-6173636,2022-01-17,2022-02-04,Second Class,BGI 857,C,US,Mooreborough,Mississippi,06971,Region 3,UFCW91506948857404,Financials,Diversified Financial Services,1000,380,48.19,377.17
+56,21-4641552,2022-02-03,2022-02-16,Standard Class,155IMC,B,US,Mooremouth,Nebraska,01233,Region 4,GKFT49462270142851,Real Estate,Real Estate Management & Development,9200,320,0.84,648.19
+57,37-5020835,2022-03-14,2022-04-08,Standard Class,KT 55927,A,US,Mosesport,New Hampshire,11527,Region 0,CRHD63546707183601,Consumer Discretionary,Household Durables,6600,180,64.7,330.09
+58,72-4884903,2022-04-03,2022-04-07,First Class,X00 5EB,A,US,South Tyler,Kansas,82860,Region 4,VGXS47897859594175,Energy,"Oil, Gas & Consumable Fuels",2400,780,69.51,235.42
+59,77-4457405,2022-02-03,2022-03-19,Standard Class,HND6716,B,US,Rebeccachester,Mississippi,59555,Region 2,CQCM25489627024106,Consumer Staples,Food Products,1100,80,65.44,311.95
+60,25-7913266,2022-01-26,2022-03-04,Second Class,KYY-4546,D,US,Juliemouth,Oklahoma,44358,Region 0,IXDT30021178074576,Financials,Diversified Financial Services,1200,840,41.09,344.47
+61,82-8926844,2022-04-01,2022-04-08,Second Class,XWP 161,D,US,Lake Shaunmouth,New Jersey,46506,Region 4,GVYN85193571820136,Telecommunication Services,Diversified Telecommunication Services,4500,730,18.31,718.22
+62,43-6442230,2022-02-06,2022-02-23,Second Class,1EF45,C,US,East Debra,Washington,89908,Region 2,AEFJ25698975675965,Consumer Discretionary,Household Durables,7400,930,65.22,924.5
+63,91-3661959,2022-02-04,2022-02-11,First Class,900 8ZF,C,US,Port Jennifertown,Colorado,31401,Region 1,QMXI61894197979740,Utilities,Gas Utilities,8000,200,80.25,524.32
+64,16-9546003,2022-03-09,2022-04-04,Second Class,SCJ-349,B,US,West Rebeccaport,North Carolina,20562,Region 4,LEQS70036975640615,Information Technology,"Electronic Equipment, Instruments & Components",2400,830,34.01,254.3
+65,38-1250120,2022-01-24,2022-03-04,Second Class,593-DCBK,B,US,Christinebury,Nebraska,36632,Region 4,UTQZ83676347490410,Industrials,Industrial Conglomerates,9500,600,15.64,309.91
+66,95-6360856,2022-03-02,2022-03-26,Second Class,759J,B,US,Elizabethfort,Arizona,06939,Region 1,LUJA37219001381954,Energy,Energy Equipment & Services,100,390,34.23,810.64
+67,90-1016540,2022-03-02,2022-03-17,Standard Class,IZB0746,D,US,Lake Laura,South Dakota,71999,Region 4,XXYS98849966981416,Consumer Staples,Tobacco,2300,220,39.5,542.2
+68,54-9841981,2022-03-29,2022-04-07,Second Class,645-SZE,B,US,Montesport,Pennsylvania,12666,Region 1,AUCK06302789784803,Consumer Discretionary,Household Durables,10000,300,18.33,594.91
+69,39-2058561,2022-01-29,2022-04-08,Second Class,0XP1050,D,US,Littleburgh,Minnesota,95652,Region 4,IJGU84678987108304,Materials,Paper & Forest Products,7800,680,26.63,960.9
+70,11-9637669,2022-03-09,2022-04-08,Standard Class,1632 YW,C,US,New Jennymouth,West Virginia,85255,Region 3,ARXU55493879714005,Telecommunication Services,Wireless Telecommunication Services,3300,390,78.52,187.19
+71,04-3751470,2022-03-17,2022-04-04,First Class,IPC8282,A,US,Sarahberg,Pennsylvania,04087,Region 1,OPDB51072283600665,Real Estate,Real Estate Management & Development,2600,440,66.44,754.59
+72,43-2162483,2022-01-21,2022-03-02,Standard Class,GOW-0511,D,US,Lake Alicia,Pennsylvania,98116,Region 0,DWKA28681886955949,Telecommunication Services,Diversified Telecommunication Services,2500,540,66.23,525.01
+73,30-8262967,2022-02-24,2022-02-26,Second Class,4MZE260,C,US,Port Melissaburgh,Utah,36990,Region 1,TRHU05301668299954,Real Estate,Real Estate Management & Development,2200,270,25.69,401.55
+74,91-1693528,2022-02-23,2022-03-04,Standard Class,343 ZMI,D,US,Blackburnton,Alaska,31010,Region 4,QZLN58554557811548,Utilities,Multi-Utilities,6600,940,1.97,483.63
+75,72-9905521,2022-04-04,2022-04-06,Second Class,768-ZGQ,A,US,South Aliciaberg,Iowa,28210,Region 3,KVXV89806154538545,Utilities,Multi-Utilities,2800,760,86.67,890.75
+76,39-2543567,2022-03-09,2022-03-26,Second Class,MCY-9047,A,US,Johnsonburgh,Indiana,90698,Region 1,NNQY00872093840842,Information Technology,Semiconductors & Semiconductor Equipment,1100,270,90.23,543.55
+77,55-0086211,2022-03-26,2022-04-08,Standard Class,TJY5179,C,US,Gonzalezfurt,California,84508,Region 2,YIEU95093468861968,Real Estate,Equity Real Estate Investment Trusts,4200,230,35.88,546.2
+78,99-7707834,2022-02-24,2022-03-09,Standard Class,726 GOH,C,US,Lake Debramouth,Texas,08271,Region 0,ZZPM34185924853787,Telecommunication Services,Wireless Telecommunication Services,10000,400,27.64,430.1
+79,30-9196293,2022-02-10,2022-02-26,First Class,Q61 0LL,A,US,New Briana,Wisconsin,05752,Region 0,NEKE45727353107874,Utilities,Gas Utilities,4300,200,45.7,130.72
+80,92-8279478,2022-03-07,2022-03-30,Second Class,VHK 959,B,US,Phillipsview,Illinois,89881,Region 1,OGBA18235833562424,Information Technology,IT Services,7600,790,37.68,455.64
+81,42-6245498,2022-03-11,2022-03-22,Second Class,100 1925,C,US,Port Shaneville,Nevada,61524,Region 0,GFIG93133471271697,Energy,"Oil, Gas & Consumable Fuels",3300,860,63.81,915.05
+82,67-9842122,2022-04-07,2022-04-08,First Class,DRJ 684,C,US,New Hannah,Arizona,79793,Region 4,TSDU72913695556288,Industrials,Airlines,3100,940,11.61,263.78
+83,23-1614388,2022-01-09,2022-01-20,Standard Class,32-L731,C,US,Rodrigueztown,New York,34825,Region 1,JZEO66842933076363,Materials,Containers & Packaging,6000,960,85.5,744.56
+84,51-5750853,2022-01-30,2022-02-05,Second Class,065-OOU,B,US,Chavezfort,Colorado,12626,Region 2,YKQK08004541981353,Financials,Capital Markets,2500,720,89.9,537.21
+85,51-5804904,2022-02-09,2022-03-10,First Class,290-YYJ,D,US,Welchchester,Missouri,34005,Region 2,BAOO33264021715240,Financials,Capital Markets,4000,70,66.3,871.71
+86,05-3827256,2022-01-10,2022-03-25,Second Class,98KM432,D,US,Eduardomouth,Arizona,81108,Region 0,SAAB26567949108945,Energy,Energy Equipment & Services,1200,120,54.4,260.16
+87,81-7715241,2022-02-26,2022-04-06,First Class,2Q 2K4GZK,A,US,Jeanetteburgh,Wyoming,66978,Region 0,SVMS77923828388326,Real Estate,Equity Real Estate Investment Trusts,2800,760,23.09,975.61
+88,68-7404108,2022-01-05,2022-02-02,Second Class,DFA-2701,B,US,Veronicahaven,Louisiana,97865,Region 1,BZFL95287168202305,Energy,"Oil, Gas & Consumable Fuels",7000,540,51.0,321.93
+89,32-7491517,2022-02-17,2022-02-20,Second Class,OPG T81,D,US,Josephfurt,Maine,97120,Region 4,VFLS82729212570733,Energy,Energy Equipment & Services,7300,40,20.55,906.71
+90,24-8289738,2022-02-09,2022-03-23,First Class,ZCY 536,A,US,Jenningsport,Wyoming,95412,Region 3,OQZU10042473946325,Utilities,Water Utilities ,700,960,55.91,823.0
+91,90-8168482,2022-03-16,2022-04-05,Standard Class,9-17919,C,US,Melanieland,South Carolina,90802,Region 1,JNBL33295490742564,Consumer Discretionary,Household Durables,2200,400,66.01,790.26
+92,88-9125914,2022-02-28,2022-03-20,First Class,THY-3512,B,US,East Melanie,Georgia,43014,Region 2,AKHY38754769652875,Telecommunication Services,Wireless Telecommunication Services,4300,730,2.71,343.3
+93,85-9113656,2022-03-30,2022-04-02,Second Class,2SH S55,D,US,Heatherview,West Virginia,02614,Region 4,TWWY22443851950258,Industrials,Air Freight & Logistics,3000,250,30.14,665.96
+94,75-6478943,2022-03-20,2022-04-03,First Class,QJT 867,A,US,Briggsstad,Louisiana,40742,Region 3,QAAN35954977222567,Utilities,Electric Utilities,2000,500,30.13,667.89
+95,82-9111975,2022-03-10,2022-03-22,Second Class,280-KAV,D,US,South Douglas,Montana,93159,Region 1,WBCV41200387033854,Materials,Containers & Packaging,1700,160,93.43,975.75
+96,90-8089427,2022-01-01,2022-01-17,Standard Class,VT2 M3P,D,US,Brewertown,Massachusetts,87677,Region 0,RDMM59409271161901,Health Care,Health Care Technology,100,580,91.88,771.64
+97,42-0695108,2022-03-01,2022-03-16,Standard Class,3SV4392,C,US,Mayton,Arizona,97013,Region 0,GJPU99603851612365,Energy,Energy Equipment & Services,2700,870,38.8,692.02
+98,68-1866054,2022-02-26,2022-03-11,Standard Class,P 783776,D,US,Davisland,New York,88199,Region 3,VIHM31379239961791,Industrials,Marine,7900,790,33.5,748.28
+99,74-8274181,2022-03-28,2022-03-29,Second Class,543 0DB,C,US,Murphymouth,Nevada,10862,Region 3,MFZK26280791399968,Materials,Paper & Forest Products,5800,580,72.94,742.21
+100,98-2012894,2022-01-28,2022-03-09,Second Class,9ZW3806,C,US,Thompsonton,Illinois,82140,Region 3,MGKT14185655159370,Information Technology,IT Services,400,70,8.44,765.31
+101,38-0022975,2022-03-18,2022-03-26,Second Class,0UU V85,C,US,East Arthurmouth,Georgia,02244,Region 2,XIXM13518039191179,Information Technology,Semiconductors & Semiconductor Equipment,5700,220,69.58,506.81
+102,44-2343471,2022-02-08,2022-03-13,First Class,L 002751,B,US,North Timothy,Kentucky,81243,Region 2,PDZK98171657232200,Real Estate,Equity Real Estate Investment Trusts,3200,690,6.54,428.38
+103,01-1377760,2022-02-18,2022-04-06,Standard Class,ADK-418,C,US,Port Ruben,Iowa,90648,Region 1,TDUV63759014077614,Utilities,Water Utilities ,700,210,93.78,842.11
+104,25-3912724,2022-01-16,2022-03-18,First Class,894 LZY,D,US,Jenniferport,Maine,15776,Region 0,AQHZ98324339186446,Health Care,Health Care Technology,4900,940,43.6,298.28
+105,51-4354483,2022-03-19,2022-03-23,First Class,IBW N43,D,US,Soniaberg,New Hampshire,22049,Region 3,ZBCG96965507173585,Information Technology,"Electronic Equipment, Instruments & Components",1200,870,3.65,660.57
+106,21-2135127,2022-02-17,2022-03-18,First Class,08U•920,A,US,Vazquezborough,Texas,14360,Region 0,AECX88777856145322,Industrials,Building Products,7000,150,42.35,267.78
+107,40-3943068,2022-02-28,2022-03-12,First Class,23-MO35,C,US,Jeremyview,Missouri,82182,Region 0,VJEA95619289104361,Industrials,Construction & Engineering,8200,140,85.79,4.93
+108,55-9375139,2022-02-07,2022-02-18,Second Class,QHS-3384,A,US,Lloydborough,Iowa,46670,Region 2,EWNQ50274605872615,Consumer Staples,Food Products,7100,900,60.19,730.6
+109,64-9247742,2022-02-07,2022-03-26,First Class,1-L2400,D,US,North Lauraview,South Dakota,17771,Region 3,YRQX60790478139765,Real Estate,Equity Real Estate Investment Trusts,3100,270,84.28,489.86
+110,99-5542696,2022-01-08,2022-01-26,Second Class,HIE 174,A,US,East Amyfort,Arizona,46789,Region 4,KFQD32233211693620,Energy,Energy Equipment & Services,2200,20,31.0,814.65
+111,62-6425869,2022-02-13,2022-03-18,First Class,37QY3,D,US,Bryanton,Mississippi,38343,Region 2,QNQY87922901535234,Industrials,Marine,2000,540,36.19,763.81
+112,64-4361875,2022-03-17,2022-03-22,First Class,7-23097O,C,US,Michaelshire,Montana,76360,Region 0,DFLU34208060802308,Information Technology,"Technology Hardware, Storage & Peripherals",8000,230,20.6,835.76
+113,04-1277891,2022-02-23,2022-03-06,Second Class,6ZHE864,A,US,West Feliciaborough,Nevada,58475,Region 0,HCUM97281198998925,Financials,Consumer Finance,6800,570,44.92,349.28
+114,50-4935497,2022-02-23,2022-03-02,Second Class,9D 5850E,A,US,New Nancyburgh,Colorado,74859,Region 1,BVFS87323425618922,Consumer Staples,Tobacco,500,560,49.96,401.06
+115,72-4823656,2022-02-22,2022-03-04,Standard Class,453XKP,A,US,Adamview,North Dakota,82900,Region 1,LFWJ03485847294741,Materials,Chemicals,5400,680,20.54,219.2
+116,16-2845468,2022-02-23,2022-02-26,Second Class,G04 1QN,C,US,New Amanda,West Virginia,51604,Region 4,BIKN18768543962436,Consumer Discretionary,"Hotels, Restaurants & Leisure",1100,330,95.76,435.03
+117,84-3445728,2022-03-23,2022-03-28,Second Class,CO-2208,C,US,Maxville,New Jersey,74341,Region 4,UYWB18569856927098,Energy,Energy Equipment & Services,800,690,67.81,361.17
+118,02-5934104,2022-02-03,2022-02-18,Second Class,1FU23,A,US,Castilloberg,Montana,91669,Region 1,YMZF99501063080621,Information Technology,"Electronic Equipment, Instruments & Components",6000,110,20.61,769.7
+119,51-7966541,2022-03-10,2022-03-23,Standard Class,6R 0A1QKJ,A,US,Ellisburgh,New York,05011,Region 1,VMWE29095194862843,Information Technology,Communications Equipment,6000,620,47.62,689.85
+120,35-4751737,2022-03-29,2022-04-07,Standard Class,5N DW550,D,US,Rodriguezshire,Iowa,76650,Region 2,QDIT10444936451950,Utilities,Independent Power and Renewable Electricity Producers,8200,430,55.54,7.4
+121,52-6227290,2022-04-01,2022-04-06,Standard Class,363 SKD,A,US,Karenmouth,Montana,73212,Region 4,ZUTG50995054956658,Consumer Discretionary,Leisure Products,9300,260,24.34,921.23
+122,67-2004722,2022-03-06,2022-03-24,Second Class,585 TOQ,A,US,Port Susan,Montana,36214,Region 0,VPZS02754192975875,Telecommunication Services,Diversified Telecommunication Services,3400,460,13.53,838.63
+123,73-7877327,2022-02-23,2022-03-08,Second Class,000 BMU,C,US,Port Jason,Michigan,72023,Region 4,TQRR18812477810939,Health Care,Pharmaceuticals,4900,170,51.58,615.01
+124,50-6593281,2022-01-12,2022-01-26,Second Class,3SX1279,A,US,Port Cody,Michigan,99027,Region 4,JJXF58453894877486,Health Care,Biotechnology,400,960,30.96,478.26
+125,20-0147586,2022-02-26,2022-03-29,Standard Class,SS-6378,A,US,Paynemouth,California,98716,Region 0,IMNR39088171382706,Health Care,Life Sciences Tools & Services,5400,370,95.04,574.22
+126,54-3653349,2022-03-29,2022-03-31,Second Class,OLK Q74,D,US,South Angela,Florida,08626,Region 2,EULO65352173858906,Utilities,Gas Utilities,7400,440,36.45,3.91
+127,13-9940948,2022-02-09,2022-02-15,Second Class,57T•668,D,US,Scottmouth,North Carolina,67591,Region 3,PBRD02597085000296,Consumer Discretionary,Automobiles,6600,830,61.53,752.21
+128,30-8420974,2022-01-28,2022-03-06,First Class,KGN-401,B,US,Robertside,Maryland,59527,Region 1,DVDG58232831815324,Consumer Discretionary,Distributors,5900,510,61.17,286.6
+129,51-6448027,2022-03-10,2022-03-29,First Class,DHO 252,D,US,Moniquemouth,Maryland,16573,Region 3,HKYM46987129036161,Utilities,Water Utilities ,9600,100,6.6,942.22
+130,63-9355790,2022-02-18,2022-04-04,Second Class,TMS-290,C,US,South Christopher,Hawaii,41632,Region 4,TRKU74554919071376,Consumer Staples,Household Products,100,100,44.94,793.98
+131,75-5983861,2022-01-17,2022-03-26,Second Class,21BW640,D,US,North Toddport,Maryland,72702,Region 4,DLBV01121083557138,Industrials,Road & Rail,800,900,26.36,216.96
+132,04-0700127,2022-02-22,2022-03-24,Standard Class,H15-45T,C,US,Lake Stephen,Missouri,53963,Region 1,AUZF36406835453472,Consumer Discretionary,Media,7800,740,81.55,589.34
+133,39-3060325,2022-02-02,2022-02-20,Second Class,LHO-4961,B,US,South Natalie,North Dakota,27132,Region 4,YMTN84420174648550,Consumer Staples,Personal Products,3500,140,54.53,624.54
+134,38-3694440,2022-03-17,2022-03-25,Standard Class,7VG L69,D,US,South Amandaport,Washington,81632,Region 4,IHEJ06023282660573,Energy,"Oil, Gas & Consumable Fuels",5300,740,99.94,965.04
+135,21-0563561,2022-03-03,2022-04-06,Second Class,YTZ 6158,B,US,Port Reneeport,Massachusetts,05408,Region 2,LXSQ83147305642693,Health Care,Life Sciences Tools & Services,7900,360,2.69,970.33
+136,48-9210117,2022-02-10,2022-02-19,Standard Class,150 NQW,C,US,Port Kyle,Tennessee,65212,Region 2,THRI05917470727699,Materials,Paper & Forest Products,3600,150,80.92,677.69
+137,16-4748901,2022-01-22,2022-03-08,Second Class,ZBS 691,D,US,Kimberlyfurt,Connecticut,85445,Region 4,CMHY87923855233513,Health Care,Health Care Technology,2500,30,34.41,581.54
+138,37-0509069,2022-01-22,2022-02-09,Second Class,HVC 314,B,US,New Dawnview,Wisconsin,50868,Region 0,GYJW07452863495871,Utilities,Independent Power and Renewable Electricity Producers,7600,660,0.43,65.65
+139,54-9102763,2022-03-10,2022-03-10,Standard Class,3276,C,US,West Laura,North Dakota,55312,Region 2,VSMC92130371911989,Materials,Construction Materials,6900,620,85.03,827.64
+140,83-9559390,2022-03-04,2022-03-28,Standard Class,LLP 641,D,US,New Dennisfort,New Jersey,88883,Region 1,UJII44007995841454,Consumer Discretionary,Media,400,750,57.26,936.16
+141,35-2255173,2022-03-03,2022-03-19,First Class,607940,C,US,North Lisa,New Mexico,06391,Region 1,BTYR59169609734797,Consumer Discretionary,Automobiles,7000,80,22.62,181.12
+142,57-4470906,2022-02-14,2022-02-24,First Class,PUU 873,B,US,South Jennifertown,Wisconsin,60652,Region 0,UCDV75344412393684,Health Care,Pharmaceuticals,9700,530,36.99,709.02
+143,36-8265426,2022-04-04,2022-04-08,First Class,4LW6450,B,US,East Theodore,Pennsylvania,90408,Region 1,WHGY10450367202766,Health Care,Biotechnology,8900,850,17.84,68.16
+144,25-9832108,2022-01-01,2022-01-15,First Class,J 032905,A,US,North Sarahside,Louisiana,56407,Region 0,YGMM73920492583341,Industrials,Air Freight & Logistics,2700,160,25.33,385.28
+145,52-8348611,2022-03-08,2022-04-06,Standard Class,931 ONL,B,US,Pierceland,Pennsylvania,18773,Region 2,RHLO89986679553172,Information Technology,Semiconductors & Semiconductor Equipment,4300,630,77.02,132.69
+146,13-6410752,2022-01-07,2022-02-08,Second Class,662-NICH,C,US,Richardchester,Wyoming,24528,Region 1,TJLV04646438813222,Industrials,Machinery,3400,90,85.45,726.28
+147,39-0958134,2022-04-05,2022-04-05,Standard Class,2TU L67,D,US,Jonesmouth,Louisiana,26693,Region 0,FJPE24944945594800,Energy,Energy Equipment & Services,4800,480,2.09,571.15
+148,20-0610959,2022-01-14,2022-02-26,Standard Class,325QKB,B,US,North Michael,Colorado,96628,Region 1,VSSZ23890435238308,Financials,Mortgage REITs,3400,600,48.09,316.1
+149,48-8287578,2022-01-01,2022-01-25,Standard Class,VI9 0054,D,US,Hillmouth,Pennsylvania,92561,Region 2,DWPZ54996050326050,Telecommunication Services,Wireless Telecommunication Services,8500,240,35.46,326.43
+150,32-5187556,2022-03-20,2022-04-01,Standard Class,VTZ-827,C,US,Tonytown,Alaska,55681,Region 3,SQZN23402378569371,Telecommunication Services,Wireless Telecommunication Services,4000,830,33.24,508.46
+151,45-5110011,2022-02-13,2022-03-07,Standard Class,9TF 427,A,US,New Trevorland,Idaho,74084,Region 1,BOCX10654494769903,Telecommunication Services,Diversified Telecommunication Services,600,690,66.6,19.66
+152,85-4917421,2022-02-14,2022-03-11,Second Class,Z96 2RP,B,US,South Misty,Colorado,85742,Region 3,ATNM37494073612019,Utilities,Electric Utilities,800,820,20.87,521.72
+153,25-8654218,2022-01-16,2022-03-26,First Class,4XTH416,C,US,New Sarah,Connecticut,55081,Region 3,WNMQ16818555231870,Information Technology,Communications Equipment,8300,310,46.52,130.06
+154,44-6119006,2022-01-23,2022-03-07,First Class,D18 7VQ,D,US,Port David,New York,39971,Region 0,OITA02970582827328,Utilities,Independent Power and Renewable Electricity Producers,6000,580,78.93,268.43
+155,92-3519885,2022-03-12,2022-04-03,Second Class,8VD 171,B,US,North Brandonfort,Illinois,02151,Region 0,UZHP56150788512516,Consumer Discretionary,Specialty Retail,600,740,73.22,79.68
+156,90-4321320,2022-01-27,2022-03-29,First Class,PQV-383,A,US,West Vanessaburgh,Florida,05717,Region 4,ITQU72988282291944,Consumer Discretionary,Multiline Retail,9600,650,36.82,453.09
+157,50-8410293,2022-03-19,2022-04-02,Standard Class,WM4 D7F,D,US,Wilsonbury,Texas,38286,Region 2,NQPM70207001556696,Health Care,Biotechnology,5200,770,20.76,918.92
+158,75-7088677,2022-03-15,2022-04-02,Standard Class,HNT 632,B,US,South Lauren,Kansas,76791,Region 2,DEFG47043703272118,Real Estate,Equity Real Estate Investment Trusts,4400,610,32.94,890.65
+159,32-3111693,2022-01-12,2022-01-23,Second Class,9GWK 76,B,US,Charlotteborough,West Virginia,98587,Region 1,JMYT18360377803032,Consumer Discretionary,Auto Components,2600,860,67.64,4.22
+160,20-1713188,2022-03-26,2022-03-31,First Class,VB-5991,B,US,Alexfurt,South Carolina,32035,Region 1,WMUF81678611729747,Information Technology,Semiconductors & Semiconductor Equipment,2300,990,85.13,448.52
+161,62-5906963,2022-04-02,2022-04-05,Standard Class,035 VHO,A,US,West Johnfort,Indiana,11947,Region 3,YBWX13704227859379,Industrials,Road & Rail,9000,710,98.82,610.59
+162,37-2639009,2022-02-14,2022-03-12,Second Class,YAB-836,D,US,Matthewshire,California,37045,Region 3,STMS82008992114679,Utilities,Multi-Utilities,5600,740,42.18,920.09
+163,80-8421259,2022-01-13,2022-03-07,Standard Class,38R 514,A,US,New Jason,Tennessee,11923,Region 3,AKTU33303252184890,Industrials,Marine,1700,580,69.38,612.91
+164,11-4515923,2022-03-04,2022-03-18,Standard Class,324-BYN,C,US,Lake Heather,Alabama,48683,Region 1,XHFT09473406039120,Financials,Capital Markets,7200,720,12.73,859.91
+165,40-9034803,2022-02-18,2022-03-14,Second Class,1GS7440,A,US,West Steven,Utah,00873,Region 1,TIJF37070651303046,Utilities,Independent Power and Renewable Electricity Producers,600,190,63.92,439.26
+166,26-1715727,2022-03-15,2022-04-09,Second Class,819-DAY,C,US,Bobbyborough,South Dakota,30578,Region 3,LGCP03174090312538,Consumer Discretionary,Specialty Retail,9500,610,38.7,217.14
+167,84-4885750,2022-03-29,2022-04-04,Standard Class,KQ9 W3V,C,US,Lake Kristin,New Jersey,34127,Region 1,XHGQ28804872745454,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",2600,820,66.02,719.42
+168,88-3847282,2022-03-21,2022-03-22,Second Class,078AA,D,US,South Melissaport,Tennessee,49755,Region 4,WCET50658547410366,Industrials,Machinery,9700,290,50.0,617.77
+169,73-2398532,2022-01-07,2022-02-19,Standard Class,26AG1,D,US,Richmondmouth,Indiana,00544,Region 4,PBOC38965452903118,Telecommunication Services,Wireless Telecommunication Services,4200,450,70.02,205.43
+170,99-1389095,2022-01-22,2022-02-19,Second Class,YVS-522,D,US,New John,Virginia,89077,Region 0,LSZX84726528892874,Consumer Discretionary,Specialty Retail,6900,480,34.71,714.37
+171,95-2503227,2022-04-02,2022-04-08,First Class,839 QBZ,B,US,Monicaville,California,48151,Region 4,DIUA76897092908370,Telecommunication Services,Diversified Telecommunication Services,6100,340,17.82,808.25
+172,56-6194759,2022-02-20,2022-03-03,Second Class,ORB-868,D,US,Vegaberg,Colorado,70234,Region 3,IBAI16843764841538,Information Technology,Internet Software & Services,1100,840,93.22,93.53
+173,26-0453765,2022-04-05,2022-04-07,Second Class,706 ZBX,B,US,Crystalton,Pennsylvania,42706,Region 4,UBZQ64895250505589,Health Care,Health Care Equipment & Supplies,2500,780,64.55,19.18
+174,67-1198227,2022-03-14,2022-03-23,Standard Class,839 FHN,A,US,Rogerview,Texas,17449,Region 0,QSEI12688073874606,Consumer Staples,Tobacco,2300,820,0.21,326.07
+175,34-5365114,2022-01-06,2022-03-07,Standard Class,86-7142L,A,US,Armstrongchester,Maryland,92970,Region 0,NYWK24406396524596,Financials,Insurance,6000,330,41.97,238.42
+176,25-5307051,2022-03-22,2022-04-08,Second Class,17J•432,A,US,Lawrenceton,Arkansas,83176,Region 2,ZAYK58678093074204,Energy,Energy Equipment & Services,3900,460,59.61,18.1
+177,71-4484002,2022-04-06,2022-04-08,Second Class,ZMW 973,D,US,East Donaldside,Georgia,76076,Region 4,OQVQ20208679427031,Telecommunication Services,Diversified Telecommunication Services,4000,620,24.61,983.59
+178,35-3327086,2022-01-11,2022-03-03,First Class,RBF 182,A,US,Craigborough,Illinois,89933,Region 4,VYFZ06935929891458,Real Estate,Equity Real Estate Investment Trusts,2200,250,95.92,834.29
+179,38-4148535,2022-01-26,2022-03-09,First Class,38C 2839,A,US,East Marcland,Indiana,59955,Region 4,QMXK68945618913650,Real Estate,Real Estate Management & Development,6900,870,46.43,528.16
+180,87-3230423,2022-02-19,2022-03-19,First Class,8-49709,B,US,Mauriceland,New York,88635,Region 1,AGNY92401088190185,Health Care,Biotechnology,9600,960,17.14,333.98
+181,22-2089930,2022-02-06,2022-02-28,First Class,ZG4 C6F,C,US,Changberg,Iowa,01898,Region 1,FLHV23197337296279,Energy,"Oil, Gas & Consumable Fuels",9400,920,85.81,307.89
+182,94-8858950,2022-03-06,2022-03-28,Standard Class,WYE-208,B,US,Davidmouth,West Virginia,62640,Region 1,IPIF06886661672013,Industrials,Air Freight & Logistics,8500,890,43.32,597.32
+183,21-8452432,2022-01-23,2022-03-15,First Class,19Y B12,A,US,Garyport,New Jersey,05797,Region 4,JKQQ14879150124413,Consumer Discretionary,Automobiles,9900,250,56.23,801.72
+184,01-8596687,2022-01-20,2022-02-27,Second Class,LQS 969,B,US,Joycehaven,Wyoming,23397,Region 0,QGNI32994107889157,Consumer Discretionary,Diversified Consumer Services,6400,420,25.48,576.75
+185,13-4503107,2022-01-24,2022-03-03,Standard Class,2R 2143T,D,US,Kellershire,New Hampshire,44946,Region 1,YELS30658404298617,Energy,Energy Equipment & Services,9900,10,73.09,996.5
+186,64-1177258,2022-01-30,2022-03-24,Second Class,07P Z02,C,US,Sarahside,Arizona,09851,Region 1,YAPO63692443046696,Energy,"Oil, Gas & Consumable Fuels",1500,370,51.11,59.86
+187,47-8197258,2022-03-17,2022-03-26,Second Class,5006 FS,B,US,Clarkmouth,North Carolina,06009,Region 3,KPYT33678526867148,Financials,Banks,4600,670,34.68,998.26
+188,14-7156906,2022-01-09,2022-03-28,Standard Class,03SY783,B,US,Amandaburgh,Oklahoma,50959,Region 0,GKSG91924962458084,Real Estate,Equity Real Estate Investment Trusts,2400,510,0.7,523.92
+189,03-9410490,2022-02-02,2022-03-20,Standard Class,KPI3225,B,US,Aprilchester,Arkansas,90371,Region 1,CXLI75237465584370,Materials,Chemicals,1600,70,35.26,930.15
+190,57-1821531,2022-02-21,2022-03-01,Second Class,85P•834,B,US,North Nicholasbury,Missouri,77891,Region 0,IEQA78161582911940,Health Care,Health Care Providers & Services,8100,780,34.12,855.92
+191,88-8964099,2022-02-21,2022-03-09,First Class,75-RW25,C,US,Amyfort,South Dakota,75587,Region 3,HDDQ56336027443732,Health Care,Health Care Technology,7900,800,85.6,372.92
+192,47-2558071,2022-01-06,2022-04-02,First Class,H40-IBO,D,US,Carlosstad,Alaska,34178,Region 2,OSXP30619902239274,Industrials,Professional Services,3400,290,44.71,644.83
+193,21-6662352,2022-01-07,2022-03-12,Second Class,120 EHV,A,US,North Aimee,Nevada,22631,Region 1,DPSE12911165467238,Energy,"Oil, Gas & Consumable Fuels",4100,550,45.3,907.5
+194,91-3244179,2022-03-30,2022-04-05,First Class,F29 0VV,A,US,Longside,South Dakota,17916,Region 2,TDTK11125258866433,Consumer Discretionary,Specialty Retail,3600,830,42.6,812.55
+195,58-8240430,2022-02-14,2022-03-26,First Class,831 BZU,A,US,Lake Gary,Missouri,55894,Region 0,KPKU89744883470899,Utilities,Electric Utilities,9800,260,61.77,245.22
+196,65-8655387,2022-03-09,2022-03-16,Standard Class,4UL2683,C,US,Amandaville,Missouri,27626,Region 0,CLIF50591189172852,Energy,"Oil, Gas & Consumable Fuels",4700,320,89.77,45.42
+197,33-1876659,2022-01-06,2022-01-20,Standard Class,138-SMM,A,US,Boyleland,Rhode Island,28145,Region 2,FCPL56313252949396,Consumer Staples,Food & Staples Retailing,3100,160,78.97,828.43
+198,63-6213342,2022-04-08,2022-04-09,First Class,1Q 8F5XUG,D,US,Williamsburgh,Michigan,38965,Region 1,MFCP30523126602168,Real Estate,Equity Real Estate Investment Trusts,7100,390,3.54,971.83
+199,01-5920871,2022-03-10,2022-03-11,First Class,111 2HR,A,US,Lake Nancymouth,Oregon,30616,Region 4,ZJQW97826310340547,Consumer Staples,Personal Products,1500,190,28.95,925.74
+200,83-6265049,2022-02-07,2022-04-03,Second Class,8ED Z25,B,US,New Michelleview,Oregon,40177,Region 4,GHLO54831699835803,Health Care,Health Care Technology,4500,50,32.88,308.66
+201,59-2448130,2022-02-26,2022-03-08,First Class,MK4 1746,A,US,Timothyport,New York,77227,Region 4,CPIF07818047292996,Financials,Consumer Finance,10000,560,56.28,166.55
+202,64-1033462,2022-01-10,2022-03-29,First Class,YGA4167,C,US,Davidfurt,Indiana,03538,Region 4,WEXL34362094715434,Energy,Energy Equipment & Services,7500,780,74.72,651.64
+203,48-7413302,2022-01-15,2022-03-04,Standard Class,VBB 867,D,US,East Colin,Delaware,64278,Region 0,AFRN40008648666021,Industrials,Industrial Conglomerates,5700,120,79.45,233.99
+204,99-1434902,2022-01-28,2022-03-19,First Class,ZT 6579,A,US,West Carolyn,Minnesota,58644,Region 3,JTPO50713716906356,Consumer Discretionary,Household Durables,9000,970,6.36,27.21
+205,53-9384665,2022-03-08,2022-03-08,Standard Class,5I D2768,B,US,Alexandraberg,Ohio,05335,Region 0,UMBV20597511397418,Energy,"Oil, Gas & Consumable Fuels",1600,490,81.46,998.08
+206,48-4984997,2022-02-07,2022-03-11,First Class,067 HTW,B,US,South Kelly,Tennessee,90808,Region 2,JKOZ97679832253970,Information Technology,Communications Equipment,3900,620,3.11,964.23
+207,02-2615640,2022-04-05,2022-04-07,First Class,FVM B97,A,US,Paulmouth,Alaska,89553,Region 4,UCZC89178670187699,Telecommunication Services,Wireless Telecommunication Services,4900,850,64.08,403.15
+208,47-1651587,2022-01-29,2022-02-19,First Class,06W 2657,C,US,Cassandrachester,Nebraska,86537,Region 3,EQVT06364231816683,Utilities,Independent Power and Renewable Electricity Producers,7300,330,23.96,753.75
+209,59-9922821,2022-01-25,2022-01-28,Standard Class,56D 531,B,US,Sarahside,Michigan,09992,Region 0,IXJY92788625317479,Information Technology,Software,5600,640,20.14,480.93
+210,71-2789809,2022-03-20,2022-03-21,Second Class,432-EYMY,A,US,North Crystal,Mississippi,62682,Region 3,RSCQ72108518549560,Information Technology,"Technology Hardware, Storage & Peripherals",1700,900,69.03,683.52
+211,63-3349812,2022-03-14,2022-04-04,Second Class,278 QVN,A,US,Lake Benjaminchester,Hawaii,83337,Region 0,UAGC11000175372122,Telecommunication Services,Wireless Telecommunication Services,8600,260,38.3,535.07
+212,63-2491266,2022-02-04,2022-03-25,First Class,949I,C,US,Maryside,Alaska,76891,Region 2,AGTN71486227813662,Health Care,Life Sciences Tools & Services,3900,950,10.88,135.57
+213,62-0499716,2022-02-16,2022-03-30,Second Class,UXY-280,B,US,Jaredport,Illinois,67602,Region 1,KOKD19990413009821,Consumer Discretionary,"Hotels, Restaurants & Leisure",7900,980,70.49,900.24
+214,23-4575975,2022-03-02,2022-03-15,Standard Class,AJY8685,C,US,West Jennifershire,Minnesota,03368,Region 3,VSVX00426303454364,Industrials,Transportation Infrastructure,1900,670,62.43,202.26
+215,44-1657836,2022-03-06,2022-04-07,First Class,0BB 984,A,US,New Tammy,California,14776,Region 0,RUCL63927457353255,Materials,Containers & Packaging,2600,610,50.78,104.53
+216,90-5775374,2022-03-10,2022-03-17,Second Class,WZK-5468,B,US,Migueltown,Montana,05485,Region 0,NMGC33994301236643,Consumer Staples,Tobacco,600,760,70.43,896.32
+217,68-6857626,2022-01-03,2022-02-01,Standard Class,20A D59,B,US,West Kimberlybury,Florida,32172,Region 2,QQCJ09565358383574,Energy,Energy Equipment & Services,7400,230,44.51,359.57
+218,68-9526774,2022-02-03,2022-03-12,Second Class,86P•933,C,US,New Michelle,Tennessee,49559,Region 3,VFVQ13431235823769,Health Care,Pharmaceuticals,2100,460,91.1,479.85
+219,55-7589916,2022-03-03,2022-03-24,First Class,645858,D,US,Lake Vanessa,Oklahoma,84829,Region 2,FWYT59505594620633,Information Technology,Semiconductors & Semiconductor Equipment,3200,930,23.69,217.53
+220,32-0856950,2022-03-17,2022-03-30,Standard Class,5R 50514,C,US,Pricetown,Florida,48618,Region 4,CYMC30955901193289,Information Technology,Semiconductors & Semiconductor Equipment,900,950,65.45,103.46
+221,54-3672029,2022-04-07,2022-04-08,Standard Class,1S 2N5ADY,A,US,Amandaborough,Rhode Island,16299,Region 2,ESYW27600929024001,Real Estate,Real Estate Management & Development,500,180,84.14,972.7
+222,04-2425462,2022-01-17,2022-02-01,Second Class,O20 4ZC,B,US,Greertown,Massachusetts,30849,Region 1,BMWF81767723456286,Consumer Staples,Household Products,8200,650,93.31,628.46
+223,14-2202475,2022-02-26,2022-04-02,Standard Class,47M S66,A,US,Rodneymouth,Massachusetts,39343,Region 2,OBRP25422967750023,Health Care,Health Care Technology,600,480,35.2,124.46
+224,06-1266110,2022-03-01,2022-04-06,First Class,XBA-7957,A,US,Port Teresaborough,Texas,84486,Region 1,RADT21671269528798,Utilities,Gas Utilities,7100,610,61.82,274.39
+225,15-9611381,2022-02-23,2022-03-01,Standard Class,JDB 2286,B,US,West Tina,Nevada,82777,Region 1,XKVY75753941509811,Materials,Construction Materials,7100,600,31.21,384.02
+226,85-0105632,2022-04-01,2022-04-02,Second Class,UTU2358,C,US,Martinezchester,Idaho,09884,Region 3,SSZT61569355851502,Industrials,Marine,5800,790,65.98,531.42
+227,44-7468864,2022-03-05,2022-03-21,First Class,ZCG 771,A,US,West Jenna,Hawaii,40290,Region 4,QWPN59089032180464,Industrials,Aerospace & Defense,5600,530,9.43,222.6
+228,03-6305179,2022-02-22,2022-03-26,First Class,HNG-5712,A,US,Ritamouth,Kentucky,41158,Region 0,ZFOA24718543436282,Energy,"Oil, Gas & Consumable Fuels",1600,110,53.43,761.53
+229,30-6444205,2022-03-12,2022-03-22,First Class,YXZ-2906,C,US,Michaeltown,Massachusetts,93910,Region 3,PJNW56166760740729,Real Estate,Equity Real Estate Investment Trusts,8800,480,49.11,56.19
+230,43-8475649,2022-03-25,2022-04-09,Second Class,336-PUC,C,US,East William,Nebraska,32721,Region 2,RMXB55152716837885,Materials,Paper & Forest Products,1700,780,78.96,435.44
+231,66-5989546,2022-02-19,2022-03-28,Standard Class,160 XZP,D,US,South Laurashire,Arkansas,29068,Region 4,SEDQ69700821991205,Energy,Energy Equipment & Services,6200,410,90.66,814.48
+232,37-4313315,2022-01-18,2022-03-18,Second Class,O60 0DZ,C,US,South John,Rhode Island,66098,Region 2,CAPU36182682381835,Consumer Staples,Household Products,7100,660,52.68,770.05
+233,67-1944586,2022-04-06,2022-04-06,Standard Class,G30 1DL,C,US,South Tammyshire,Indiana,95739,Region 4,AOPB58335904896554,Consumer Staples,Food Products,2000,530,57.52,429.42
+234,15-6727661,2022-02-11,2022-04-07,Second Class,566-QZN,A,US,East Connor,Connecticut,97926,Region 4,YFJL62866180785964,Information Technology,Communications Equipment,1900,330,7.75,327.31
+235,30-7458398,2022-04-01,2022-04-05,Second Class,140221,C,US,East Marie,Rhode Island,23254,Region 3,COSW64864787806944,Materials,Containers & Packaging,5000,420,14.92,640.21
+236,10-5643508,2022-01-26,2022-03-14,First Class,MXT 995,A,US,Amandamouth,New Hampshire,56031,Region 1,TYEO41303641316476,Industrials,Construction & Engineering,7300,530,84.09,225.42
+237,76-5313755,2022-02-04,2022-03-08,First Class,567 JDO,B,US,Jacobsport,Texas,35418,Region 3,ZDFN92729221399147,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",2900,470,6.09,443.35
+238,06-4750507,2022-01-08,2022-03-05,First Class,307BEJ,D,US,New Reneechester,Washington,45248,Region 4,IVEV62569206670324,Energy,Energy Equipment & Services,1100,930,14.2,425.4
+239,06-5378985,2022-03-06,2022-03-30,Standard Class,894-MOMC,A,US,North Sarashire,Hawaii,19099,Region 1,BNPH63995566977313,Industrials,Professional Services,2300,420,95.72,331.21
+240,06-5330660,2022-02-06,2022-02-10,Second Class,07-V932,A,US,Stuartberg,Washington,41680,Region 3,QJMR47452695398864,Telecommunication Services,Wireless Telecommunication Services,9900,900,34.92,110.86
+241,82-0811395,2022-04-06,2022-04-06,Standard Class,01-89752,C,US,New Erin,Utah,65849,Region 4,WCNC76579521682989,Utilities,Gas Utilities,7100,640,70.73,924.23
+242,03-9158391,2022-04-02,2022-04-02,Standard Class,IDO 853,A,US,Port Barbaraside,Kentucky,47562,Region 4,ZRFG63717860448605,Real Estate,Real Estate Management & Development,3700,830,85.68,394.28
+243,12-2282035,2022-01-03,2022-02-21,First Class,M38 7DW,B,US,Barrettstad,Idaho,32027,Region 3,ACAI27621462679879,Industrials,Marine,700,510,51.49,202.19
+244,16-0093720,2022-01-04,2022-02-20,First Class,KTX 723,A,US,Tammychester,West Virginia,04772,Region 1,IWCE46126027765048,Utilities,Electric Utilities,5000,910,21.39,133.47
+245,13-0992887,2022-03-21,2022-03-27,First Class,P87-GXO,C,US,Bowmanstad,Missouri,15523,Region 0,GUBX84133316670616,Materials,Construction Materials,7900,330,40.34,115.18
+246,64-5347905,2022-01-26,2022-02-18,First Class,1IC B02,D,US,Pinedaview,Ohio,74053,Region 2,PBQH71239004667472,Consumer Discretionary,"Hotels, Restaurants & Leisure",4500,440,27.23,998.46
+247,36-5720378,2022-02-16,2022-04-05,Standard Class,LAQ 128,C,US,East Cassidy,Massachusetts,05936,Region 1,BFQD04183892013986,Consumer Discretionary,Specialty Retail,7000,70,19.27,329.69
+248,75-7680077,2022-03-12,2022-03-25,Second Class,312JI,B,US,East Kaylaville,Maryland,92118,Region 3,JBRC72628347973316,Health Care,Life Sciences Tools & Services,9900,440,46.99,16.57
+249,46-9247199,2022-01-26,2022-03-06,Standard Class,KZE 819,D,US,East Brittney,Pennsylvania,16846,Region 2,SGBT00514814901214,Health Care,Health Care Equipment & Supplies,500,260,89.7,913.44
+250,61-6354755,2022-01-14,2022-02-03,Second Class,7OC3579,B,US,Heathton,Rhode Island,87231,Region 0,FQWR11194015748749,Consumer Discretionary,Diversified Consumer Services,6400,60,9.03,596.65
+251,12-1536132,2022-02-15,2022-03-02,First Class,2P 5550Y,C,US,New Ryan,North Dakota,17674,Region 3,IONG62413311959631,Utilities,Independent Power and Renewable Electricity Producers,6200,870,84.78,255.67
+252,90-2964238,2022-02-20,2022-03-13,Standard Class,27-06741,C,US,Whiteshire,Kentucky,42258,Region 1,CJAK75734965024376,Information Technology,Communications Equipment,3100,280,63.28,404.55
+253,86-5046138,2022-01-05,2022-01-09,Standard Class,RG 61402,B,US,South Renee,New Hampshire,24076,Region 4,RFPQ95106939357021,Health Care,Health Care Technology,2100,100,13.72,176.23
+254,27-9984087,2022-01-14,2022-02-26,First Class,90B X83,C,US,New Christineland,Arizona,48932,Region 3,UZVF90289177663733,Financials,Capital Markets,2900,320,73.57,225.22
+255,77-5923398,2022-01-23,2022-02-26,First Class,9EA8676,D,US,Huangton,Wyoming,92407,Region 0,XOIM49023883626243,Health Care,Life Sciences Tools & Services,6200,970,72.77,533.6
+256,02-8906725,2022-02-14,2022-03-23,First Class,T12-AQY,D,US,Port Donald,Arkansas,27944,Region 3,JXVK37015900508531,Information Technology,Communications Equipment,1200,240,21.94,56.16
+257,87-9047613,2022-02-26,2022-02-28,Standard Class,KAN 466,D,US,Burnsbury,Colorado,49042,Region 0,WCYB58286243034834,Information Technology,Software,700,120,39.67,723.12
+258,48-5165886,2022-01-09,2022-03-26,Second Class,33PB891,C,US,North John,Florida,01350,Region 3,FKLM39635147345385,Consumer Staples,Food Products,8500,90,46.22,809.2
+259,57-8178991,2022-03-19,2022-04-06,Second Class,E96-87Y,C,US,Taylorchester,New Jersey,06212,Region 3,VGWZ06014626419738,Health Care,Health Care Equipment & Supplies,200,200,20.05,602.78
+260,59-8527568,2022-02-13,2022-04-08,Second Class,38-Z089,C,US,Gayville,Nevada,54453,Region 3,EWRL92900232110040,Materials,Paper & Forest Products,1100,870,77.63,215.27
+261,83-4841066,2022-01-01,2022-01-01,First Class,758 YPG,B,US,Cookberg,Pennsylvania,42711,Region 2,JFYO08500268948397,Consumer Staples,Household Products,9800,430,56.07,872.32
+262,13-0908221,2022-01-27,2022-01-28,Standard Class,986C1,A,US,East Johnhaven,Alabama,05464,Region 3,XWVE10503678588160,Energy,Energy Equipment & Services,9900,340,52.99,600.67
+263,58-2764967,2022-03-01,2022-03-28,Second Class,I46-06F,D,US,Hallland,Maryland,84917,Region 4,XCVH59727267711612,Industrials,Marine,6900,420,68.81,202.16
+264,71-2118937,2022-01-04,2022-04-08,First Class,2133,D,US,Tranborough,Washington,23906,Region 2,LMAT72913527187348,Utilities,Electric Utilities,9000,180,53.21,898.27
+265,58-6055523,2022-02-19,2022-03-25,First Class,EMX-366,D,US,Kendrahaven,Missouri,09040,Region 4,ABPQ91013033862702,Financials,Banks,7400,770,37.9,904.42
+266,23-8960123,2022-03-11,2022-03-12,Standard Class,3Z 5117K,B,US,Pamelafurt,Delaware,85699,Region 4,EGWS09756786555352,Consumer Discretionary,Specialty Retail,1800,90,54.77,589.48
+267,66-6158759,2022-03-31,2022-04-05,Standard Class,6-1752E,D,US,New Kevinstad,West Virginia,18614,Region 4,DCLY21914062724015,Information Technology,Communications Equipment,6200,120,92.14,568.17
+268,85-8233374,2022-02-11,2022-04-02,Second Class,4RY 476,C,US,New Heatherstad,New Jersey,17140,Region 0,EDGH68306769554468,Financials,Capital Markets,8700,560,84.54,857.53
+269,63-3976360,2022-01-18,2022-02-15,Second Class,DVS-999,D,US,Jacksonborough,Maryland,27781,Region 3,IVZU02718131470112,Consumer Discretionary,"Hotels, Restaurants & Leisure",5500,880,5.93,990.94
+270,43-5338252,2022-02-05,2022-02-26,First Class,HII 119,C,US,South Isaacville,Alabama,83813,Region 3,LBYH45522955363858,Health Care,Health Care Technology,1000,70,50.91,61.84
+271,31-3587930,2022-04-02,2022-04-06,Second Class,YEY2695,D,US,South Nicoleton,Oregon,74507,Region 4,RWQV67161937821502,Consumer Staples,Household Products,8800,840,66.23,86.89
+272,26-0501597,2022-03-22,2022-03-22,Second Class,56O•662,D,US,West Marcia,Wisconsin,11471,Region 4,BNBK77005160899078,Consumer Discretionary,Specialty Retail,7200,60,1.01,588.57
+273,62-8477152,2022-02-15,2022-03-17,Standard Class,356-764,C,US,West Rhondatown,North Carolina,29555,Region 3,PWAR61118487160490,Consumer Staples,Personal Products,7900,710,54.07,658.18
+274,59-2842698,2022-03-06,2022-03-07,Second Class,2OK12,D,US,Lake Dawnchester,Ohio,07039,Region 2,GGCN73329410110229,Materials,Metals & Mining,7500,720,31.84,947.37
+275,22-1814714,2022-04-01,2022-04-07,Standard Class,VY9 6358,C,US,West Jackfurt,Hawaii,02065,Region 1,JAUS65025085965961,Health Care,Health Care Providers & Services,8900,940,63.31,604.68
+276,64-5215606,2022-01-05,2022-02-12,Second Class,OIJ-4912,A,US,Christinehaven,Nevada,79135,Region 0,CDCY98996659943877,Information Technology,IT Services,6800,450,51.11,814.16
+277,43-7750211,2022-04-07,2022-04-07,Standard Class,92Z 2267,D,US,Josephmouth,Connecticut,96594,Region 1,LZKW34512150687539,Information Technology,"Electronic Equipment, Instruments & Components",3300,680,6.89,661.84
+278,73-8985733,2022-01-19,2022-03-16,First Class,5O 2105U,A,US,Lake Sherry,Rhode Island,67448,Region 1,AAKR89437074691281,Financials,Insurance,5500,610,71.48,129.5
+279,43-7243522,2022-01-16,2022-03-13,Second Class,Z16 3DP,D,US,Dawnburgh,Louisiana,29893,Region 3,EECM69095438084465,Materials,Containers & Packaging,8900,900,37.33,723.52
+280,47-6056382,2022-04-01,2022-04-04,First Class,550-FNY,D,US,North Anthonyville,Pennsylvania,42941,Region 1,VSFO05291812053009,Energy,"Oil, Gas & Consumable Fuels",8500,900,60.82,353.26
+281,40-8604808,2022-02-24,2022-02-27,Second Class,366 0931,D,US,Kimberlychester,New Mexico,74876,Region 3,MTPN96480545096636,Information Technology,IT Services,8400,80,38.32,92.2
+282,44-0172378,2022-01-07,2022-03-15,Standard Class,80G RI1,B,US,Port Williamfurt,North Dakota,88286,Region 3,GTFB98891480756118,Financials,Capital Markets,8400,380,94.44,182.56
+283,06-0921198,2022-02-10,2022-02-25,First Class,222PGJ,D,US,Chenhaven,South Carolina,11435,Region 3,MPQN11104287609944,Utilities,Gas Utilities,6500,700,15.15,271.56
+284,52-7632876,2022-03-20,2022-03-30,Standard Class,9Y HF859,A,US,North Davidhaven,Wisconsin,27960,Region 0,EXBB16657801021038,Consumer Staples,Food Products,6300,170,39.57,555.83
+285,57-5952573,2022-04-04,2022-04-05,Standard Class,0RX 111,C,US,Russochester,Montana,80500,Region 4,CSHR75496950926379,Health Care,Health Care Technology,9200,80,66.26,662.81
+286,43-3179815,2022-04-04,2022-04-09,First Class,70B•643,B,US,South Lucas,Rhode Island,80162,Region 4,YXUZ27336695879834,Consumer Discretionary,Internet & Catalog Retail,600,170,87.47,221.63
+287,25-0573680,2022-03-25,2022-04-08,First Class,5T005,A,US,South Paulburgh,Hawaii,58717,Region 3,YOLI98383842574069,Consumer Staples,Personal Products,8400,100,22.03,196.82
+288,15-5990989,2022-01-06,2022-02-18,First Class,YYM 448,C,US,Port Stevenland,Missouri,99321,Region 1,DDQG71392700727691,Consumer Discretionary,Automobiles,4400,170,81.7,682.83
+289,68-2416049,2022-01-07,2022-02-28,First Class,KEV0671,B,US,North Adamfurt,Kansas,61944,Region 4,KQND37400914935253,Financials,Diversified Financial Services,1400,800,89.08,706.75
+290,88-7760070,2022-01-25,2022-02-07,First Class,1MC 282,B,US,Jenniferfort,New Mexico,21021,Region 0,BYRJ21695237600356,Real Estate,Equity Real Estate Investment Trusts,9400,950,34.84,555.95
+291,42-8505793,2022-01-19,2022-02-25,First Class,JRV-3167,D,US,Stanleyview,New Jersey,82362,Region 1,LGEH21598767718266,Consumer Discretionary,Distributors,1100,710,9.41,758.16
+292,54-4419182,2022-03-15,2022-03-29,Standard Class,731-714,D,US,Campbellside,Ohio,74391,Region 0,MGDX38607359353183,Materials,Paper & Forest Products,7000,200,12.31,852.42
+293,22-9490618,2022-02-01,2022-03-08,First Class,789 UQL,C,US,West Debbie,North Dakota,64522,Region 2,NLJK48197063210394,Information Technology,"Technology Hardware, Storage & Peripherals",4000,950,53.68,55.1
+294,62-6772847,2022-01-11,2022-03-01,Standard Class,N41 9MP,B,US,Riverafurt,Kentucky,91717,Region 0,VZIG98270533420894,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",4400,500,27.17,426.0
+295,41-1894253,2022-02-07,2022-02-22,Second Class,751 BLR,B,US,Mortonchester,Michigan,98415,Region 3,OWGL59472750754616,Health Care,Biotechnology,3600,40,91.77,515.0
+296,10-9980082,2022-03-01,2022-04-08,Standard Class,NEM-621,C,US,Joshuaborough,Mississippi,80042,Region 0,HIKQ50715437115772,Information Technology,"Technology Hardware, Storage & Peripherals",5900,990,98.31,904.85
+297,41-2837497,2022-04-01,2022-04-02,First Class,71-68570,C,US,Jenniferfurt,Arkansas,84219,Region 4,CXPW69671158759443,Real Estate,Real Estate Management & Development,1600,450,80.39,710.51
+298,71-7081752,2022-03-09,2022-04-06,Second Class,ASZ-6432,A,US,East Melissafort,Vermont,34634,Region 3,HLBE44370940091256,Telecommunication Services,Diversified Telecommunication Services,3100,110,93.85,595.02
+299,76-5800390,2022-02-05,2022-03-22,First Class,F98-91Q,C,US,Christineton,South Carolina,34295,Region 0,VCFZ92421381670849,Financials,Banks,2800,280,59.01,409.62
+300,01-5861583,2022-01-10,2022-01-17,First Class,516-HLK,B,US,Leonardstad,California,67569,Region 4,JXTH76947164734005,Information Technology,Internet Software & Services,5800,820,86.65,527.66
+301,11-3219316,2022-03-12,2022-03-30,First Class,BOH 891,B,US,North Feliciaville,Mississippi,68457,Region 3,WXVR22859842881713,Telecommunication Services,Diversified Telecommunication Services,4300,460,32.75,816.09
+302,68-1897581,2022-01-26,2022-01-28,Standard Class,9-49710T,A,US,Lake Michellechester,Indiana,00946,Region 0,TWVE17067076516481,Telecommunication Services,Diversified Telecommunication Services,100,70,80.21,249.05
+303,24-6338998,2022-03-02,2022-03-12,Standard Class,DPP-0842,C,US,Amandaville,New York,31806,Region 2,JDED60383838161541,Utilities,Multi-Utilities,400,300,93.96,377.8
+304,12-8723219,2022-01-09,2022-03-30,First Class,269T8,C,US,North Staceyville,New Mexico,95591,Region 2,VCGR75901847413023,Real Estate,Real Estate Management & Development,3400,540,8.11,215.69
+305,64-7309369,2022-03-03,2022-03-13,Standard Class,26AU2,A,US,South Christopherview,North Dakota,81747,Region 4,ITQG43827294282908,Energy,"Oil, Gas & Consumable Fuels",1000,480,63.31,609.33
+306,13-0171466,2022-01-20,2022-03-22,First Class,JG 92114,B,US,West Nicole,Arizona,92542,Region 1,DENR35699094553719,Consumer Discretionary,Specialty Retail,7900,850,39.78,137.75
+307,98-3772800,2022-01-25,2022-02-22,Second Class,VJN 921,A,US,West Cindy,Nebraska,47722,Region 2,KDPB11616519692313,Information Technology,Semiconductors & Semiconductor Equipment,2100,880,60.19,137.72
+308,57-9759847,2022-02-22,2022-03-31,Second Class,177-MCB,D,US,Ellisonbury,New Jersey,79504,Region 0,GNNF78452508778148,Telecommunication Services,Wireless Telecommunication Services,8100,390,53.18,772.44
+309,48-9043274,2022-01-12,2022-02-01,Standard Class,4IS 007,D,US,Tristanview,Michigan,68693,Region 4,BCZX72635748053208,Materials,Paper & Forest Products,4800,550,11.95,938.45
+310,52-7091036,2022-03-14,2022-03-29,Standard Class,1IIT221,C,US,Port Tyler,Idaho,05386,Region 1,JBWO66892135403707,Materials,Metals & Mining,9500,540,6.69,737.17
+311,39-1997659,2022-04-05,2022-04-06,First Class,ZXK 664,D,US,Patriciatown,Delaware,74187,Region 0,AAIZ28038598284994,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",1800,280,91.56,110.13
+312,98-6422524,2022-01-07,2022-02-12,First Class,5BJ9415,A,US,Leefurt,South Carolina,35990,Region 4,RFSD94100693474914,Financials,Capital Markets,1100,360,87.98,870.06
+313,13-0026539,2022-01-04,2022-01-20,Standard Class,48MW0,C,US,Riverafort,Florida,70028,Region 1,FJDE60020412106271,Telecommunication Services,Diversified Telecommunication Services,3000,470,95.9,773.81
+314,52-8654850,2022-03-18,2022-04-01,Standard Class,8-12700,C,US,East Tylerville,Florida,74677,Region 3,ITAA03324095019617,Financials,Banks,5900,380,61.08,858.91
+315,10-3688606,2022-01-21,2022-04-04,Second Class,RMI-0828,C,US,New Jeffreyview,Wyoming,42238,Region 1,RGIF43623479450980,Consumer Discretionary,Distributors,9900,160,30.63,543.88
+316,74-9268755,2022-03-22,2022-04-02,Standard Class,WV-1732,A,US,North Andrewmouth,West Virginia,92105,Region 0,CGSO74703419002570,Financials,Thrifts & Mortgage Finance,3200,10,57.54,161.33
+317,87-5230772,2022-02-03,2022-03-17,Second Class,190 PZR,D,US,Ramirezfort,Indiana,80883,Region 4,GXNM11737161437813,Health Care,Life Sciences Tools & Services,700,650,54.3,175.56
+318,04-8583147,2022-04-02,2022-04-06,Standard Class,2NL Z37,B,US,Stevenberg,Iowa,66423,Region 4,OOJI36192931811711,Real Estate,Real Estate Management & Development,2500,180,90.55,356.89
+319,54-1841919,2022-01-21,2022-03-23,Standard Class,HPY-2307,B,US,New Elizabeth,Kansas,04473,Region 0,NOJE36647635618250,Real Estate,Equity Real Estate Investment Trusts,9700,280,22.58,62.43
+320,76-4731984,2022-03-11,2022-04-05,Standard Class,3-29018,C,US,Lake Lindaberg,Kansas,55818,Region 2,MKAV85102783692668,Financials,Consumer Finance,4400,580,43.17,943.11
+321,87-0191422,2022-01-16,2022-01-31,Second Class,ABG-7483,D,US,Melissaside,Maryland,45376,Region 2,IFFN57488750730634,Consumer Staples,Food Products,4000,90,12.15,710.0
+322,45-5265613,2022-03-24,2022-03-28,First Class,LGO 914,D,US,Andersonbury,Alaska,18960,Region 0,QXLI93894121405682,Information Technology,"Electronic Equipment, Instruments & Components",3700,10,17.55,11.89
+323,71-8240609,2022-03-24,2022-03-27,Standard Class,317-ZTRB,A,US,East Linda,Wisconsin,39708,Region 3,UTCO36287330479873,Financials,Thrifts & Mortgage Finance,3300,800,1.75,399.57
+324,77-6108174,2022-03-19,2022-03-31,Standard Class,108-HHY,C,US,Wrightmouth,Delaware,96735,Region 0,ZZYU15395850052384,Industrials,Air Freight & Logistics,6800,200,65.34,259.28
+325,34-8040180,2022-01-20,2022-03-30,Second Class,11-23342,A,US,Ballside,Virginia,67721,Region 1,ZZPK94763850468104,Health Care,Biotechnology,4500,390,47.83,955.68
+326,06-7139896,2022-03-02,2022-04-03,Second Class,711 9SS,D,US,Port Patrick,Pennsylvania,57437,Region 1,OEAI56769291637025,Utilities,Water Utilities ,4800,470,90.88,914.53
+327,06-6257629,2022-03-12,2022-04-04,Standard Class,7GG8963,C,US,Lake Michaelshire,Hawaii,19950,Region 4,YAEA13790872143227,Materials,Metals & Mining,1800,200,64.48,962.29
+328,12-4018166,2022-03-04,2022-03-12,First Class,9JW P20,A,US,Jamesshire,South Carolina,11471,Region 1,AWSS76384315158584,Consumer Staples,Food & Staples Retailing,100,520,86.63,185.18
+329,52-9746719,2022-02-14,2022-03-26,Second Class,ZVK 619,D,US,South Jeffreytown,Colorado,92760,Region 1,MHWC00103904061548,Health Care,Health Care Technology,3200,140,92.21,336.91
+330,42-9619375,2022-01-06,2022-03-09,First Class,R49-DAO,C,US,Simsland,Hawaii,90192,Region 0,QHGI73058572821268,Energy,"Oil, Gas & Consumable Fuels",5200,130,54.81,428.2
+331,93-6652477,2022-03-29,2022-04-04,First Class,537P,A,US,Lake Patrickberg,Nevada,78777,Region 4,WLLA12743872273032,Consumer Staples,Food & Staples Retailing,5400,520,4.82,384.25
+332,75-5066192,2022-01-25,2022-02-14,Second Class,52X OY1,C,US,Antoniochester,New Jersey,90597,Region 1,TQAH59971671261241,Materials,Containers & Packaging,4700,150,96.81,69.62
+333,71-4991116,2022-03-07,2022-03-29,First Class,631 ZLB,B,US,Tylerside,Colorado,24409,Region 3,TAPV61433905415811,Real Estate,Real Estate Management & Development,800,640,1.52,343.67
+334,41-6319892,2022-03-08,2022-03-27,First Class,CYH-9788,D,US,Lake Christopher,Iowa,87346,Region 3,MAQP31301863583084,Health Care,Pharmaceuticals,1800,960,24.26,71.99
+335,67-4925314,2022-03-01,2022-03-28,First Class,UOI-7488,A,US,West Sarah,Kentucky,18709,Region 3,FFHK28638201750670,Real Estate,Equity Real Estate Investment Trusts,1200,610,88.63,147.12
+336,81-2415749,2022-02-17,2022-03-08,First Class,6KI 423,C,US,Ethantown,Louisiana,75242,Region 1,DQMY16727808871766,Consumer Staples,Household Products,10000,1000,79.13,66.27
+337,32-2065913,2022-03-01,2022-03-12,Second Class,1-33282,B,US,East Samanthaton,Arizona,23490,Region 3,FNNS18821684689574,Industrials,Road & Rail,7900,100,92.4,340.09
+338,16-5039501,2022-02-19,2022-04-08,First Class,SWI 943,A,US,Briannaberg,Arkansas,81876,Region 4,RKRF73806036996749,Consumer Staples,Personal Products,3200,660,95.12,604.31
+339,35-0634629,2022-02-03,2022-02-17,First Class,G64 2RC,C,US,Marcusview,Florida,32861,Region 0,BCFE20625156980847,Real Estate,Equity Real Estate Investment Trusts,300,700,87.86,646.06
+340,62-2897485,2022-02-18,2022-03-17,Second Class,08B 082,A,US,Lauraport,Colorado,59637,Region 2,TRYK08006945941353,Telecommunication Services,Wireless Telecommunication Services,4100,910,2.23,916.26
+341,25-6761711,2022-03-24,2022-04-06,Second Class,MZD 590,B,US,East Kevin,South Dakota,41583,Region 0,EIWS39778548050242,Materials,Construction Materials,3000,990,61.54,607.79
+342,92-8948979,2022-01-15,2022-03-08,First Class,98-FX84,B,US,Marthamouth,Washington,92520,Region 1,KGZG08691995399299,Consumer Staples,Food & Staples Retailing,1000,750,83.93,630.86
+343,66-0206891,2022-04-04,2022-04-04,Second Class,393039,C,US,Ryanbury,Tennessee,37692,Region 4,VFHY96460276177314,Industrials,Marine,7800,130,78.8,318.87
+344,82-2602161,2022-02-14,2022-04-02,Standard Class,HQJ 101,D,US,East Leslietown,Colorado,46582,Region 2,DFLA92844740191640,Real Estate,Real Estate Management & Development,7400,770,57.3,725.11
+345,37-1756146,2022-01-07,2022-02-15,Standard Class,OW1 1015,B,US,Christopherview,Iowa,68638,Region 0,KKFI45470782026819,Financials,Capital Markets,7800,800,28.32,121.93
+346,86-7266170,2022-03-10,2022-03-30,Standard Class,4IA 438,D,US,Arnoldburgh,Maine,04226,Region 1,YRSJ21601242783159,Consumer Staples,Beverages,6700,420,96.36,539.39
+347,94-1037909,2022-02-02,2022-03-01,First Class,36T 2718,D,US,Juantown,Maryland,93936,Region 2,RQLC73180688728587,Health Care,Health Care Providers & Services,9800,640,71.79,654.85
+348,52-9962554,2022-01-21,2022-04-04,First Class,KD 29886,D,US,Port Ryan,Georgia,76144,Region 1,VYGX97215524234873,Utilities,Electric Utilities,9400,500,12.0,437.97
+349,04-7313343,2022-02-11,2022-02-21,Second Class,320-GZQ,D,US,North Sharonburgh,Texas,65320,Region 4,QPII35242000859788,Telecommunication Services,Wireless Telecommunication Services,1300,540,5.72,654.59
+350,47-5136431,2022-01-20,2022-02-27,First Class,7YT V75,B,US,Gilbertland,Mississippi,74507,Region 1,ANHH61671375181031,Utilities,Gas Utilities,5200,770,21.16,856.83
+351,37-3465694,2022-02-13,2022-04-04,Second Class,962 NLC,A,US,North Mary,Oklahoma,08510,Region 4,CRLJ08047717478927,Telecommunication Services,Diversified Telecommunication Services,600,820,81.09,160.68
+352,50-9801042,2022-01-21,2022-02-20,First Class,818U4,A,US,Brittanymouth,Colorado,25903,Region 3,ZMBT12478800611051,Telecommunication Services,Wireless Telecommunication Services,2500,700,82.64,429.95
+353,60-5047414,2022-01-20,2022-03-06,First Class,064 8LO,B,US,West Tiffany,New Jersey,53049,Region 2,ZSHW86271786336564,Financials,Mortgage REITs,9800,300,20.82,158.05
+354,91-5474658,2022-03-26,2022-03-30,Standard Class,3-2789J,D,US,Josephchester,New Hampshire,68292,Region 2,IGWJ97727217138337,Consumer Staples,Food Products,3400,100,68.36,55.85
+355,04-7594996,2022-02-28,2022-03-04,Second Class,522PVP,C,US,Christinaport,Maine,68883,Region 4,VOQD21199949894361,Energy,Energy Equipment & Services,5900,830,23.09,694.62
+356,65-2109337,2022-03-04,2022-04-04,Second Class,LCT-8400,A,US,West Danny,Maryland,94709,Region 0,ZEBP48352154894781,Financials,Diversified Financial Services,6400,70,82.71,793.67
+357,72-4024191,2022-01-17,2022-02-15,Standard Class,789 BXK,C,US,New Louisbury,Massachusetts,55162,Region 1,VJMX68676679425384,Telecommunication Services,Diversified Telecommunication Services,6700,260,74.52,820.51
+358,15-6163913,2022-01-09,2022-01-17,Standard Class,25-4113B,D,US,Lake Nichole,California,05471,Region 1,VVFU03969936517309,Consumer Staples,Food Products,5800,210,9.95,735.93
+359,93-0284918,2022-02-17,2022-03-31,First Class,992-MGO,A,US,Port Deanna,Delaware,46537,Region 3,WDTH83354534899875,Utilities,Water Utilities ,5600,380,68.89,465.06
+360,26-7191061,2022-03-27,2022-03-27,First Class,9954,C,US,West Ellenland,Wyoming,29221,Region 1,LIEW52944735657423,Utilities,Gas Utilities,1000,60,66.54,87.05
+361,45-6838851,2022-03-19,2022-03-30,Standard Class,3Q F2848,A,US,West Dannyport,Nevada,06727,Region 1,XUOX29343908713000,Industrials,Transportation Infrastructure,8000,650,27.5,421.48
+362,80-3853732,2022-02-18,2022-03-09,First Class,2P MO933,D,US,West Charlesmouth,Wisconsin,31464,Region 3,ICVR37092745275244,Information Technology,Internet Software & Services,900,140,60.73,603.65
+363,13-3430223,2022-02-25,2022-03-14,Second Class,L67 6WR,C,US,West Anthonyville,South Dakota,11904,Region 3,CLBV87482036622118,Consumer Discretionary,Multiline Retail,7400,920,69.81,199.26
+364,53-7341415,2022-01-10,2022-03-29,Standard Class,RHK 026,C,US,Robertburgh,North Dakota,71375,Region 2,DSSG21722840204865,Energy,Energy Equipment & Services,7000,260,80.36,414.28
+365,57-0796844,2022-03-29,2022-03-31,First Class,0R QT211,B,US,Lake Rachel,Michigan,47709,Region 0,JQBY39482642615889,Health Care,Life Sciences Tools & Services,500,460,24.39,92.64
+366,72-4205494,2022-02-10,2022-02-20,Standard Class,A61 5WH,B,US,Brooksville,Arkansas,15584,Region 4,GZBP29890038662152,Energy,Energy Equipment & Services,100,80,50.2,161.36
+367,65-9196553,2022-03-19,2022-04-08,Standard Class,3JC C45,A,US,Richardstad,New Jersey,25618,Region 1,LLHO95657382605136,Financials,Consumer Finance,1100,530,24.12,70.72
+368,34-6594914,2022-03-15,2022-04-06,Standard Class,MYH 058,B,US,Cristinafurt,North Dakota,99932,Region 4,EQAX86055191797262,Industrials,Construction & Engineering,7600,660,67.14,131.62
+369,39-0350840,2022-03-16,2022-03-22,First Class,KDF 369,C,US,Davenportfurt,Oregon,78196,Region 0,OVPZ40184493871164,Information Technology,"Technology Hardware, Storage & Peripherals",9800,40,36.21,341.19
+370,83-4321995,2022-01-08,2022-03-21,Second Class,429-748,D,US,Port Zachary,Alabama,04832,Region 3,MLHQ85740070672837,Health Care,Health Care Equipment & Supplies,3100,180,69.31,677.56
+371,99-3033844,2022-03-30,2022-04-07,Second Class,25KY160,A,US,Steelebury,New Jersey,51802,Region 4,BHKV03014154290683,Energy,Energy Equipment & Services,2800,860,24.06,678.01
+372,01-1982166,2022-03-04,2022-03-27,Standard Class,32-W396,A,US,South Samantha,Wyoming,17590,Region 0,UJFH03035554412957,Information Technology,IT Services,9600,400,9.34,278.44
+373,43-2801123,2022-01-06,2022-03-13,Standard Class,6-99702N,D,US,West Ashley,New York,97583,Region 1,DFWX32137729502024,Financials,Diversified Financial Services,9900,920,33.16,783.86
+374,64-6986413,2022-01-10,2022-03-15,First Class,NAB 696,A,US,Smithport,Hawaii,19483,Region 2,ZHFX07225492523083,Industrials,Air Freight & Logistics,9000,80,84.84,727.05
+375,14-1334400,2022-01-13,2022-02-10,Standard Class,73-7804Z,A,US,South Larryburgh,Iowa,83943,Region 2,QIDX29422238727913,Financials,Capital Markets,900,460,6.45,266.64
+376,54-4203195,2022-01-08,2022-01-12,Second Class,1612,A,US,Josephbury,Delaware,19965,Region 4,TAQP94252161154215,Real Estate,Real Estate Management & Development,200,860,61.75,933.6
+377,62-9580126,2022-01-04,2022-03-08,First Class,392-LUB,B,US,West Jamiemouth,Texas,14059,Region 1,QRDG99642334325787,Financials,Diversified Financial Services,6900,290,8.36,464.67
+378,85-6363200,2022-03-20,2022-04-05,First Class,2UQ F42,B,US,Katiechester,Kansas,91806,Region 0,XQTO20064389999073,Utilities,Multi-Utilities,6100,130,37.21,744.85
+379,52-9130217,2022-02-07,2022-02-12,First Class,359-AEP,A,US,Hensontown,Connecticut,18077,Region 0,NRAB99312497280936,Consumer Discretionary,Automobiles,7300,870,22.77,878.29
+380,82-4835948,2022-01-26,2022-03-06,Second Class,O56-10A,D,US,West Danny,Missouri,11848,Region 3,RRAZ76140251056361,Information Technology,IT Services,3800,380,67.61,921.59
+381,66-9624517,2022-01-22,2022-03-08,Second Class,202 SLK,C,US,Marshallside,Oregon,58608,Region 4,BDOQ17101023497334,Consumer Staples,Personal Products,6400,740,84.07,748.13
+382,34-2039102,2022-03-28,2022-04-06,First Class,50-EC93,D,US,Amyfort,Kentucky,50383,Region 0,CFBK26358108003545,Consumer Staples,Food Products,9200,460,5.7,332.72
+383,06-3953226,2022-03-11,2022-03-14,Standard Class,D00-49X,B,US,South Andrew,Missouri,91897,Region 1,LEZL52654004145633,Information Technology,Internet Software & Services,2500,10,81.88,640.2
+384,59-0185963,2022-04-01,2022-04-02,First Class,FZM 853,C,US,Stoneport,Utah,79191,Region 4,JBSB94164449014041,Financials,Diversified Financial Services,5400,640,55.32,101.2
+385,46-7946026,2022-01-29,2022-02-18,Second Class,584-ZMS,B,US,East Kristinside,Arizona,68987,Region 0,ZVME40025701171529,Energy,Energy Equipment & Services,1000,120,32.66,408.46
+386,20-1385347,2022-02-02,2022-02-14,First Class,SNX-822,B,US,Lesliebury,Kentucky,17423,Region 3,PTBF39182654989268,Industrials,Commercial Services & Supplies,1900,860,66.07,781.24
+387,55-9567454,2022-02-04,2022-02-23,First Class,515 OQE,C,US,East Jamesside,Arizona,64507,Region 2,DWIZ50447332028113,Energy,"Oil, Gas & Consumable Fuels",2100,40,58.31,944.02
+388,74-1354932,2022-03-09,2022-03-13,First Class,288-796,B,US,Rodgerston,Connecticut,64873,Region 4,IIJA67423823783101,Telecommunication Services,Diversified Telecommunication Services,1900,380,55.65,102.12
+389,42-6992826,2022-01-27,2022-03-19,Standard Class,347X,A,US,South Amy,North Carolina,83638,Region 4,OOXV44089713810980,Real Estate,Equity Real Estate Investment Trusts,5300,400,36.19,754.58
+390,75-3060216,2022-02-20,2022-02-27,Standard Class,507 JFZ,C,US,New Sylviaside,Arkansas,52969,Region 2,AMPJ53079828131969,Industrials,Professional Services,3900,320,22.36,209.03
+391,86-0020846,2022-03-19,2022-03-20,Second Class,2742 NV,A,US,Lake Michael,Missouri,14062,Region 2,JIXV80302625437009,Materials,Paper & Forest Products,1700,350,46.97,52.87
+392,37-0730235,2022-04-08,2022-04-08,First Class,979-QJG,D,US,South Marvinfort,New Jersey,76004,Region 3,QFWU92680131019887,Health Care,Biotechnology,7600,760,99.2,765.56
+393,26-6348263,2022-02-10,2022-03-02,First Class,6J456,D,US,North Josephfurt,Montana,52195,Region 4,FZSQ70905440811690,Real Estate,Equity Real Estate Investment Trusts,1700,110,43.71,847.84
+394,37-3224240,2022-01-26,2022-03-31,First Class,906 GAS,A,US,West Wendyville,North Carolina,34221,Region 3,JKSI62871114088281,Utilities,Multi-Utilities,6200,270,57.32,870.03
+395,35-1453784,2022-03-14,2022-03-16,Second Class,5065,C,US,East Drew,Tennessee,80203,Region 3,SAEQ77411180231701,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",1700,980,69.38,699.79
+396,55-6506433,2022-03-21,2022-03-26,First Class,WXI-9005,B,US,East Carol,North Dakota,70991,Region 1,MWAR73615131393373,Utilities,Gas Utilities,4200,510,88.98,563.48
+397,84-6742739,2022-04-03,2022-04-07,Second Class,443 GPQ,D,US,Reyesburgh,Arizona,47588,Region 2,LHWJ13838999079523,Health Care,Biotechnology,400,870,44.06,844.96
+398,06-4509076,2022-02-19,2022-03-27,Second Class,APF-1865,A,US,North Alan,New Jersey,73116,Region 1,VZMF92200549576772,Health Care,Life Sciences Tools & Services,800,450,99.29,629.72
+399,80-5568144,2022-01-24,2022-02-17,Second Class,940-XIM,B,US,East Eugenemouth,Virginia,50668,Region 0,TIIT25230663125739,Health Care,Pharmaceuticals,9500,240,54.71,25.04
+400,46-1322763,2022-03-25,2022-04-04,First Class,606 IVQ,A,US,New Jill,Indiana,72917,Region 4,PZTS15636076998289,Real Estate,Real Estate Management & Development,9300,760,40.44,645.4
+401,10-2159121,2022-01-04,2022-01-09,Second Class,65-G129,C,US,South Amanda,Vermont,36145,Region 3,FSTL90968457245125,Energy,"Oil, Gas & Consumable Fuels",1400,770,27.76,48.09
+402,88-7052103,2022-03-10,2022-03-31,First Class,7776,C,US,Lisastad,New Hampshire,22991,Region 0,SCCB52318305905344,Materials,Metals & Mining,8600,380,93.72,646.17
+403,21-6968908,2022-02-18,2022-02-27,Second Class,593NY,B,US,Kaylashire,New Hampshire,18990,Region 0,UVZG15490900307552,Industrials,Air Freight & Logistics,5600,910,9.38,112.76
+404,32-6305166,2022-01-01,2022-01-02,Second Class,23T US8,B,US,Pooleport,Maine,23558,Region 1,LKBV50767842166004,Health Care,Pharmaceuticals,8300,280,8.51,16.15
+405,23-2418655,2022-02-01,2022-04-09,First Class,054-511,C,US,Raymondshire,Maine,70627,Region 2,WWVB19399913357281,Telecommunication Services,Diversified Telecommunication Services,7300,550,92.26,417.23
+406,39-7883880,2022-04-01,2022-04-04,Standard Class,0M925,A,US,Rhondaport,Michigan,09999,Region 0,LEMC62553078339921,Materials,Paper & Forest Products,600,190,48.21,177.67
+407,77-0627418,2022-01-08,2022-01-15,Standard Class,SBC 875,B,US,Williambury,Virginia,92087,Region 1,TQRN14820712615538,Health Care,Pharmaceuticals,3600,800,86.88,421.78
+408,77-2164507,2022-03-18,2022-04-01,Standard Class,PM0 V1J,C,US,Lake Alanview,Iowa,75893,Region 2,DROS95114188531949,Materials,Metals & Mining,2900,500,74.16,715.96
+409,59-2734849,2022-01-26,2022-03-19,Standard Class,837 SLS,C,US,North Kathryn,New Hampshire,68937,Region 0,NYOR95273555989481,Telecommunication Services,Diversified Telecommunication Services,3300,90,68.78,220.06
+410,31-6821360,2022-02-10,2022-03-20,Standard Class,UD7 2797,D,US,West Christina,Indiana,51950,Region 2,SZOP70823640965274,Real Estate,Real Estate Management & Development,9000,650,54.43,305.2
+411,47-3200767,2022-04-07,2022-04-07,First Class,YKF-8247,A,US,East Jeffrey,Washington,29356,Region 0,FXPJ32526606686013,Industrials,Aerospace & Defense,5400,160,97.09,345.55
+412,35-3656789,2022-01-05,2022-01-23,Standard Class,420-837,C,US,West Tina,Alaska,53241,Region 1,JUPS33779248801062,Real Estate,Equity Real Estate Investment Trusts,6400,900,84.53,646.94
+413,36-7565354,2022-01-22,2022-04-06,Second Class,AGS-429,D,US,South Stephanieport,Alabama,34352,Region 0,NSAJ91424305725950,Telecommunication Services,Wireless Telecommunication Services,6100,440,52.43,685.69
+414,42-4993486,2022-04-06,2022-04-07,Standard Class,0Z 44616,B,US,Ethanport,Delaware,77450,Region 0,UMOT76253872169160,Consumer Staples,Food Products,3400,100,96.78,360.73
+415,67-0640371,2022-01-15,2022-01-23,Second Class,VJK-5611,B,US,Jeffreystad,Georgia,48045,Region 3,ANLN37171319097305,Materials,Containers & Packaging,9200,230,65.68,624.06
+416,80-3695659,2022-03-18,2022-04-01,Second Class,592-JZR,A,US,Port Peter,Iowa,71497,Region 4,XQOR00708089216475,Utilities,Independent Power and Renewable Electricity Producers,3800,90,14.62,36.61
+417,27-9543705,2022-03-20,2022-04-08,Standard Class,INR 400,C,US,North Jasonview,Rhode Island,85855,Region 4,PZHO28078941280322,Utilities,Water Utilities ,6500,560,92.76,961.24
+418,53-6909453,2022-03-26,2022-03-26,Second Class,94GF101,B,US,Adamsborough,North Carolina,01898,Region 3,LJUC04123682861154,Health Care,Life Sciences Tools & Services,4400,630,68.12,275.12
+419,45-1249212,2022-02-25,2022-03-02,First Class,675-EOX,B,US,Davidmouth,South Carolina,75505,Region 1,ROUR84410158185931,Industrials,Air Freight & Logistics,900,720,35.12,601.83
+420,94-5670822,2022-02-02,2022-03-16,First Class,5-5267H,C,US,Shellychester,New York,33560,Region 2,YFST89287010363157,Industrials,Professional Services,5500,510,37.72,169.85
+421,93-3463885,2022-04-08,2022-04-09,Standard Class,079-KTT,D,US,Joshuaview,Louisiana,83754,Region 4,FXJE61461361312534,Health Care,Pharmaceuticals,10000,560,43.2,264.5
+422,36-1238752,2022-02-11,2022-03-06,Standard Class,N67 1WM,C,US,Williamsfort,Arkansas,71285,Region 2,HNKN64007047284145,Consumer Staples,Tobacco,2900,260,34.99,782.52
+423,71-1069105,2022-04-08,2022-04-09,Standard Class,4S AJ614,B,US,Lake Amy,Massachusetts,24428,Region 1,WRTI72229152614898,Utilities,Water Utilities ,8800,270,18.78,647.17
+424,05-4628164,2022-04-04,2022-04-05,Second Class,49QE086,A,US,Jessicafort,West Virginia,26035,Region 0,OGNA14581011007871,Health Care,Health Care Technology,3200,720,1.47,648.51
+425,11-4996353,2022-02-15,2022-02-18,First Class,5136,D,US,Lake Scott,Connecticut,40799,Region 0,ZPBQ47155328743900,Consumer Staples,Tobacco,3000,330,56.14,893.66
+426,65-3774987,2022-04-07,2022-04-08,Second Class,1T Y6813,D,US,Jonesbury,Oregon,67009,Region 2,ZOXG29165859556158,Real Estate,Equity Real Estate Investment Trusts,900,220,10.99,505.28
+427,56-2376278,2022-03-10,2022-03-13,Second Class,238HWL,B,US,East Melissa,Ohio,85466,Region 1,FWTK25697479855618,Energy,Energy Equipment & Services,1600,170,35.73,789.21
+428,42-5702471,2022-02-18,2022-03-20,Standard Class,JTZ 1567,D,US,Jamietown,North Dakota,75863,Region 4,HWOO68380277535869,Consumer Discretionary,Diversified Consumer Services,9000,600,81.3,568.75
+429,58-8427906,2022-03-07,2022-03-10,Second Class,0TS I26,C,US,Haleyton,South Carolina,20821,Region 4,DSGP80295717101368,Health Care,Health Care Providers & Services,300,290,74.23,796.45
+430,52-8057963,2022-01-27,2022-04-08,Standard Class,R26 6UO,B,US,Barnettshire,Minnesota,09064,Region 1,UYWD14171281352845,Utilities,Gas Utilities,9600,230,66.55,15.64
+431,15-1161364,2022-04-05,2022-04-07,Second Class,BY5 3671,D,US,Davidbury,New Jersey,78115,Region 3,TTXU90435666934217,Telecommunication Services,Diversified Telecommunication Services,600,160,19.41,296.45
+432,64-8275145,2022-01-05,2022-02-23,First Class,6-36562U,B,US,New James,New Hampshire,99218,Region 2,QLPJ97848735637846,Telecommunication Services,Diversified Telecommunication Services,8400,500,16.54,621.57
+433,35-3784375,2022-03-29,2022-03-30,Standard Class,03-LF63,B,US,Normanfort,Montana,98117,Region 4,RAPM72040696628690,Health Care,Biotechnology,8000,850,97.12,968.36
+434,73-6200636,2022-04-05,2022-04-05,Standard Class,063 SIQ,A,US,Port Spencer,Vermont,51557,Region 3,JEGC58224937767780,Telecommunication Services,Wireless Telecommunication Services,9800,660,75.44,676.03
+435,53-9074235,2022-02-09,2022-02-26,Second Class,SGC7980,C,US,North Jason,North Dakota,72246,Region 3,CNYN10181997455361,Utilities,Gas Utilities,6200,610,68.44,849.32
+436,41-9768848,2022-03-13,2022-03-28,Second Class,654 9QH,B,US,South Robin,Virginia,24851,Region 2,LFHA13446418740503,Health Care,Health Care Technology,6700,720,27.8,224.93
+437,83-3082754,2022-03-15,2022-04-07,Second Class,LYY 236,C,US,West Johnhaven,California,12187,Region 4,QACL27627809457202,Financials,Banks,3500,260,53.27,694.78
+438,66-0863619,2022-02-23,2022-04-09,First Class,LJD8240,D,US,New Stevenland,Georgia,31106,Region 0,DXJC72920119052714,Consumer Staples,Beverages,2100,550,67.34,296.68
+439,64-3671747,2022-01-21,2022-01-29,Standard Class,089 KZW,D,US,Port Kennethmouth,Florida,44004,Region 1,ZMVO01520157381711,Energy,"Oil, Gas & Consumable Fuels",3300,450,65.73,550.7
+440,67-6538549,2022-01-25,2022-03-12,Standard Class,5Q YW754,A,US,Lake Stephenberg,California,22634,Region 3,GOHH48006617151149,Consumer Staples,Household Products,1700,1000,3.37,186.52
+441,73-6545255,2022-01-31,2022-02-18,First Class,136B,B,US,New Mary,Michigan,07060,Region 3,RYZX59941510703618,Industrials,Construction & Engineering,4800,980,58.57,182.08
+442,76-9536038,2022-03-05,2022-04-05,Standard Class,417-RZF,D,US,Morganshire,Nevada,70706,Region 3,DBKQ24087229720635,Energy,"Oil, Gas & Consumable Fuels",700,870,47.62,809.26
+443,23-3298388,2022-03-05,2022-03-06,Second Class,22A Y44,C,US,South Dianamouth,Utah,90473,Region 0,BWAX72111178532807,Consumer Discretionary,Leisure Products,1200,150,49.7,12.43
+444,33-9084233,2022-02-25,2022-03-03,Standard Class,44JP349,A,US,New Tara,Minnesota,23880,Region 4,AZWJ43311223382496,Consumer Staples,Beverages,5100,120,58.41,550.02
+445,37-5917400,2022-02-27,2022-03-22,Second Class,943-MPP,D,US,Robinsonchester,Nevada,28985,Region 3,YRKY34162051999793,Real Estate,Equity Real Estate Investment Trusts,6500,670,21.69,859.98
+446,63-1442882,2022-03-24,2022-03-28,First Class,443 JPZ,D,US,Emilyside,Indiana,36636,Region 0,FZTK87517364521054,Financials,Consumer Finance,5200,90,38.1,66.75
+447,68-8938889,2022-03-09,2022-04-09,Standard Class,33M•948,A,US,Brooksberg,Nebraska,08675,Region 2,VUKI16147593472555,Consumer Staples,Personal Products,7100,60,95.31,354.04
+448,46-5120669,2022-02-20,2022-04-06,First Class,488-VPB,C,US,New Christina,Wyoming,02269,Region 0,YPAR63995506193014,Utilities,Independent Power and Renewable Electricity Producers,5500,630,39.45,759.01
+449,41-6979101,2022-03-02,2022-03-14,Standard Class,534 0VY,A,US,West Peggy,Oregon,33843,Region 0,VRDZ66847070395975,Materials,Chemicals,6000,450,24.92,621.62
+450,58-7344074,2022-02-24,2022-03-14,First Class,60Z•154,C,US,New Andreaburgh,Kentucky,09536,Region 4,SWMZ18856071292679,Consumer Staples,Food & Staples Retailing,3600,700,10.44,876.17
+451,60-4011910,2022-02-15,2022-03-09,Standard Class,23-O532,C,US,Christopherhaven,New Mexico,18079,Region 0,ECSO61158121125749,Real Estate,Equity Real Estate Investment Trusts,1000,790,8.05,569.08
+452,27-5062015,2022-03-29,2022-03-29,Standard Class,7WX1507,C,US,Lake Kimberlyfort,Oregon,28374,Region 1,XCGO65487486905697,Energy,Energy Equipment & Services,7000,90,73.12,756.81
+453,25-9039049,2022-01-11,2022-03-10,First Class,2MR0398,A,US,Laceyfurt,Oklahoma,97105,Region 2,GCCG31144307619099,Financials,Insurance,1600,640,29.37,103.97
+454,83-9309594,2022-01-15,2022-02-13,Second Class,KTZ-9465,B,US,North Linda,Iowa,00601,Region 1,DGUR51781306764770,Industrials,Construction & Engineering,4300,220,99.24,872.99
+455,61-4465113,2022-02-05,2022-02-15,Standard Class,1NB 065,C,US,Port Elizabeth,Mississippi,26549,Region 0,MKOH35540553232104,Health Care,Health Care Technology,9800,450,71.18,928.42
+456,23-6952976,2022-03-19,2022-03-29,Second Class,094COJ,A,US,Brittanyhaven,Vermont,17833,Region 0,VFQU00648637005473,Health Care,Life Sciences Tools & Services,300,730,97.72,703.35
+457,36-0941542,2022-04-06,2022-04-07,First Class,C48 8PA,A,US,New Michaelhaven,Vermont,70954,Region 0,PMXX81714236625521,Telecommunication Services,Diversified Telecommunication Services,1200,600,30.1,998.9
+458,46-8224507,2022-03-12,2022-03-25,Standard Class,MI-8115,B,US,Susanshire,Arizona,36026,Region 1,VSJF62476172712015,Energy,"Oil, Gas & Consumable Fuels",2500,60,16.23,383.45
+459,11-1636320,2022-01-24,2022-02-20,Second Class,YN 6598,B,US,Bethanychester,Alabama,92899,Region 1,ACME57930040080747,Utilities,Gas Utilities,1200,660,36.07,98.12
+460,32-3881607,2022-03-11,2022-03-29,Standard Class,765 TRH,D,US,New Gabrielleland,Missouri,97027,Region 3,EVHU39037316634297,Utilities,Electric Utilities,9700,580,82.25,65.91
+461,39-3454185,2022-03-05,2022-03-24,Standard Class,663-LVM,C,US,Jasonton,Kansas,08404,Region 0,GPNU13433035027670,Utilities,Multi-Utilities,7600,200,14.07,996.78
+462,73-4315036,2022-02-26,2022-04-05,Second Class,PVR-486,C,US,West Travis,Wyoming,66059,Region 4,VXFG56877528908021,Consumer Discretionary,Multiline Retail,3100,90,19.07,466.11
+463,38-9247972,2022-01-05,2022-01-27,Second Class,BXM-3461,A,US,West Michaelmouth,Maine,68878,Region 2,VHJE05442927127058,Telecommunication Services,Wireless Telecommunication Services,4400,520,40.79,115.48
+464,26-1131882,2022-02-12,2022-03-15,Second Class,YCP-7537,D,US,East Aaronfurt,Nebraska,34998,Region 3,UJTU20221296380148,Telecommunication Services,Wireless Telecommunication Services,2300,100,40.05,144.37
+465,55-3006745,2022-01-26,2022-01-29,Standard Class,4ZH65,B,US,West Matthewborough,Arkansas,95373,Region 4,UCLC07888031761841,Industrials,Machinery,5400,510,95.86,45.61
+466,39-2817600,2022-01-15,2022-02-04,Standard Class,TIC4706,B,US,East Jacob,Michigan,41869,Region 4,QYGD90156330213731,Health Care,Health Care Equipment & Supplies,4500,500,16.75,284.38
+467,51-6193478,2022-03-28,2022-04-08,First Class,EJW 672,C,US,West Jennifertown,Minnesota,08574,Region 2,XVQF12960480024096,Consumer Staples,Tobacco,8300,50,59.0,45.5
+468,68-6790806,2022-02-20,2022-03-22,Second Class,7-10485W,A,US,Briantown,Delaware,99209,Region 0,KQCJ07836001098939,Real Estate,Equity Real Estate Investment Trusts,7200,50,38.71,436.26
+469,46-0812562,2022-04-07,2022-04-08,First Class,CKA 496,C,US,Jacobfurt,Pennsylvania,85131,Region 3,MKAN28376660043052,Information Technology,Communications Equipment,8300,520,0.61,598.39
+470,80-0487544,2022-01-13,2022-03-21,First Class,J36 5SY,D,US,Port Daniellehaven,Vermont,35455,Region 2,VTML18867263337501,Real Estate,Equity Real Estate Investment Trusts,2400,970,8.92,263.92
+471,87-1900962,2022-01-16,2022-04-04,Standard Class,733 AAD,D,US,Alexanderville,Arizona,78796,Region 4,VCKO38163094009053,Information Technology,Software,9300,520,49.58,485.5
+472,05-9644238,2022-02-01,2022-04-01,Standard Class,34-0357M,A,US,Blackmouth,Alaska,92623,Region 3,JSHC53459863192295,Energy,Energy Equipment & Services,6400,130,39.4,530.29
+473,01-2955869,2022-02-20,2022-03-29,Second Class,D51 7YU,D,US,Murphyland,Michigan,53703,Region 2,QXEP17176550049937,Consumer Staples,Household Products,4200,720,12.13,839.38
+474,55-1155676,2022-02-28,2022-03-20,First Class,S73 5BD,B,US,South Jacobtown,Michigan,18176,Region 2,HAQX13817141420275,Financials,Diversified Financial Services,5400,410,64.46,813.59
+475,31-2826660,2022-01-19,2022-02-17,Second Class,MZD 036,A,US,New Deniseview,New Jersey,95309,Region 1,GVYZ90950675956337,Consumer Staples,Food Products,4400,790,2.68,420.47
+476,77-3231394,2022-02-09,2022-02-18,Standard Class,782 IXM,A,US,East Melissa,Pennsylvania,37495,Region 0,HEYN85748075897124,Consumer Staples,Food Products,3700,110,22.61,500.84
+477,46-4118424,2022-04-04,2022-04-06,Second Class,ER7 7877,B,US,Gilmoreshire,South Carolina,40921,Region 4,ROZN57943487208490,Financials,Diversified Financial Services,7500,10,54.97,372.47
+478,12-8061012,2022-03-09,2022-04-04,Standard Class,42-0899R,C,US,Lindafort,Nebraska,90921,Region 3,GUZC77409323654900,Real Estate,Equity Real Estate Investment Trusts,2300,350,85.54,470.02
+479,99-2869224,2022-03-30,2022-03-30,Standard Class,3Q V4264,D,US,East Markfort,New Jersey,47276,Region 1,VSJS20228124949088,Telecommunication Services,Diversified Telecommunication Services,7200,70,17.03,671.98
+480,37-1720622,2022-02-25,2022-03-28,First Class,QMM-8416,C,US,Chaseport,Maryland,70175,Region 2,DAGE06104929754289,Materials,Chemicals,9400,320,91.67,862.69
+481,15-1316097,2022-01-07,2022-03-11,First Class,685-HSG,A,US,Jenniferstad,Connecticut,03240,Region 2,SRZU01534066053899,Financials,Diversified Financial Services,2400,960,33.47,789.33
+482,91-7437990,2022-03-27,2022-04-04,Standard Class,719 0AP,C,US,Matthewhaven,Nevada,50433,Region 2,WJXL27980304067871,Materials,Chemicals,700,950,86.55,245.22
+483,37-7421328,2022-04-06,2022-04-06,Second Class,81D GV1,D,US,Meyerstad,Michigan,71710,Region 3,CKOM12793666117200,Telecommunication Services,Wireless Telecommunication Services,200,470,40.38,587.75
+484,92-6266631,2022-02-18,2022-03-20,First Class,66-55760,D,US,West Christopher,Nebraska,06970,Region 0,ZDEH13056781566732,Information Technology,IT Services,7200,300,87.38,128.08
+485,47-2133243,2022-01-01,2022-03-01,Second Class,507 CTT,B,US,South Edward,Montana,36323,Region 3,LTPU98798689178346,Industrials,Electrical Equipment,6300,910,82.84,561.65
+486,71-1442815,2022-01-04,2022-03-25,First Class,D65-70E,D,US,Jensenmouth,Michigan,33121,Region 0,BXOL23410857522077,Financials,Insurance,6200,570,28.61,354.27
+487,58-6231438,2022-02-13,2022-02-19,Second Class,21C 247,B,US,New Brandiburgh,New York,79385,Region 1,IZJR22903861037250,Utilities,Independent Power and Renewable Electricity Producers,4900,1000,19.34,483.3
+488,55-9190321,2022-04-04,2022-04-09,First Class,03-1944J,D,US,Andersonfort,Alaska,49614,Region 4,CIRJ46837186826455,Consumer Staples,Food & Staples Retailing,4500,270,4.92,155.28
+489,01-3759695,2022-04-05,2022-04-08,Second Class,TU6 X3O,C,US,New Douglas,Massachusetts,63820,Region 0,NRTF80940325692219,Industrials,Trading Companies & Distributors,6600,880,13.27,568.87
+490,47-1796236,2022-01-14,2022-02-25,First Class,512SGA,D,US,North Patrickmouth,North Dakota,59539,Region 4,VZAP02627777287611,Energy,Energy Equipment & Services,1900,780,18.52,13.65
+491,98-6206861,2022-02-28,2022-04-09,Standard Class,9-2166F,A,US,East Emily,Louisiana,69230,Region 0,NLYQ43157226679487,Health Care,Health Care Technology,9700,470,66.04,664.15
+492,32-7283338,2022-03-23,2022-04-04,Standard Class,NNE 062,B,US,Dixontown,New Mexico,97361,Region 2,UIVR01438442260744,Consumer Discretionary,Distributors,8900,70,63.98,611.88
+493,30-5304733,2022-02-06,2022-02-26,Standard Class,193-QWEF,C,US,Steventon,Mississippi,86963,Region 3,HRXT61513780547347,Consumer Discretionary,Media,4600,20,52.96,295.96
+494,06-0874210,2022-03-22,2022-03-25,Second Class,1LG4272,C,US,Burchport,Wisconsin,29856,Region 3,QHBP69094657130507,Consumer Discretionary,"Hotels, Restaurants & Leisure",8900,680,99.89,346.39
+495,94-8958569,2022-03-20,2022-03-30,First Class,RT5 U7A,C,US,Brianberg,Vermont,67403,Region 2,TCVD06049667545568,Materials,Metals & Mining,2300,110,11.01,435.37
+496,34-2301660,2022-03-03,2022-04-05,Second Class,DST 102,C,US,Nicholasside,Mississippi,80181,Region 2,PLDO31855119741636,Financials,Banks,2700,560,95.08,851.5
+497,31-1777310,2022-02-20,2022-03-16,Standard Class,DGN 796,D,US,Lake Matthew,New Hampshire,37421,Region 3,LIMA76797989975258,Consumer Staples,Food Products,2200,410,21.33,692.99
+498,54-7805360,2022-01-31,2022-04-03,Second Class,GWU3272,B,US,Deborahside,Texas,52500,Region 2,PMTB72940578870273,Consumer Discretionary,Diversified Consumer Services,3300,200,97.38,737.8
+499,56-6713067,2022-04-05,2022-04-06,Standard Class,R31 6JA,A,US,Avilaside,Mississippi,25786,Region 3,VIUA11373706091613,Consumer Staples,Tobacco,3700,940,88.0,813.02
+500,66-5991440,2022-03-17,2022-03-17,Second Class,341 SHR,B,US,East Stacy,Missouri,05398,Region 0,HLMB72551192608917,Telecommunication Services,Diversified Telecommunication Services,5400,980,83.64,296.99
+501,54-9747995,2022-01-12,2022-01-23,First Class,3HCD 32,B,US,Lesterborough,Kansas,10469,Region 4,RYXU05016228585353,Industrials,Airlines,8900,150,47.44,188.83
+502,10-8014348,2022-03-13,2022-03-16,Standard Class,2UE Y45,C,US,Port Ashley,Kentucky,30493,Region 4,FYDW41552804567121,Real Estate,Real Estate Management & Development,4300,640,52.8,146.37
+503,82-5479777,2022-03-05,2022-03-09,Standard Class,PM 8305,A,US,Lake Matthew,West Virginia,79337,Region 3,KSEK10629964211484,Information Technology,"Technology Hardware, Storage & Peripherals",2500,220,78.2,748.92
+504,92-1453290,2022-01-17,2022-02-07,Second Class,699 NLG,C,US,Amandaburgh,West Virginia,24576,Region 3,MRJB25265242677054,Information Technology,Communications Equipment,4300,270,71.6,940.98
+505,53-6385728,2022-01-05,2022-03-22,First Class,HQZ 057,D,US,Gregoryfurt,Vermont,15571,Region 2,DLIT49702120289228,Utilities,Water Utilities ,5300,310,16.48,873.98
+506,12-1439573,2022-03-15,2022-03-20,Second Class,999 4UH,A,US,Timothyport,Tennessee,14248,Region 1,KMWT92172480418035,Consumer Staples,Beverages,9200,580,59.27,687.53
+507,75-3277625,2022-03-03,2022-03-25,First Class,NJM 5613,A,US,Deleonview,Arizona,75825,Region 0,TKRO15272707727655,Industrials,Air Freight & Logistics,5000,370,14.2,696.06
+508,84-1591574,2022-01-30,2022-02-27,First Class,85-Q595,B,US,Port Jessica,Nevada,63975,Region 0,PRMQ33007321584963,Health Care,Health Care Technology,400,450,32.51,25.52
+509,63-9902932,2022-01-10,2022-01-18,Standard Class,1P EQ572,A,US,East Jacob,Maine,38508,Region 2,PUXN94187651244324,Consumer Staples,Food & Staples Retailing,2100,310,50.06,36.4
+510,24-5350808,2022-01-03,2022-01-12,First Class,SB7 G4R,A,US,Millertown,Oklahoma,85638,Region 3,CFHC58319276191788,Utilities,Electric Utilities,8200,920,6.46,539.26
+511,99-4180926,2022-02-01,2022-03-22,Second Class,S13-48B,B,US,Pamelaland,Kansas,84974,Region 0,TUYC51418371974423,Information Technology,Semiconductors & Semiconductor Equipment,7400,860,11.74,770.48
+512,61-0878534,2022-04-04,2022-04-07,Second Class,4-E7280,B,US,Gonzalezchester,Wisconsin,02407,Region 2,CCOI20982707416179,Energy,Energy Equipment & Services,6800,250,76.94,493.75
+513,75-7218596,2022-02-07,2022-03-18,First Class,94-1072O,D,US,North Anna,Michigan,69842,Region 0,DEGA77345973753413,Real Estate,Real Estate Management & Development,4800,880,79.11,84.13
+514,39-4535831,2022-03-17,2022-03-27,Second Class,MIA 894,C,US,Nathanielchester,Connecticut,33030,Region 2,DUEP09321505902931,Consumer Staples,Personal Products,3400,940,13.63,101.79
+515,98-5634149,2022-02-13,2022-03-03,Second Class,384 3TF,D,US,Lake Williamshire,New Hampshire,92557,Region 2,QUYG04313744556818,Financials,Thrifts & Mortgage Finance,7000,790,22.0,289.59
+516,01-9726034,2022-02-03,2022-03-02,Second Class,WQN-753,B,US,East Christopher,Idaho,93443,Region 4,DFNJ15032726050780,Consumer Staples,Beverages,9000,730,48.82,424.24
+517,50-6225334,2022-03-06,2022-03-18,Second Class,UJZ0947,B,US,East Evanfort,Virginia,99556,Region 3,CKCB40029975157166,Consumer Staples,Tobacco,8200,760,6.16,94.09
+518,84-3927928,2022-04-02,2022-04-03,Second Class,86B VJ6,C,US,Lake Jeffrey,Nebraska,38119,Region 1,NQAH82998859415828,Consumer Discretionary,Leisure Products,8700,170,37.37,654.96
+519,38-7876105,2022-02-14,2022-03-21,Second Class,1JJ6792,B,US,Bethbury,South Carolina,46516,Region 4,QQDL97549044298738,Utilities,Gas Utilities,8800,580,23.12,662.55
+520,67-4225052,2022-01-05,2022-01-11,Standard Class,B48-21Z,A,US,Karenland,North Dakota,21786,Region 1,NPWM97254972787386,Materials,Containers & Packaging,2600,790,53.76,672.24
+521,91-7219179,2022-01-15,2022-01-24,First Class,HXI 825,D,US,West Brandonmouth,North Dakota,71333,Region 4,KYNU65894326671198,Health Care,Health Care Providers & Services,7400,660,79.74,270.28
+522,60-9393076,2022-03-04,2022-04-07,Second Class,2-47522V,D,US,Linstad,Maryland,58475,Region 4,FGFW83921343199616,Health Care,Pharmaceuticals,3300,900,2.26,20.1
+523,44-9307391,2022-02-06,2022-02-13,Standard Class,QXP 646,A,US,West Joshua,South Carolina,67323,Region 2,DJCI44187151664423,Energy,"Oil, Gas & Consumable Fuels",6800,50,73.02,459.87
+524,01-4336111,2022-01-21,2022-02-15,First Class,1O 4057I,C,US,Estradachester,Colorado,31744,Region 4,YKZN96162661635976,Industrials,Professional Services,6500,240,47.98,189.78
+525,61-2979869,2022-03-02,2022-03-08,First Class,LYS 350,B,US,North Rhonda,Michigan,29710,Region 1,GWTO37332216478895,Health Care,Biotechnology,2700,910,76.15,409.51
+526,37-9956950,2022-01-26,2022-04-03,Standard Class,720-VRHR,D,US,East Sharonbury,North Dakota,42103,Region 4,WJQF36765597011039,Energy,Energy Equipment & Services,1100,650,59.37,550.52
+527,26-4097284,2022-03-19,2022-04-04,Standard Class,0W656,A,US,Leahburgh,North Dakota,29847,Region 1,HHYX84070669188909,Information Technology,"Electronic Equipment, Instruments & Components",2400,210,7.73,263.81
+528,87-9060409,2022-03-29,2022-04-03,First Class,456 2769,A,US,Clarkside,Georgia,88225,Region 0,FTKL45276937954425,Information Technology,Internet Software & Services,6600,320,42.56,622.7
+529,57-2269986,2022-01-12,2022-02-17,Standard Class,0-48966K,C,US,Bryanhaven,Missouri,20324,Region 0,QLTE57641327404279,Industrials,Airlines,8400,480,79.47,649.42
+530,82-4659572,2022-04-08,2022-04-08,Second Class,22-99365,D,US,Michaelborough,Mississippi,70393,Region 2,CSJY80709454155286,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",2800,80,57.12,210.89
+531,75-0081882,2022-01-16,2022-03-19,First Class,3-9082V,A,US,Elizabethton,Washington,82393,Region 0,XOVG81351901833761,Telecommunication Services,Diversified Telecommunication Services,3900,550,75.22,153.62
+532,46-6976670,2022-03-16,2022-03-20,Standard Class,897 VGK,B,US,Kevinland,Idaho,78776,Region 2,IABB66521619559977,Health Care,Pharmaceuticals,4300,190,29.5,665.96
+533,41-8988173,2022-02-23,2022-03-30,Standard Class,STD 959,C,US,South Lisaborough,New Hampshire,85244,Region 4,XZMC83151608402820,Energy,Energy Equipment & Services,8200,670,16.55,204.71
+534,37-8521409,2022-02-13,2022-03-04,Standard Class,YYT-9652,C,US,Reedville,Wyoming,61080,Region 2,BEVP14941392922256,Health Care,Pharmaceuticals,3300,730,40.09,906.82
+535,12-2180876,2022-03-07,2022-03-28,First Class,CUS 166,B,US,Lake Jenniferview,Kansas,90888,Region 3,CFFN00461450213030,Consumer Discretionary,Diversified Consumer Services,900,590,58.66,916.72
+536,71-7032513,2022-02-14,2022-02-18,First Class,PIX-9939,A,US,Downsfurt,Arkansas,99371,Region 2,LXIR62439998257210,Materials,Paper & Forest Products,2600,10,71.68,458.5
+537,72-9097615,2022-04-02,2022-04-02,First Class,DL 24748,D,US,East Annette,New Hampshire,85674,Region 4,RPNX46695899381345,Health Care,Health Care Providers & Services,300,100,8.36,220.2
+538,44-3605148,2022-02-08,2022-02-09,Second Class,MWP 482,A,US,Craigville,Arkansas,76535,Region 1,CTCB00378967081140,Real Estate,Equity Real Estate Investment Trusts,6600,690,42.25,723.2
+539,73-6101314,2022-01-21,2022-03-19,First Class,987T4,A,US,North Frank,Maryland,93286,Region 2,TOSQ15428353313108,Utilities,Independent Power and Renewable Electricity Producers,3000,310,46.41,700.32
+540,64-3935211,2022-01-28,2022-03-31,Second Class,2KBU 84,B,US,Suzanneview,New Mexico,85957,Region 3,DFJJ10503894639378,Industrials,Airlines,4000,130,73.84,196.15
+541,24-1334635,2022-03-19,2022-03-26,Standard Class,553 IXZ,B,US,Amyview,Alaska,60436,Region 3,LGVV24381089094899,Information Technology,"Technology Hardware, Storage & Peripherals",5200,20,29.45,87.19
+542,34-4085830,2022-01-08,2022-01-18,Second Class,245 WWA,B,US,New Tylermouth,New York,58403,Region 3,EZNJ44050074047057,Materials,Paper & Forest Products,1000,130,40.14,925.13
+543,75-8300410,2022-04-04,2022-04-05,Second Class,4BH 207,D,US,North Philip,California,19209,Region 1,IUWX92844097774769,Consumer Discretionary,Multiline Retail,9200,600,96.07,17.05
+544,46-9086132,2022-02-25,2022-03-11,Standard Class,4GV 070,A,US,Taylorville,Texas,76337,Region 2,SEDP08989013923760,Materials,Chemicals,2800,890,95.42,522.76
+545,63-3274008,2022-01-19,2022-02-12,Standard Class,1-9755K,D,US,Brittanychester,Nevada,46095,Region 0,VMFH72699496760910,Consumer Staples,Food Products,400,770,47.83,433.64
+546,90-3441018,2022-01-29,2022-04-04,First Class,6W VD787,C,US,Christianhaven,Rhode Island,66844,Region 3,UARM92045207172749,Consumer Staples,Food Products,6300,300,0.33,212.98
+547,47-8142430,2022-03-06,2022-04-09,Second Class,EDE1243,D,US,Port Kevinstad,Wyoming,13526,Region 4,JIBX00287102389536,Consumer Discretionary,Diversified Consumer Services,2600,240,29.46,973.71
+548,14-7173990,2022-01-04,2022-03-20,Standard Class,UFS3991,D,US,East Kevin,Colorado,27653,Region 3,ZKAH47990603696591,Information Technology,Software,6700,470,95.33,768.33
+549,81-8467515,2022-03-25,2022-04-09,Standard Class,240-IGC,A,US,Loribury,Idaho,16638,Region 0,GUPX81421029420523,Industrials,Commercial Services & Supplies,5400,710,31.61,351.21
+550,94-3267367,2022-01-18,2022-02-13,Standard Class,LDP-3143,C,US,Steventown,New York,93746,Region 1,MJOB72300409828015,Financials,Mortgage REITs,1200,530,90.9,854.08
+551,10-1914057,2022-03-13,2022-04-04,Second Class,706 CGJ,D,US,North Amandafort,Utah,16504,Region 1,IUFR10760003725530,Utilities,Gas Utilities,4100,830,91.73,535.21
+552,83-7932368,2022-03-23,2022-03-26,Standard Class,82-4938T,A,US,Lake Mary,Minnesota,49458,Region 2,CDUU57487595177428,Industrials,Professional Services,800,860,26.38,829.0
+553,23-5825629,2022-02-05,2022-02-21,Second Class,5-S5671,A,US,South Victoria,Oregon,56710,Region 3,UIXX90909550136485,Energy,"Oil, Gas & Consumable Fuels",2000,160,29.37,329.54
+554,10-9595638,2022-03-31,2022-04-07,First Class,654 1SG,D,US,West Joseph,New Jersey,27358,Region 0,NVCP02425130196498,Energy,Energy Equipment & Services,300,670,84.86,371.75
+555,60-5295755,2022-02-22,2022-03-13,First Class,71-5207Q,A,US,Russellchester,Washington,72891,Region 2,BPBG46548614826843,Consumer Staples,Beverages,300,890,59.23,281.94
+556,27-8348910,2022-02-20,2022-03-25,Second Class,59K•344,A,US,Ashleymouth,Texas,40781,Region 2,ZXXE25287112301230,Consumer Staples,Beverages,8900,260,79.8,616.37
+557,47-4872761,2022-01-01,2022-02-13,Standard Class,S26-87U,A,US,Lake Emily,New Mexico,94506,Region 1,IELW96474452977007,Energy,"Oil, Gas & Consumable Fuels",9100,290,59.46,108.92
+558,55-3361017,2022-02-09,2022-02-24,Second Class,8U W2200,D,US,Huangmouth,Maryland,00978,Region 1,AFMW79498118552374,Information Technology,Semiconductors & Semiconductor Equipment,9000,740,91.1,663.03
+559,59-1212224,2022-03-06,2022-03-08,First Class,9II3173,B,US,Stephanietown,Delaware,79551,Region 1,WDDV62193418902802,Industrials,Building Products,3000,830,29.0,497.47
+560,39-4634429,2022-03-27,2022-04-07,First Class,8AW 573,B,US,North Lori,Connecticut,71049,Region 3,PPRE42883272046802,Energy,Energy Equipment & Services,4000,830,61.45,358.23
+561,20-8289502,2022-03-30,2022-04-08,Second Class,485 YKX,D,US,Jamesburgh,West Virginia,76197,Region 0,BRYY48818072468205,Materials,Metals & Mining,3800,790,80.75,83.2
+562,41-9029603,2022-01-13,2022-01-31,Second Class,AVC-7069,B,US,Bellchester,Indiana,64209,Region 1,CBAN88919015882935,Materials,Construction Materials,9600,270,82.43,874.35
+563,35-6846755,2022-04-03,2022-04-09,First Class,YIN 666,A,US,Oliviaside,Louisiana,25124,Region 1,LHGY59101939148769,Telecommunication Services,Diversified Telecommunication Services,6100,100,51.17,262.28
+564,36-4092606,2022-02-21,2022-03-11,Standard Class,48-K046,D,US,Joeltown,Connecticut,03808,Region 1,KFWW46605193131137,Consumer Staples,Food Products,9500,970,2.5,703.43
+565,62-9005752,2022-03-29,2022-04-05,Second Class,14FV8,A,US,East Latoyaburgh,Washington,20995,Region 1,ZGDC28381730252257,Consumer Discretionary,"Hotels, Restaurants & Leisure",9300,840,40.8,286.68
+566,64-1863674,2022-01-30,2022-03-08,Second Class,035 9GH,B,US,South Steve,Pennsylvania,47127,Region 0,PHAA03111945405649,Utilities,Multi-Utilities,6700,930,57.31,404.54
+567,34-6532499,2022-01-21,2022-02-07,Standard Class,HBS 506,B,US,Danielsberg,Maine,00542,Region 4,OFKF52392575201041,Materials,Chemicals,7000,890,62.73,884.03
+568,77-9823874,2022-03-18,2022-04-03,Second Class,222 6VP,D,US,West Deborah,Washington,39190,Region 1,DSRQ00723149146492,Industrials,Construction & Engineering,8600,380,85.25,627.45
+569,62-7057405,2022-03-18,2022-04-06,First Class,ZVG-093,B,US,Haleyport,Texas,72011,Region 3,FCQT84500793461481,Real Estate,Equity Real Estate Investment Trusts,4300,540,33.4,55.36
+570,67-1019621,2022-03-06,2022-03-25,First Class,394-XDD,C,US,New Judithview,Nebraska,68922,Region 0,HBNI20132957563884,Materials,Construction Materials,2500,590,80.87,980.7
+571,46-5156297,2022-02-15,2022-02-25,Second Class,074D,B,US,North Jefferyside,Indiana,25212,Region 1,XPMG63878337560972,Materials,Containers & Packaging,2500,820,78.45,488.91
+572,54-9989897,2022-01-19,2022-03-13,Standard Class,I 266900,D,US,North Crystal,South Dakota,85824,Region 0,XCMR03227140392537,Financials,Diversified Financial Services,4200,820,28.07,363.24
+573,37-0659240,2022-02-12,2022-03-24,First Class,PC5 L2T,A,US,Dunnport,New Mexico,89635,Region 1,VQZG94689385604221,Telecommunication Services,Wireless Telecommunication Services,6200,280,40.83,359.8
+574,81-9155471,2022-04-02,2022-04-04,First Class,288C3,B,US,Warnerbury,Arkansas,84740,Region 3,LAHY53661716439733,Consumer Staples,Food Products,200,540,38.88,795.36
+575,10-4398447,2022-03-12,2022-03-17,First Class,30-8864F,C,US,Port Sharontown,Alaska,62941,Region 4,FHQR78663362664948,Consumer Staples,Food Products,2300,300,73.9,660.65
+576,02-4473991,2022-02-08,2022-03-14,Standard Class,6377,C,US,Espinozachester,South Carolina,11134,Region 2,IJVI61748210017121,Materials,Paper & Forest Products,4100,870,63.41,355.91
+577,59-4408135,2022-02-26,2022-03-12,First Class,461R1,B,US,Alisonhaven,South Carolina,35104,Region 4,NEAM45999322548450,Information Technology,"Electronic Equipment, Instruments & Components",4400,790,63.76,451.54
+578,54-0165440,2022-02-14,2022-02-18,Standard Class,EPB0899,B,US,Veronicatown,Colorado,76962,Region 0,DCOT44815444350406,Health Care,Life Sciences Tools & Services,7300,740,26.49,819.39
+579,30-3162176,2022-03-02,2022-04-04,First Class,5-51893,C,US,Smithfurt,Oklahoma,86826,Region 0,JRLX17774182474766,Information Technology,Internet Software & Services,3400,570,65.55,49.81
+580,31-2078188,2022-02-23,2022-03-19,Second Class,42A YO6,A,US,Lake Grant,Alaska,94198,Region 3,XIZX03405108099096,Telecommunication Services,Wireless Telecommunication Services,8500,900,72.81,512.12
+581,20-5027708,2022-01-14,2022-02-22,First Class,920-SQG,A,US,Lake Megan,South Carolina,63567,Region 1,ONDK89674044110453,Financials,Thrifts & Mortgage Finance,1600,50,47.83,656.86
+582,16-3750639,2022-03-19,2022-03-30,Standard Class,18J P49,B,US,North Christophermouth,Washington,02873,Region 0,GYIS55933573342304,Industrials,Industrial Conglomerates,1300,330,0.16,132.72
+583,38-2880940,2022-01-28,2022-02-20,Second Class,NWL 1588,C,US,Rebeccafurt,Tennessee,73631,Region 3,PJWZ42980547862308,Financials,Capital Markets,4600,160,0.47,575.01
+584,37-2902003,2022-01-26,2022-02-16,Standard Class,508L3,C,US,Cherylmouth,Texas,62425,Region 1,HQMG28831447143250,Health Care,Life Sciences Tools & Services,300,60,89.06,240.34
+585,33-0258772,2022-04-08,2022-04-08,Standard Class,1FA 715,B,US,Vasquezmouth,Montana,34654,Region 4,IZBX66505516553788,Consumer Staples,Household Products,5900,690,49.32,736.75
+586,94-4337423,2022-01-18,2022-02-01,Standard Class,539 TDQ,B,US,Smithview,Vermont,58177,Region 3,YHAJ86782252111734,Energy,Energy Equipment & Services,5100,30,17.14,517.97
+587,93-0620674,2022-01-12,2022-01-30,Standard Class,101879,C,US,Jacobsborough,Alaska,77848,Region 1,TCXR25265262985346,Industrials,Electrical Equipment,1900,430,29.22,287.68
+588,73-8650123,2022-03-22,2022-04-06,First Class,7SX 752,A,US,South Katrinaport,Alabama,90777,Region 1,QPOR86374692116758,Consumer Discretionary,Leisure Products,200,960,86.31,911.41
+589,59-5920798,2022-03-25,2022-04-06,Standard Class,375 AWH,D,US,Lake Travisfurt,Idaho,05083,Region 1,ZDAG08273032000089,Energy,Energy Equipment & Services,2300,310,58.9,208.36
+590,64-5487120,2022-01-19,2022-01-22,Second Class,4JI 587,A,US,Lake Vincent,Wisconsin,69871,Region 3,OQFI36851622106833,Financials,Insurance,2800,880,40.9,849.09
+591,14-7094634,2022-01-29,2022-03-24,Second Class,LAJ 764,D,US,Jennifertown,Montana,92549,Region 2,RATJ57521687686146,Consumer Staples,Tobacco,4200,980,91.14,785.29
+592,24-5822124,2022-01-26,2022-02-23,Standard Class,4HLX 03,A,US,Christianville,South Carolina,62325,Region 0,TCNU22422644559904,Industrials,Trading Companies & Distributors,9200,400,88.39,511.94
+593,23-0739462,2022-01-07,2022-03-30,Second Class,LML-5347,C,US,Jacobsville,Kansas,47627,Region 4,LPMN68502717160399,Real Estate,Real Estate Management & Development,1800,840,11.78,478.13
+594,67-0107151,2022-04-05,2022-04-05,Standard Class,5CB9032,A,US,Danielbury,Oregon,85251,Region 0,SJFU31851567660774,Real Estate,Real Estate Management & Development,200,50,22.51,128.76
+595,26-8510134,2022-04-03,2022-04-07,Second Class,4G KY246,A,US,Parkside,Nebraska,92667,Region 4,PZJW26422988651813,Consumer Discretionary,Automobiles,6700,650,73.6,860.7
+596,14-6789298,2022-04-02,2022-04-06,First Class,X50-71H,D,US,Evanhaven,Nebraska,82892,Region 4,FPKV36461075980182,Energy,"Oil, Gas & Consumable Fuels",7600,650,75.48,686.36
+597,48-0012584,2022-01-16,2022-02-19,Second Class,156 VMB,C,US,Osborneborough,Louisiana,50069,Region 1,MIFI54606492558738,Consumer Discretionary,Diversified Consumer Services,5600,230,69.75,672.24
+598,74-0573436,2022-02-17,2022-02-20,Standard Class,724-097,D,US,West Madisonstad,Idaho,88006,Region 4,BFQM19007881541704,Financials,Diversified Financial Services,7600,620,54.0,252.16
+599,20-5939621,2022-04-07,2022-04-07,First Class,203-467,D,US,East Stephenton,Nevada,09998,Region 1,KXCU37163950821734,Materials,Containers & Packaging,5400,620,78.03,666.27
+600,77-0271341,2022-01-19,2022-02-10,Second Class,WAJ2611,D,US,Thompsonmouth,Minnesota,42686,Region 0,ICIP95688582095693,Materials,Chemicals,5700,970,82.65,48.26
+601,75-4552153,2022-02-17,2022-03-01,First Class,K64-UMF,B,US,Gomezmouth,Wisconsin,91850,Region 3,QWKW18852254676275,Utilities,Electric Utilities,4700,260,85.72,210.86
+602,24-8614771,2022-02-18,2022-04-07,First Class,IAM 811,C,US,Bennettview,Florida,81577,Region 1,VKRJ13078148976370,Real Estate,Equity Real Estate Investment Trusts,5700,790,70.55,91.51
+603,14-5070420,2022-03-07,2022-03-22,Second Class,PP-5163,A,US,East Mary,Maryland,96152,Region 2,WIQD09880550662229,Telecommunication Services,Diversified Telecommunication Services,5700,660,18.47,234.54
+604,11-4304787,2022-04-07,2022-04-08,Second Class,499-ZZK,C,US,Alexberg,Utah,19433,Region 0,KDRN02560767416725,Health Care,Life Sciences Tools & Services,5700,680,35.75,173.63
+605,15-3623638,2022-01-20,2022-02-14,First Class,NO-1130,D,US,Ruthmouth,Iowa,80608,Region 3,ETGM32626558093931,Materials,Metals & Mining,5300,760,53.03,819.62
+606,03-2271650,2022-03-23,2022-03-27,First Class,ZJN 706,B,US,North Christine,Kentucky,54484,Region 0,VQTU57487491829443,Utilities,Gas Utilities,7100,610,81.54,171.19
+607,94-6791466,2022-02-26,2022-02-26,First Class,8184,B,US,Victormouth,Oregon,31939,Region 4,XDCT76349595755729,Consumer Discretionary,Specialty Retail,8100,450,98.98,383.62
+608,44-8223821,2022-01-11,2022-02-27,Second Class,203 2KX,B,US,Lake Adam,Louisiana,23980,Region 0,SDWM89933039078018,Consumer Staples,Tobacco,3400,280,26.58,560.58
+609,32-8136864,2022-02-18,2022-03-27,Second Class,L61-BAY,D,US,North Richardshire,Nebraska,63375,Region 1,GFDF55375590729705,Materials,Metals & Mining,2100,290,77.08,952.39
+610,20-7195522,2022-03-11,2022-03-15,Second Class,473 ELB,B,US,Robertville,Massachusetts,05004,Region 0,JEOD80875792632810,Utilities,Multi-Utilities,8800,100,49.99,680.99
+611,32-2294561,2022-03-26,2022-04-05,First Class,522WIO,C,US,East Hectorhaven,Virginia,57312,Region 1,LKKU06438576848954,Financials,Diversified Financial Services,5900,560,18.39,117.32
+612,94-5341575,2022-01-10,2022-02-21,First Class,40F X29,A,US,Holmesside,Tennessee,25804,Region 4,YCMP57343281592220,Consumer Staples,Tobacco,8400,600,9.13,485.81
+613,57-0253753,2022-03-05,2022-03-26,Standard Class,812-FGFZ,B,US,Tapiaview,Maine,64755,Region 2,ZHIA17450495525149,Materials,Paper & Forest Products,2300,780,34.11,307.72
+614,72-9052071,2022-02-13,2022-03-04,Second Class,718 OJ9,B,US,Port Tiffanybury,Washington,84299,Region 4,FIVR39617306135286,Health Care,Life Sciences Tools & Services,8700,410,70.04,677.0
+615,61-8673466,2022-01-05,2022-03-02,Second Class,336JT,B,US,Juliechester,Arizona,23210,Region 0,HVPJ53687541847487,Materials,Containers & Packaging,6800,470,73.57,319.11
+616,25-9395806,2022-03-11,2022-03-18,First Class,LMJ-689,A,US,Pattonstad,Oklahoma,55640,Region 4,QLXY66651472797306,Health Care,Health Care Equipment & Supplies,3600,600,29.77,867.92
+617,81-5122485,2022-03-23,2022-04-02,Standard Class,P45-82K,B,US,West Janiceland,Massachusetts,70308,Region 1,IQEN82462766664753,Financials,Capital Markets,2900,960,10.6,552.86
+618,35-6317183,2022-02-17,2022-03-10,Second Class,48-8010J,A,US,Heatherville,California,59785,Region 4,UKCP56861007112919,Industrials,Aerospace & Defense,4900,180,64.86,243.3
+619,48-8279465,2022-02-11,2022-02-24,Second Class,32-63789,D,US,West Jimmyport,Nebraska,88099,Region 4,SSLV72448626708136,Information Technology,"Technology Hardware, Storage & Peripherals",9700,180,18.99,674.4
+620,20-4101397,2022-03-05,2022-03-06,Standard Class,EM-7550,D,US,Smithshire,Ohio,26801,Region 3,EFPM55017476774822,Energy,Energy Equipment & Services,1000,770,10.06,49.6
+621,73-7578518,2022-03-30,2022-04-08,First Class,R40 3GY,B,US,New Danielside,Maryland,11445,Region 2,SDVW63150147919622,Consumer Discretionary,Automobiles,6900,110,68.55,304.63
+622,92-6317879,2022-04-06,2022-04-07,Second Class,ZSF 014,B,US,Port Albertview,Arkansas,22506,Region 1,UHLW68251431846081,Information Technology,"Technology Hardware, Storage & Peripherals",2300,890,24.92,283.38
+623,12-5794645,2022-01-21,2022-03-20,First Class,Y 541226,A,US,Michaelmouth,Idaho,46753,Region 4,KNFA81527642246066,Utilities,Gas Utilities,1100,470,30.5,490.12
+624,13-0344411,2022-02-22,2022-03-01,Standard Class,720-ZWO,D,US,East Sharon,New York,35816,Region 2,TKSI23772068381408,Real Estate,Equity Real Estate Investment Trusts,6900,40,60.93,470.63
+625,51-8793578,2022-01-11,2022-03-24,Second Class,K18 3XB,D,US,New Heather,Idaho,78684,Region 2,MSNY56447650539257,Energy,"Oil, Gas & Consumable Fuels",8400,470,48.36,114.17
+626,41-4270323,2022-01-04,2022-01-11,First Class,07A QK3,A,US,Johnsonchester,Connecticut,26993,Region 1,PLMS26396017215096,Consumer Discretionary,Leisure Products,1000,500,72.29,854.62
+627,45-4741786,2022-02-20,2022-03-10,Second Class,667 KXZ,B,US,New Kimberlychester,Michigan,22890,Region 4,RQJZ69673864536270,Health Care,Health Care Equipment & Supplies,2000,550,37.63,958.1
+628,87-8424787,2022-01-31,2022-03-22,Standard Class,XIK I58,B,US,Port Williamside,New Mexico,51455,Region 1,XEQW59047169256787,Utilities,Independent Power and Renewable Electricity Producers,2400,90,53.57,538.46
+629,87-3675826,2022-03-15,2022-04-06,First Class,001-EUG,C,US,New Christiestad,Colorado,12794,Region 3,SLKV22238851810669,Real Estate,Equity Real Estate Investment Trusts,9800,150,9.32,839.1
+630,12-8833500,2022-02-21,2022-04-06,Standard Class,571-568,D,US,Amytown,Kentucky,05130,Region 2,NGMK76029862388677,Telecommunication Services,Diversified Telecommunication Services,6100,810,6.8,549.14
+631,92-8705786,2022-04-04,2022-04-07,Standard Class,MZY 169,D,US,Kimberlymouth,Utah,76049,Region 3,IPTI00134008046595,Real Estate,Real Estate Management & Development,500,840,75.99,979.27
+632,92-4622192,2022-02-11,2022-04-03,First Class,162 BIN,D,US,Markland,Arkansas,86641,Region 3,NKTA50990708787191,Telecommunication Services,Diversified Telecommunication Services,2900,200,46.85,201.42
+633,75-7937549,2022-01-28,2022-04-08,Standard Class,LYG 328,C,US,Port Chelseafort,Arkansas,69357,Region 2,XFSW75430753239560,Financials,Banks,300,810,82.82,821.66
+634,47-8392215,2022-03-19,2022-03-28,First Class,S11 9VW,D,US,Garciafurt,Arizona,96300,Region 3,XFYE37295634625661,Consumer Discretionary,Internet & Catalog Retail,6700,40,27.29,213.41
+635,71-2635151,2022-03-28,2022-04-09,First Class,13K S79,B,US,Kimhaven,Missouri,84169,Region 2,QVPN00122822638680,Industrials,Industrial Conglomerates,500,190,64.62,949.56
+636,74-2757828,2022-01-08,2022-02-21,First Class,CG 1921,B,US,Lisamouth,Tennessee,82961,Region 3,ZTQP14818305255148,Financials,Consumer Finance,900,490,21.03,477.69
+637,26-7592104,2022-01-09,2022-01-24,Second Class,XHA-047,A,US,Lake Raymond,Indiana,30504,Region 2,FVOB78468956552577,Financials,Insurance,300,400,63.07,864.19
+638,25-1651059,2022-03-21,2022-04-03,First Class,5UC 362,D,US,West Nicholasstad,Nebraska,12328,Region 4,JXRU65026637792162,Information Technology,Internet Software & Services,7700,230,42.53,815.61
+639,30-9046802,2022-01-03,2022-03-29,First Class,081 KPI,D,US,Peckchester,Utah,65590,Region 3,BFVY21315030381708,Consumer Discretionary,Distributors,6900,1000,3.27,578.79
+640,80-7198604,2022-03-09,2022-03-20,First Class,TX 76764,A,US,New Jeffreyview,New Hampshire,37270,Region 4,RNXE49903093465337,Health Care,Health Care Technology,5400,630,90.63,680.83
+641,74-9600754,2022-02-19,2022-03-27,Second Class,0PS 056,C,US,Lake Taylorville,Georgia,67831,Region 3,RVQE86292710374336,Industrials,Transportation Infrastructure,4100,430,41.37,931.12
+642,87-0553736,2022-03-17,2022-03-22,Second Class,EUU 7901,C,US,Smithberg,Alaska,72466,Region 1,JCQW07969926020848,Materials,Containers & Packaging,3200,790,85.62,735.6
+643,13-3598139,2022-01-10,2022-03-18,Standard Class,01-LN46,D,US,Garciachester,New Jersey,63427,Region 2,EWXR67613093698784,Consumer Staples,Personal Products,1400,810,46.99,434.27
+644,31-8726872,2022-02-06,2022-03-03,Second Class,50RZ6,D,US,Jennahaven,West Virginia,15728,Region 0,IJHK05164557832835,Health Care,Health Care Providers & Services,1400,460,53.03,744.65
+645,14-6596541,2022-03-30,2022-04-07,Second Class,011-SDTL,A,US,Shahmouth,Idaho,77733,Region 4,DMHH85724521400583,Consumer Staples,Beverages,7400,120,68.7,170.79
+646,76-3770750,2022-03-28,2022-04-01,Second Class,SZW-4394,B,US,North Ashleyland,Louisiana,03260,Region 0,CLKX56424301534049,Real Estate,Equity Real Estate Investment Trusts,6100,820,95.28,342.66
+647,40-8247547,2022-04-06,2022-04-07,Second Class,4VM 471,B,US,Jennaberg,Maine,01154,Region 3,IHBH06138936639667,Energy,Energy Equipment & Services,9000,100,47.5,843.38
+648,35-1784500,2022-04-04,2022-04-06,Standard Class,402-983,A,US,South Jenniferburgh,Colorado,88837,Region 2,TYLD14263342333678,Information Technology,Communications Equipment,8700,220,15.64,313.73
+649,04-9462819,2022-03-22,2022-03-24,Second Class,844J,A,US,Watsonfurt,Virginia,56874,Region 3,LPVZ79780629069240,Energy,Energy Equipment & Services,100,240,61.11,860.26
+650,16-2264335,2022-02-09,2022-04-07,Standard Class,769 WJX,D,US,Johnsonbury,Georgia,01717,Region 4,QYAL35534309447805,Real Estate,Equity Real Estate Investment Trusts,2700,230,25.91,769.02
+651,41-1703431,2022-02-22,2022-03-17,Second Class,W 959071,D,US,Jasonstad,Maine,80029,Region 3,NNYF27202044424048,Consumer Discretionary,Diversified Consumer Services,3500,870,54.12,167.29
+652,48-1991609,2022-04-08,2022-04-08,Second Class,PIO-067,A,US,West Nathanchester,Texas,20319,Region 2,SQIV83796878632291,Financials,Capital Markets,100,820,71.37,981.84
+653,58-6594844,2022-02-17,2022-03-10,Standard Class,3I XK116,C,US,Lake Patrickville,Michigan,90815,Region 0,LBSW07424078899515,Financials,Thrifts & Mortgage Finance,900,540,64.01,174.53
+654,03-4048375,2022-03-02,2022-03-03,Standard Class,INR-4382,A,US,Haynesville,Maryland,23564,Region 1,CPTK64612632273841,Energy,Energy Equipment & Services,3600,280,70.99,46.28
+655,98-9460819,2022-02-09,2022-02-18,Second Class,86-LC53,C,US,Lake Jennifermouth,Vermont,05716,Region 2,OTAA05560020108284,Materials,Paper & Forest Products,4300,60,59.76,173.9
+656,67-7986807,2022-03-07,2022-03-20,Standard Class,OWR-3961,B,US,Davidstad,Rhode Island,38847,Region 4,YJMK28188806415473,Consumer Discretionary,Distributors,9300,800,5.29,933.03
+657,54-9773555,2022-01-08,2022-01-30,Second Class,9CX O58,D,US,Smithberg,Tennessee,26984,Region 0,PJKU91509542843543,Real Estate,Real Estate Management & Development,10000,350,68.22,977.98
+658,83-8461585,2022-03-28,2022-04-03,Second Class,07-PT66,A,US,Ryanberg,Louisiana,24565,Region 4,GBCQ39402363494575,Financials,Mortgage REITs,9000,440,14.02,400.0
+659,15-1189335,2022-03-27,2022-04-07,First Class,QBE-718,C,US,Lake Karenfort,Maryland,89682,Region 3,DBJM53848877414055,Materials,Construction Materials,1400,810,36.25,260.21
+660,31-4144937,2022-02-21,2022-02-22,Second Class,O17 1QP,A,US,Dustinfort,Texas,47450,Region 3,NHPO19937790269725,Utilities,Independent Power and Renewable Electricity Producers,4900,520,13.75,563.62
+661,05-7572844,2022-01-16,2022-03-02,First Class,PK 9227,D,US,Lake Claytonstad,Nebraska,81208,Region 2,TYMG89208169739009,Financials,Diversified Financial Services,9200,510,50.96,128.52
+662,02-5102956,2022-03-20,2022-04-07,Second Class,129K2,D,US,West Bryan,Washington,59880,Region 1,ATNW00977992560989,Energy,Energy Equipment & Services,4400,370,95.03,829.15
+663,01-9327880,2022-02-26,2022-03-24,First Class,TDE-989,D,US,East Kennethfurt,Georgia,13963,Region 0,WVTC02097902221315,Real Estate,Real Estate Management & Development,1800,540,38.69,967.44
+664,38-0834755,2022-01-02,2022-04-07,Second Class,5AH O86,D,US,South Markborough,Connecticut,70943,Region 1,HHLY56595750373122,Real Estate,Equity Real Estate Investment Trusts,4800,10,86.51,976.1
+665,83-8866735,2022-02-11,2022-02-25,Standard Class,D31 6BM,A,US,North Jennifer,Texas,10677,Region 2,OIKH23251245786375,Information Technology,"Electronic Equipment, Instruments & Components",2300,890,65.12,671.9
+666,27-6932268,2022-02-05,2022-02-14,First Class,PPP-109,B,US,Lake Johnnyfurt,Alaska,21177,Region 1,ROUV78026762574909,Utilities,Gas Utilities,6400,610,93.42,940.15
+667,01-2077047,2022-03-31,2022-04-07,Second Class,3YR 695,A,US,Coryfort,New Hampshire,85760,Region 1,YULA90232443139816,Real Estate,Equity Real Estate Investment Trusts,3900,350,55.0,342.7
+668,04-4660374,2022-02-10,2022-03-15,Standard Class,593 TWI,B,US,Donnashire,Ohio,93230,Region 3,GQNZ84653722409338,Consumer Discretionary,Specialty Retail,3700,620,54.69,368.2
+669,16-3102130,2022-02-03,2022-03-22,Second Class,ZU 06216,D,US,Josephburgh,Nevada,63967,Region 2,YREA58976293476226,Consumer Discretionary,Distributors,9000,640,48.51,221.69
+670,39-0135519,2022-04-02,2022-04-02,First Class,596-OXU,B,US,Oliviaberg,Alaska,77711,Region 2,LNHN85990248485071,Industrials,Airlines,5100,590,73.59,807.83
+671,51-3382796,2022-03-27,2022-04-01,Standard Class,6-G7180,B,US,Chasehaven,Massachusetts,71686,Region 3,NDAK06671953057342,Financials,Consumer Finance,8500,330,27.18,784.71
+672,76-5469550,2022-01-09,2022-02-14,First Class,331BAM,C,US,Taylorfurt,South Carolina,24256,Region 3,KMOZ94061220058305,Financials,Mortgage REITs,4900,850,65.19,713.87
+673,52-8916511,2022-02-24,2022-03-16,First Class,856-693,C,US,Craigmouth,Pennsylvania,28690,Region 4,WSDB15668455647174,Utilities,Electric Utilities,7700,260,92.43,237.5
+674,01-5555274,2022-02-10,2022-04-02,First Class,098 SIU,C,US,Lake Scott,North Carolina,27994,Region 4,VONK92282476439229,Materials,Containers & Packaging,10000,270,29.36,79.08
+675,06-9724621,2022-03-03,2022-04-05,Standard Class,UZQ-3804,B,US,East Nicole,North Dakota,36502,Region 1,CNPA72220312585714,Consumer Discretionary,Distributors,7400,630,55.91,653.78
+676,15-6502693,2022-01-19,2022-01-21,Second Class,6U 88787,D,US,Brittneymouth,California,90934,Region 3,VHJD67419264106412,Utilities,Independent Power and Renewable Electricity Producers,7100,330,27.29,529.63
+677,03-1726682,2022-01-19,2022-03-26,Second Class,OLK-4632,D,US,Mooreland,South Carolina,39692,Region 4,XCKV20764053760242,Industrials,Air Freight & Logistics,1400,530,58.01,151.45
+678,02-5322706,2022-02-12,2022-03-20,First Class,YRJ 775,A,US,West Brandonburgh,Rhode Island,55280,Region 2,EOUH79269716144172,Energy,Energy Equipment & Services,1300,210,53.41,602.78
+679,94-5093047,2022-03-26,2022-03-28,Standard Class,799K,B,US,Walshville,Ohio,61711,Region 0,KWCR24941823804279,Real Estate,Equity Real Estate Investment Trusts,7700,790,51.12,896.98
+680,60-0327369,2022-03-31,2022-04-05,Standard Class,TKH 574,C,US,Robbinsbury,Pennsylvania,61645,Region 0,FJFI15805143116134,Financials,Consumer Finance,400,760,69.42,454.49
+681,60-5564489,2022-01-22,2022-02-03,Standard Class,YYJ 0840,D,US,West Mary,Washington,54392,Region 0,XKJV36262648814790,Financials,Mortgage REITs,3100,260,93.37,768.81
+682,98-4322416,2022-03-06,2022-03-25,Second Class,8W 2905V,A,US,Lake Danieltown,Oklahoma,44563,Region 1,IDYP61564309258307,Consumer Staples,Tobacco,3300,950,74.24,537.82
+683,24-8512443,2022-03-05,2022-03-26,Second Class,941S,B,US,Port Ana,Kansas,64512,Region 0,IRPJ96229862142915,Industrials,Machinery,6800,420,99.39,431.79
+684,06-8373709,2022-01-21,2022-04-06,First Class,93-PO98,D,US,Lake Brendashire,Kentucky,70012,Region 4,MBED49058088814652,Real Estate,Real Estate Management & Development,2400,660,33.31,364.85
+685,53-0486699,2022-01-18,2022-03-31,Second Class,861-SJQ,B,US,Garciaside,New Hampshire,86162,Region 1,AYCZ20319345355175,Energy,Energy Equipment & Services,4900,50,77.63,724.34
+686,23-5362848,2022-01-11,2022-02-25,First Class,612 DED,B,US,Stacyport,Delaware,97813,Region 3,XUWQ71449402103123,Materials,Construction Materials,1500,530,51.2,226.58
+687,83-0080555,2022-03-26,2022-04-04,Second Class,614 FIW,C,US,West Roberto,New Mexico,76026,Region 1,HTWE67909974895913,Real Estate,Equity Real Estate Investment Trusts,500,30,59.87,632.22
+688,98-0784026,2022-03-13,2022-03-27,Standard Class,3VK2275,C,US,Kathryntown,Oklahoma,97650,Region 2,IMLU65569276601494,Utilities,Multi-Utilities,9900,680,19.71,457.0
+689,99-1528345,2022-04-07,2022-04-08,Second Class,OIB7513,B,US,New Jason,Nevada,17226,Region 4,UTDZ00559151280835,Real Estate,Real Estate Management & Development,9300,560,24.59,267.98
+690,23-4367611,2022-03-30,2022-04-05,First Class,846 WK4,A,US,North Andrea,Oregon,78687,Region 4,CFVH48504863739548,Utilities,Independent Power and Renewable Electricity Producers,3000,900,48.26,832.86
+691,11-3800003,2022-03-09,2022-03-25,Standard Class,IK0 8412,D,US,Millerbury,New Mexico,27293,Region 3,MRYF08573514310915,Financials,Diversified Financial Services,9700,170,36.8,453.53
+692,40-9872916,2022-02-05,2022-02-14,First Class,2I 6467K,A,US,Roblestown,South Dakota,72621,Region 1,AEWP00422903617148,Energy,Energy Equipment & Services,2800,190,58.64,943.0
+693,63-9114294,2022-01-06,2022-03-22,Second Class,Q47-85V,C,US,Angelamouth,Washington,87592,Region 3,STRE36810012119039,Health Care,Health Care Technology,2200,820,89.38,881.77
+694,71-9597266,2022-02-17,2022-04-05,Second Class,KTA 304,D,US,Darleneside,Missouri,57552,Region 0,RDZR77021981088389,Energy,Energy Equipment & Services,5300,100,42.07,694.84
+695,32-2819535,2022-01-18,2022-01-18,Standard Class,KZR-520,A,US,Hicksfurt,Illinois,06252,Region 4,VEUL50923672672701,Industrials,Marine,10000,840,29.54,933.19
+696,35-6722140,2022-02-10,2022-02-25,Standard Class,9KI 681,D,US,New Davidborough,New York,86274,Region 3,ZKLR93170053333098,Utilities,Water Utilities ,10000,470,75.36,58.46
+697,01-4080454,2022-03-21,2022-04-05,Standard Class,PA5 0906,C,US,New Heidi,Alaska,44209,Region 0,SCZK33284902320064,Energy,"Oil, Gas & Consumable Fuels",3700,720,24.32,598.01
+698,76-1133069,2022-03-01,2022-03-29,First Class,3E B6346,A,US,Lindamouth,Alaska,74307,Region 0,BQDZ91625235601523,Financials,Diversified Financial Services,7200,260,58.29,935.72
+699,92-8164751,2022-03-29,2022-04-01,Standard Class,3XK 925,B,US,Lake Amanda,New Jersey,98068,Region 4,MPAO42192974277590,Information Technology,Software,8600,430,14.3,12.55
+700,68-5494632,2022-01-06,2022-02-20,Second Class,95Y Z90,C,US,Merrittview,Massachusetts,58877,Region 3,ZZGS98135190729021,Energy,"Oil, Gas & Consumable Fuels",5300,940,6.89,454.69
+701,10-0264793,2022-03-18,2022-04-02,First Class,APU 195,A,US,West Bridget,Montana,93749,Region 1,GZAV03202968846831,Real Estate,Real Estate Management & Development,7000,610,11.16,105.1
+702,84-4580678,2022-03-08,2022-03-11,First Class,BF-3002,D,US,Mckenzieburgh,South Dakota,67159,Region 4,UMSG81355440639075,Energy,"Oil, Gas & Consumable Fuels",4900,110,62.16,319.35
+703,52-1625749,2022-01-27,2022-03-31,First Class,45E 367,D,US,West Kelly,Colorado,77832,Region 4,GWXU18835113128573,Health Care,Biotechnology,1200,320,9.07,691.97
+704,98-6239996,2022-02-24,2022-02-26,First Class,510-VZU,A,US,East Jenniferburgh,Delaware,32164,Region 3,LHSZ05572959782460,Telecommunication Services,Diversified Telecommunication Services,1000,600,86.93,481.71
+705,71-5152550,2022-02-17,2022-04-08,Second Class,EGA-315,C,US,Theresaland,Rhode Island,69300,Region 2,CKTS21901065265788,Energy,"Oil, Gas & Consumable Fuels",5900,60,34.37,525.78
+706,81-5584000,2022-03-11,2022-03-27,First Class,JNE 3080,D,US,Edwardston,Delaware,98377,Region 4,RIEY24608793826445,Materials,Containers & Packaging,6800,900,97.34,263.44
+707,41-5327295,2022-01-26,2022-03-24,Standard Class,EUE 335,B,US,Tracyburgh,Missouri,64213,Region 1,XZWG13340867824036,Industrials,Electrical Equipment,4400,270,6.4,464.59
+708,30-0784332,2022-04-03,2022-04-06,First Class,SQD-8468,A,US,Maloneburgh,Wisconsin,25422,Region 4,SEFL78453178149056,Consumer Discretionary,Multiline Retail,300,430,76.99,302.41
+709,75-7921664,2022-01-28,2022-02-26,First Class,8E 0H0TSE,B,US,West Adammouth,Nevada,68243,Region 0,TRXL95974269162188,Energy,"Oil, Gas & Consumable Fuels",8100,1000,67.24,449.71
+710,39-8565971,2022-01-20,2022-02-28,Second Class,KJO-828,B,US,South Eduardomouth,California,06239,Region 2,BZDF00328709601787,Health Care,Health Care Equipment & Supplies,4900,870,52.66,100.75
+711,41-4199481,2022-02-11,2022-04-09,First Class,0-16806,C,US,North Victoriaburgh,Louisiana,64352,Region 4,BNNW35716463045515,Industrials,Road & Rail,1800,730,9.33,993.51
+712,88-0775457,2022-02-03,2022-02-19,Standard Class,PY1 F0D,D,US,Fowlermouth,North Dakota,09961,Region 1,MPEC30491696312006,Consumer Staples,Food & Staples Retailing,2800,580,15.51,721.36
+713,66-4753437,2022-01-24,2022-03-08,First Class,81-VH80,D,US,Lozanoburgh,Wisconsin,77022,Region 2,FDNU96638488783223,Consumer Staples,Household Products,1500,150,23.66,606.19
+714,20-8528124,2022-03-09,2022-03-09,First Class,1BW 731,A,US,Ortiztown,Oregon,16813,Region 2,PHPR85398787033122,Health Care,Life Sciences Tools & Services,9900,630,14.56,975.7
+715,75-0521789,2022-01-26,2022-02-11,Second Class,CZF-1933,D,US,Teresastad,Oklahoma,01801,Region 0,ZYYA76238550067449,Real Estate,Equity Real Estate Investment Trusts,8400,420,6.88,467.47
+716,57-3087902,2022-03-25,2022-03-28,First Class,41E D47,A,US,Jimport,Kentucky,45779,Region 2,MSJI24571432414158,Industrials,Industrial Conglomerates,1800,410,52.15,693.99
+717,67-2576473,2022-02-15,2022-02-26,Standard Class,PZ 04784,D,US,Floreshaven,Louisiana,30866,Region 1,SPHY06198916439311,Information Technology,IT Services,5100,10,89.29,713.5
+718,39-7659249,2022-03-01,2022-03-08,Standard Class,HIN 181,C,US,Ramoschester,Michigan,80127,Region 4,QZHK40471729817666,Industrials,Commercial Services & Supplies,9200,210,52.29,934.52
+719,80-2322097,2022-02-25,2022-02-25,Second Class,QNN7308,B,US,South Johnmouth,Massachusetts,57779,Region 0,PDWU13910918965429,Real Estate,Equity Real Estate Investment Trusts,6300,860,62.3,910.06
+720,24-9378616,2022-03-17,2022-04-09,Second Class,ACN8798,B,US,South Dannyville,Georgia,88999,Region 2,QRDZ69911189516355,Consumer Staples,Tobacco,1600,130,84.15,440.19
+721,15-2504519,2022-02-26,2022-03-14,Standard Class,RVO-0927,A,US,East Toni,Minnesota,96938,Region 3,IMKG60037175904043,Information Technology,"Technology Hardware, Storage & Peripherals",500,750,27.4,351.77
+722,38-1776681,2022-02-15,2022-03-21,First Class,739-HDH,A,US,Natalieborough,Washington,92804,Region 4,DZDI24510010030598,Telecommunication Services,Diversified Telecommunication Services,1200,160,45.83,392.54
+723,43-6134603,2022-01-18,2022-02-20,Standard Class,0HO 881,D,US,East Julie,Rhode Island,37659,Region 4,CMXD57877586830127,Real Estate,Real Estate Management & Development,9600,420,79.68,636.02
+724,67-8689346,2022-01-06,2022-01-07,Second Class,JN 98885,C,US,North Harry,Illinois,41857,Region 1,LCJD60541625471441,Consumer Staples,Food Products,6400,440,7.18,403.91
+725,71-9277693,2022-02-28,2022-03-13,Second Class,8GD Q52,D,US,Clarkshire,Hawaii,41585,Region 3,ISZP84672484200750,Consumer Staples,Household Products,3100,580,37.62,538.64
+726,62-4506709,2022-01-30,2022-02-27,Second Class,177 GPO,D,US,Turnerborough,Nevada,16693,Region 3,MMHF46461200610873,Energy,Energy Equipment & Services,9700,480,85.22,477.59
+727,13-5739175,2022-03-19,2022-03-20,Standard Class,UEC 575,B,US,New Christopherbury,Washington,98736,Region 2,OEPK97805457678754,Telecommunication Services,Wireless Telecommunication Services,1800,170,3.54,346.51
+728,72-7881431,2022-01-20,2022-01-26,First Class,CGT-0075,D,US,North Erinfurt,Wyoming,99393,Region 3,RKKM84858400470689,Real Estate,Equity Real Estate Investment Trusts,1900,540,73.08,952.91
+729,33-9443394,2022-01-22,2022-02-08,Standard Class,051-QOR,C,US,Kevinport,Oregon,98148,Region 3,JZVC30135455654632,Telecommunication Services,Wireless Telecommunication Services,3200,870,79.69,28.37
+730,39-4184497,2022-01-18,2022-03-26,Second Class,74-G799,C,US,Port Luis,Nevada,08681,Region 2,HYKW93345526262143,Consumer Staples,Tobacco,8500,870,11.11,813.03
+731,46-2285747,2022-03-03,2022-04-06,First Class,7-05124T,A,US,Austinmouth,Nebraska,62487,Region 0,ZJWX80855781307594,Industrials,Air Freight & Logistics,5000,10,52.12,642.99
+732,75-5271617,2022-02-22,2022-03-29,Second Class,27-U665,D,US,West Deborahberg,Rhode Island,56895,Region 1,HLZY70669739637042,Real Estate,Real Estate Management & Development,5900,460,94.7,710.16
+733,35-9028859,2022-01-06,2022-02-13,Second Class,6JZ5021,B,US,Johnsonfurt,Pennsylvania,94649,Region 4,RJAB86552635675656,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",2500,470,31.79,578.51
+734,84-4910764,2022-01-19,2022-03-11,First Class,GPL 675,C,US,Barkerfort,Wisconsin,26949,Region 3,BSYK87802186723562,Consumer Discretionary,Household Durables,5900,270,78.97,655.3
+735,92-5540883,2022-01-01,2022-01-29,Second Class,802-RZF,C,US,West Samuelview,Kentucky,51326,Region 3,GKLC27458406856323,Information Technology,"Technology Hardware, Storage & Peripherals",6300,250,5.6,182.47
+736,73-4877264,2022-01-19,2022-04-02,Second Class,W89-41O,C,US,North Ryanside,Maine,43588,Region 2,XEIP57218219083475,Consumer Discretionary,Diversified Consumer Services,8800,760,59.24,154.67
+737,38-8560027,2022-01-15,2022-04-01,Second Class,4V 41211,C,US,Tiffanyview,Colorado,99406,Region 4,DBKP79705895110925,Consumer Discretionary,Diversified Consumer Services,500,680,75.9,594.15
+738,58-6473428,2022-03-25,2022-03-27,First Class,3V 89327,B,US,East Charles,Maine,62793,Region 0,FNND51383870164866,Consumer Discretionary,Auto Components,7300,420,78.23,385.5
+739,15-3528522,2022-02-10,2022-02-21,First Class,V55 6YC,C,US,Fuentestown,New Jersey,37083,Region 4,NEIU12009538577403,Health Care,Life Sciences Tools & Services,7300,820,61.71,437.83
+740,87-0243593,2022-03-24,2022-04-05,Standard Class,LZC 501,D,US,Mcclurestad,North Dakota,91397,Region 3,GLVH67489170053425,Materials,Metals & Mining,3900,490,90.75,516.02
+741,81-4890692,2022-04-06,2022-04-07,Second Class,75-IR97,D,US,Harrisonland,Connecticut,10820,Region 3,ULFE72793503629463,Energy,Energy Equipment & Services,3600,850,22.83,148.49
+742,46-8655150,2022-02-01,2022-03-28,Standard Class,ZCF 663,D,US,Brettfort,Nevada,23484,Region 1,HAPJ70908762995167,Consumer Staples,Food & Staples Retailing,8500,860,97.73,874.89
+743,71-6340824,2022-01-23,2022-02-27,Standard Class,GGE-654,B,US,New Marcusview,North Carolina,82623,Region 4,KCSU32931720131115,Health Care,Health Care Providers & Services,9400,940,23.89,807.2
+744,85-8628158,2022-03-04,2022-03-24,First Class,665 2JV,B,US,Harrisonberg,Minnesota,03144,Region 0,PYOT58665877482497,Materials,Chemicals,6900,240,19.44,437.8
+745,91-6595570,2022-01-05,2022-02-07,Second Class,794-JNWZ,C,US,Lake Curtismouth,New York,05240,Region 3,ZKAV08215976094884,Financials,Insurance,5700,130,57.1,160.3
+746,23-2787930,2022-01-08,2022-01-26,First Class,83-1562L,D,US,South Joseph,Indiana,45012,Region 0,YHSG80236680308271,Consumer Staples,Household Products,9000,900,29.18,3.69
+747,45-6830227,2022-02-19,2022-04-05,Standard Class,MD 0668,A,US,Sabrinaland,Maine,65723,Region 3,EVBT79306648466436,Information Technology,IT Services,5100,230,56.68,742.73
+748,76-3910537,2022-01-20,2022-04-05,Second Class,06WD6,D,US,East Donaldborough,Iowa,46090,Region 4,KEAG14909489967434,Health Care,Health Care Providers & Services,3900,110,61.5,189.31
+749,52-1230115,2022-01-02,2022-03-08,First Class,8P ZD347,A,US,Kathleenchester,Nebraska,74206,Region 3,RUCW08295768569975,Financials,Insurance,4100,320,93.08,295.72
+750,03-4012314,2022-03-05,2022-04-04,Standard Class,ZTU 510,A,US,Port Patricia,Hawaii,42802,Region 3,OBVX90182369752166,Materials,Construction Materials,1600,130,29.01,922.34
+751,25-7491451,2022-03-10,2022-03-16,Second Class,152 LBR,C,US,Stephenchester,Connecticut,56343,Region 1,XRRQ87158663148956,Financials,Mortgage REITs,8700,350,88.4,240.24
+752,93-0154475,2022-02-16,2022-04-09,Standard Class,HY 0154,B,US,West Joshuastad,Illinois,29563,Region 4,ARFF14614654833190,Financials,Thrifts & Mortgage Finance,5100,270,73.91,548.56
+753,05-4823138,2022-04-03,2022-04-09,Second Class,7QE7262,A,US,Janiceborough,Maryland,02621,Region 3,RDBI03250419705457,Consumer Staples,Food & Staples Retailing,6400,780,30.96,936.45
+754,75-2403109,2022-02-03,2022-04-09,First Class,LHK 257,C,US,Bowersmouth,Mississippi,81790,Region 0,RRUX59944077908463,Financials,Capital Markets,100,130,72.3,59.59
+755,64-0651660,2022-04-06,2022-04-08,Standard Class,73-HV85,D,US,Boydfurt,New Jersey,42599,Region 0,NRXZ45045837661045,Health Care,Biotechnology,6900,690,26.27,556.19
+756,72-4559025,2022-02-26,2022-03-06,Second Class,WF7 3960,C,US,South Jenny,Arkansas,45902,Region 2,MOFX34141452954963,Information Technology,Software,7900,550,7.41,782.06
+757,55-8763306,2022-01-28,2022-03-30,First Class,830-EUU,C,US,Rollinsport,New York,55426,Region 0,JUZH52404976656629,Health Care,Health Care Providers & Services,8200,110,55.79,306.95
+758,11-1244028,2022-01-08,2022-03-05,First Class,00-L386,D,US,North Courtneyside,Nevada,56473,Region 0,JVPY00469728248300,Utilities,Gas Utilities,2300,50,59.33,350.09
+759,76-8069269,2022-01-05,2022-03-31,Standard Class,5AQ 320,C,US,North Kellyview,Maryland,17095,Region 3,XUGR44177967297084,Materials,Chemicals,2100,280,18.63,157.19
+760,59-2093504,2022-01-17,2022-03-02,First Class,4DV 994,D,US,West Jerry,Oregon,33610,Region 1,MEXU48765074889185,Energy,Energy Equipment & Services,8700,700,63.28,395.25
+761,51-1429617,2022-03-06,2022-03-19,First Class,I92 2DG,A,US,Rodriguezmouth,Louisiana,11849,Region 4,SLUI36874720698821,Financials,Capital Markets,8700,720,84.99,500.97
+762,20-5795957,2022-03-01,2022-04-02,Standard Class,882D9,C,US,Ryanfurt,New Hampshire,53163,Region 4,TXJW03598914948864,Health Care,Life Sciences Tools & Services,7400,770,82.3,884.01
+763,05-5314411,2022-01-04,2022-04-06,Standard Class,503-OPR,A,US,North William,Illinois,48900,Region 4,UOBP86197413747884,Consumer Staples,Household Products,6900,140,43.79,47.69
+764,90-1255274,2022-01-27,2022-02-05,First Class,L71 3SS,A,US,West Tiffanyside,Georgia,81203,Region 3,MJBL04548540757056,Real Estate,Real Estate Management & Development,1000,340,62.47,200.59
+765,99-6210386,2022-02-24,2022-02-27,First Class,R12 4VU,B,US,Mahoneychester,Michigan,56222,Region 2,AMNN35673380433106,Telecommunication Services,Wireless Telecommunication Services,9100,580,82.82,74.84
+766,37-8737203,2022-01-04,2022-02-19,Standard Class,014 QXU,C,US,Harrisfurt,Tennessee,65198,Region 2,FKTG18725515447768,Materials,Containers & Packaging,7900,580,68.16,132.41
+767,74-2218496,2022-02-21,2022-02-27,Standard Class,651T,A,US,Nicoleborough,Arkansas,74464,Region 4,KSTQ77818034134354,Consumer Staples,Personal Products,300,470,79.23,260.23
+768,33-5030350,2022-02-03,2022-04-02,Second Class,NAE W76,A,US,Port Scott,Florida,57331,Region 3,HJMX06288374563136,Telecommunication Services,Diversified Telecommunication Services,6700,270,98.89,203.82
+769,66-3776784,2022-01-28,2022-04-08,First Class,0-S0844,A,US,Matthewtown,New Jersey,67401,Region 1,ZZKY30011665098346,Industrials,Professional Services,900,920,65.87,231.94
+770,82-6834501,2022-01-30,2022-02-12,Second Class,29-K433,A,US,Port Glennberg,Oregon,59635,Region 4,PIYY95895299440519,Energy,"Oil, Gas & Consumable Fuels",1800,80,30.29,59.41
+771,47-5020399,2022-03-12,2022-03-28,First Class,8HZ46,B,US,Kennedychester,Vermont,92548,Region 3,AWHZ80897210805059,Energy,"Oil, Gas & Consumable Fuels",5700,630,5.56,677.67
+772,22-4589937,2022-01-20,2022-03-09,Standard Class,724 VSG,C,US,Ryanfort,Oklahoma,60785,Region 0,YZVK65484152275602,Telecommunication Services,Wireless Telecommunication Services,2700,950,4.32,304.05
+773,12-8939454,2022-02-16,2022-03-26,First Class,PZJ-0565,C,US,North John,Minnesota,28747,Region 2,DMGZ28941555150632,Health Care,Health Care Technology,5100,100,82.22,605.44
+774,04-5971415,2022-03-07,2022-03-25,Standard Class,6X 2199L,A,US,Gregoryville,Mississippi,09119,Region 1,IEYS82442931899103,Health Care,Health Care Providers & Services,3700,430,62.31,18.79
+775,68-3664681,2022-01-14,2022-04-03,Second Class,6U 4Z5EVH,B,US,West Robertburgh,Maine,48693,Region 3,PCLW57139481570274,Industrials,Aerospace & Defense,6700,650,71.55,891.16
+776,05-2137638,2022-03-14,2022-03-25,Second Class,R53-KBB,B,US,North Brianton,Arizona,43860,Region 2,XYSO22351186966840,Energy,Energy Equipment & Services,2800,650,9.97,632.3
+777,23-1076355,2022-03-03,2022-03-15,First Class,76-M557,A,US,Murphyborough,Idaho,98498,Region 2,FRIK76289458923031,Consumer Discretionary,Auto Components,6100,30,55.51,474.24
+778,31-8900040,2022-03-31,2022-04-08,First Class,AEV0214,A,US,Sheribury,Missouri,93751,Region 1,TPYF59516837300611,Real Estate,Real Estate Management & Development,100,330,98.24,355.81
+779,85-1833298,2022-02-25,2022-03-21,Second Class,92-JZ46,B,US,Woodwardville,Michigan,78085,Region 2,SGFM28077134820253,Consumer Discretionary,Internet & Catalog Retail,2400,520,43.64,122.87
+780,90-2961093,2022-02-21,2022-04-08,Standard Class,R30-ECR,B,US,North Debra,West Virginia,97668,Region 3,LULH76838009717767,Utilities,Multi-Utilities,3400,820,44.25,859.19
+781,80-3425497,2022-02-14,2022-02-24,First Class,923 RNV,A,US,South Chadstad,Alaska,65680,Region 0,PMBX30597172762985,Consumer Discretionary,Specialty Retail,2600,730,7.03,661.69
+782,73-3389333,2022-02-17,2022-02-22,Second Class,233Y,D,US,Jeffreytown,Vermont,97670,Region 4,LDLG67508950350420,Information Technology,Semiconductors & Semiconductor Equipment,6800,550,98.23,921.19
+783,33-4473145,2022-03-13,2022-03-31,First Class,LFD 323,B,US,Port Reginald,Idaho,45231,Region 4,HUHY13353480132224,Financials,Diversified Financial Services,200,580,14.89,460.69
+784,12-7292589,2022-01-15,2022-01-17,First Class,ZYT 867,A,US,Lisaborough,Kansas,70055,Region 3,QAET10807620330167,Health Care,Health Care Equipment & Supplies,8500,840,64.62,773.15
+785,88-0452981,2022-03-25,2022-03-26,First Class,563 YUD,D,US,Javierfort,Wisconsin,77224,Region 3,IEYC22932510711344,Materials,Chemicals,9500,240,90.91,336.84
+786,92-8093872,2022-01-26,2022-01-29,Second Class,MUY 315,A,US,Cookfort,Oregon,15417,Region 1,TLJV28388338768838,Materials,Paper & Forest Products,6800,350,0.54,690.5
+787,43-9520942,2022-03-29,2022-04-03,Standard Class,793U8,B,US,New Patricia,Wyoming,01674,Region 2,HSXZ07284564302506,Materials,Paper & Forest Products,6800,990,56.15,324.23
+788,41-7659033,2022-03-04,2022-04-05,Second Class,CAD-2269,B,US,West Desiree,New Mexico,78375,Region 3,KBZV30932101087395,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",7800,930,70.2,319.74
+789,66-4095339,2022-03-20,2022-03-26,Second Class,0A ED504,B,US,Josephmouth,Montana,85708,Region 3,DTJY90762612845495,Industrials,Trading Companies & Distributors,3900,470,55.89,450.32
+790,94-1178653,2022-01-01,2022-01-07,First Class,24SM2,B,US,Port Williamfurt,North Carolina,12897,Region 2,HAMA01050487117554,Financials,Insurance,3400,770,70.21,665.68
+791,01-8304629,2022-01-04,2022-01-29,First Class,QJM 1025,D,US,Kaitlinmouth,Illinois,34678,Region 4,TKOZ30225343106823,Utilities,Gas Utilities,3700,900,93.54,898.27
+792,36-0308121,2022-03-01,2022-03-12,Standard Class,82-06967,D,US,Parkerberg,South Dakota,18404,Region 2,VCRN54795385953570,Utilities,Water Utilities ,9600,820,5.88,584.49
+793,14-2326101,2022-03-01,2022-03-07,First Class,070 TZN,A,US,Hudsonbury,Wyoming,26290,Region 2,PWUR39481649152794,Financials,Capital Markets,3100,830,67.25,466.35
+794,23-8612691,2022-03-26,2022-04-01,First Class,379 GIS,A,US,Angelastad,Mississippi,96214,Region 4,XBIC18417616708394,Materials,Containers & Packaging,3500,300,76.96,613.14
+795,12-5748569,2022-02-09,2022-02-19,First Class,0BD 441,D,US,Parkmouth,South Dakota,12158,Region 2,CHTI52349614499617,Industrials,Electrical Equipment,7600,450,66.38,586.39
+796,93-2038682,2022-01-29,2022-04-04,Second Class,AF9 4391,B,US,Mariamouth,Massachusetts,88856,Region 4,XLDV61951952165973,Health Care,Pharmaceuticals,2200,310,98.3,724.1
+797,85-3417945,2022-02-22,2022-03-14,Standard Class,0M X0522,A,US,West Jennifershire,Wyoming,20495,Region 3,RSPW43084420974495,Information Technology,Software,2000,690,20.98,918.11
+798,32-2002958,2022-03-21,2022-03-22,Standard Class,242 EHP,B,US,Port Michael,Arkansas,27584,Region 0,XSBN67344540129403,Industrials,Commercial Services & Supplies,7500,100,53.67,928.89
+799,84-7907476,2022-02-13,2022-03-14,First Class,KOU 938,B,US,South Sarah,New Mexico,21482,Region 3,GDNG39964563206016,Industrials,Trading Companies & Distributors,4100,800,62.4,303.24
+800,92-8422015,2022-01-01,2022-03-19,Second Class,51BJ5,B,US,Gibsonhaven,Wyoming,13008,Region 3,YUWT35982079834869,Consumer Staples,Food Products,6800,960,66.73,33.18
+801,16-3186866,2022-02-11,2022-03-26,First Class,O19 9SR,D,US,Smithville,Kansas,29324,Region 4,LOGH51062572288076,Health Care,Health Care Equipment & Supplies,600,40,69.79,311.47
+802,80-3745101,2022-01-11,2022-02-16,Standard Class,4E438,D,US,South Josephfort,Alabama,92134,Region 0,TJPS18091108492193,Health Care,Pharmaceuticals,2600,90,91.56,604.86
+803,35-6606151,2022-03-20,2022-03-29,Second Class,024-YCQ,C,US,Coryshire,Ohio,44205,Region 3,DPIW50935729063621,Materials,Metals & Mining,7600,480,55.55,167.75
+804,02-1200729,2022-04-01,2022-04-07,Standard Class,WOW-8949,C,US,New Michaelburgh,Colorado,51717,Region 2,RFPY76047598169993,Telecommunication Services,Diversified Telecommunication Services,10000,140,93.81,12.18
+805,54-5888355,2022-02-13,2022-04-05,First Class,KWP 828,B,US,Sheilamouth,South Dakota,40341,Region 3,XBHN40083318459993,Financials,Diversified Financial Services,7000,710,87.07,963.05
+806,57-6135294,2022-02-11,2022-02-18,First Class,WER7965,D,US,North Elizabeth,Oklahoma,28298,Region 0,TULE38952333873249,Utilities,Gas Utilities,9400,940,40.4,447.95
+807,46-0870443,2022-02-09,2022-02-09,First Class,4C D7627,D,US,Dariusmouth,Louisiana,93506,Region 1,DMZJ10986398532513,Consumer Discretionary,Automobiles,4700,800,46.36,850.98
+808,39-4956289,2022-02-05,2022-03-27,Standard Class,5-6109U,C,US,East Phyllis,Virginia,61312,Region 2,TNQT24268382504205,Consumer Staples,Food Products,600,30,29.62,592.44
+809,03-0779363,2022-02-11,2022-03-14,First Class,18AS9,A,US,New Angelaburgh,Oregon,87266,Region 0,YQJF59075832653656,Energy,Energy Equipment & Services,3600,170,54.25,787.93
+810,33-1061333,2022-03-22,2022-03-31,Standard Class,H38-94V,B,US,East Juan,Indiana,79432,Region 3,EDDH41724787029242,Real Estate,Equity Real Estate Investment Trusts,1200,200,23.56,31.34
+811,63-1608712,2022-02-21,2022-02-22,First Class,BKZ 006,C,US,Anaburgh,Georgia,09336,Region 4,FJSK45660516258379,Industrials,Construction & Engineering,2400,640,2.9,726.23
+812,64-5038402,2022-04-05,2022-04-06,Second Class,YB-0483,C,US,Olsonport,California,60479,Region 3,AAJL72654933458222,Industrials,Transportation Infrastructure,3500,150,35.38,123.54
+813,22-1629268,2022-02-26,2022-03-24,Standard Class,IWC L15,D,US,Sanchezbury,North Dakota,92086,Region 1,XTSP18556480524030,Industrials,Building Products,7500,80,80.9,237.54
+814,84-8534139,2022-01-07,2022-02-17,Standard Class,XH8 1856,C,US,New Kristinmouth,Maine,37961,Region 0,JENN18504383688023,Real Estate,Real Estate Management & Development,2800,510,31.77,877.98
+815,91-4189449,2022-02-24,2022-04-06,Standard Class,15EU7,A,US,Riverabury,Connecticut,50971,Region 2,JBEY96606090488106,Health Care,Life Sciences Tools & Services,4700,650,0.38,379.85
+816,77-6051305,2022-02-13,2022-03-05,First Class,105 4OQ,B,US,West Angela,Maine,01256,Region 4,CQMJ73576741594570,Health Care,Life Sciences Tools & Services,5000,890,5.27,539.39
+817,71-5199879,2022-02-09,2022-03-14,First Class,2MQ P84,B,US,Port Marc,South Carolina,87692,Region 0,NARD75887230137740,Telecommunication Services,Wireless Telecommunication Services,6600,180,90.64,41.89
+818,02-9405308,2022-02-24,2022-02-28,First Class,320 0PR,D,US,Knightport,Nebraska,73749,Region 4,KCZU76812528806346,Real Estate,Equity Real Estate Investment Trusts,2600,460,95.1,782.32
+819,60-4342437,2022-04-05,2022-04-07,Second Class,VUO 290,B,US,Mitchellport,Washington,27388,Region 3,BSMT50084701740857,Energy,"Oil, Gas & Consumable Fuels",2100,990,85.52,339.36
+820,68-0582139,2022-03-16,2022-04-01,First Class,LYZ 5553,A,US,Cochrantown,Vermont,23508,Region 0,DCCH43056195166099,Consumer Discretionary,Household Durables,100,690,62.68,59.72
+821,65-5074456,2022-03-08,2022-03-20,Standard Class,TVV 767,B,US,Johnport,Kansas,03609,Region 2,JRDT91147454795463,Information Technology,Communications Equipment,9900,770,18.7,446.9
+822,50-7928191,2022-01-10,2022-01-27,Standard Class,94-6679L,A,US,Port Jennifer,Connecticut,10398,Region 4,PXBM77922832408909,Health Care,Life Sciences Tools & Services,2800,660,50.4,458.36
+823,25-0485595,2022-03-09,2022-03-10,First Class,NO-6862,A,US,Lake Branditown,Rhode Island,89052,Region 2,RDBV65238187080444,Telecommunication Services,Wireless Telecommunication Services,6300,30,62.35,588.42
+824,20-8038591,2022-01-12,2022-04-04,Standard Class,GMK I78,A,US,Catherineville,Hawaii,91002,Region 1,TIIV12126830643151,Energy,"Oil, Gas & Consumable Fuels",3200,390,63.65,758.36
+825,40-3223679,2022-04-06,2022-04-06,Standard Class,04UZ266,C,US,Bondborough,Georgia,37135,Region 2,RAVX14563443724716,Materials,Paper & Forest Products,9600,340,18.05,940.09
+826,63-6689306,2022-01-26,2022-02-26,Second Class,129 ZL1,A,US,North Jennifer,New Jersey,85218,Region 1,WAOW79566552757836,Telecommunication Services,Wireless Telecommunication Services,4000,420,74.82,625.83
+827,30-0810647,2022-04-08,2022-04-08,Second Class,6-Y9842,C,US,New Michelle,Delaware,11573,Region 2,CJCG69414069581950,Health Care,Health Care Technology,1700,520,60.69,47.97
+828,72-2355611,2022-02-13,2022-03-05,Second Class,7DA 252,B,US,South Timothy,Nevada,37934,Region 2,CFJL25616324114606,Information Technology,"Electronic Equipment, Instruments & Components",3500,940,55.01,858.93
+829,64-9786748,2022-04-04,2022-04-07,Second Class,9JW 760,B,US,South Matthew,Alabama,11463,Region 4,CAGR92739318032076,Energy,"Oil, Gas & Consumable Fuels",6800,80,30.12,19.63
+830,11-0948773,2022-01-25,2022-02-07,First Class,996 FTJ,D,US,Gregoryfurt,Kentucky,73754,Region 4,EAZS99314322185986,Health Care,Biotechnology,6400,620,67.93,214.2
+831,13-4578569,2022-03-09,2022-03-15,First Class,JFF-4311,A,US,Davisstad,Oregon,19342,Region 0,EEXN49719842695845,Information Technology,Communications Equipment,3600,280,21.61,136.52
+832,13-8454063,2022-02-05,2022-03-26,Second Class,MEL 041,D,US,Lake Samanthaville,Montana,64864,Region 1,VFMQ37010876675217,Health Care,Biotechnology,1900,300,91.02,175.27
+833,92-1563173,2022-04-07,2022-04-08,First Class,KKR 972,B,US,Rodriguezmouth,New Jersey,90600,Region 4,QHUG96908263357617,Health Care,Biotechnology,100,590,51.98,542.77
+834,20-7248854,2022-01-07,2022-04-03,First Class,014-HIG,A,US,Port Kimberlytown,Florida,10733,Region 0,TIZR66503450307780,Real Estate,Equity Real Estate Investment Trusts,5700,780,1.2,852.05
+835,82-7978884,2022-03-21,2022-03-23,Standard Class,163 FVW,C,US,South Lorishire,West Virginia,74351,Region 0,ATKW03571136822096,Telecommunication Services,Wireless Telecommunication Services,3000,200,4.06,577.04
+836,80-0568315,2022-04-01,2022-04-01,Second Class,807 YHN,B,US,Luceroland,West Virginia,04146,Region 0,NUQO28795829593427,Telecommunication Services,Diversified Telecommunication Services,7400,90,98.02,332.9
+837,33-2878808,2022-03-04,2022-03-25,First Class,302 IAR,B,US,Lake Matthew,New Jersey,50070,Region 3,YGQY11311851506016,Industrials,Building Products,1200,820,86.6,364.05
+838,39-2106424,2022-02-09,2022-02-19,First Class,WUT 932,D,US,West Michaelstad,California,24050,Region 3,XWZZ13080564195557,Utilities,Water Utilities ,2800,590,49.39,244.93
+839,12-6217851,2022-04-02,2022-04-07,Second Class,KYQ 310,C,US,Port Kristenfurt,Georgia,53910,Region 2,GMUZ03765393007456,Real Estate,Real Estate Management & Development,10000,880,1.17,305.34
+840,58-3668501,2022-02-14,2022-03-24,Second Class,3R 9336R,D,US,Port Antonio,Delaware,23236,Region 0,TAPM46003786650029,Financials,Mortgage REITs,3900,980,74.09,423.56
+841,85-2689482,2022-01-28,2022-02-14,Standard Class,YC7 7463,A,US,Silvafort,Minnesota,38494,Region 0,THKS47588511537398,Financials,Mortgage REITs,6000,10,27.26,693.06
+842,21-2326716,2022-02-21,2022-03-23,First Class,6S 4N6XOI,D,US,New Jeremyberg,North Dakota,16986,Region 3,XCZN19340189607588,Energy,"Oil, Gas & Consumable Fuels",5000,900,51.84,574.8
+843,02-9080799,2022-02-19,2022-03-08,Second Class,013-QUO,B,US,South Samanthamouth,Virginia,88877,Region 2,GGFC12846602715680,Industrials,Aerospace & Defense,900,810,12.08,550.72
+844,04-1540124,2022-03-08,2022-04-01,Second Class,4L 62665,B,US,Matthewchester,Nebraska,08358,Region 3,DBDH05121745268838,Telecommunication Services,Wireless Telecommunication Services,1100,720,74.46,424.09
+845,15-7345086,2022-04-05,2022-04-08,Standard Class,50DS238,A,US,Port Kevinmouth,Alaska,85103,Region 3,ZTES76664473572202,Information Technology,Semiconductors & Semiconductor Equipment,7700,250,58.85,116.2
+846,83-5956921,2022-03-24,2022-04-08,Second Class,321US,B,US,Curtisborough,Maine,53932,Region 0,FFJC80637192542470,Telecommunication Services,Diversified Telecommunication Services,2800,740,1.64,843.37
+847,54-3060958,2022-02-23,2022-03-11,Standard Class,99VL304,A,US,New Peterland,Idaho,67241,Region 3,AQBZ53725742992619,Real Estate,Real Estate Management & Development,6500,410,90.01,684.28
+848,36-3857244,2022-02-27,2022-04-01,First Class,427-NGA,A,US,Port Nathaniel,Oklahoma,80843,Region 0,VOYL20661189417998,Materials,Construction Materials,300,950,87.45,760.72
+849,93-3267262,2022-01-21,2022-03-09,Standard Class,E09-OLP,B,US,North Gabriel,New York,25916,Region 0,WJLE78295406484528,Consumer Discretionary,Internet & Catalog Retail,2100,950,6.13,4.91
+850,55-3631992,2022-02-06,2022-03-26,First Class,155 RXI,C,US,New Kristenton,Florida,44976,Region 2,FQLB09607782366220,Energy,Energy Equipment & Services,800,790,27.67,786.51
+851,55-3693976,2022-01-05,2022-04-03,Standard Class,I48-25C,B,US,Brucestad,Kentucky,84259,Region 3,CGNG27986935156998,Financials,Diversified Financial Services,2400,940,41.15,273.65
+852,90-5861102,2022-03-07,2022-04-06,Standard Class,862 7331,C,US,New Joseph,Missouri,24435,Region 3,WKFT34193489810082,Telecommunication Services,Wireless Telecommunication Services,8700,970,63.08,366.97
+853,95-8322130,2022-03-12,2022-04-08,Second Class,NWH 722,D,US,Port Joshualand,Colorado,47830,Region 1,GSCM67219882766319,Industrials,Building Products,3600,130,93.91,621.24
+854,37-2262989,2022-02-05,2022-03-17,First Class,244 2VG,A,US,Patrickfort,Wisconsin,74716,Region 0,DBTE17234899765641,Financials,Diversified Financial Services,1200,840,14.65,99.42
+855,06-9981252,2022-01-24,2022-02-16,Standard Class,95L 927,A,US,Susanberg,Nevada,25716,Region 0,BCHH53502427260479,Information Technology,"Technology Hardware, Storage & Peripherals",7300,960,83.01,825.18
+856,98-1305087,2022-03-17,2022-04-05,First Class,DMW-130,A,US,Franklinport,Wyoming,51194,Region 2,UGIK99355972064234,Health Care,Health Care Equipment & Supplies,5200,600,54.8,289.77
+857,25-3224150,2022-02-08,2022-03-01,First Class,GT6 Q6D,A,US,New Brianport,Indiana,15725,Region 0,GXXI98948797592435,Utilities,Electric Utilities,7400,320,29.7,836.47
+858,86-6111798,2022-03-08,2022-03-10,Standard Class,31E•627,C,US,Garciashire,Kansas,38984,Region 2,RKEB29240226494023,Materials,Containers & Packaging,7600,460,84.2,937.58
+859,06-5382976,2022-01-24,2022-02-09,Standard Class,363G,D,US,Joshuaside,Washington,99375,Region 1,PVAL56161462281525,Energy,Energy Equipment & Services,8300,770,30.25,119.42
+860,14-9704035,2022-02-04,2022-02-05,First Class,7HX 545,B,US,North Rodneyberg,New Jersey,32759,Region 2,RPGP65136132599176,Financials,Diversified Financial Services,7000,600,4.42,36.74
+861,55-9863700,2022-04-03,2022-04-06,Second Class,3FV 319,B,US,Ruizfurt,Kansas,55647,Region 0,JAKN58454843364761,Energy,Energy Equipment & Services,400,410,42.5,503.16
+862,73-9779474,2022-02-14,2022-03-29,First Class,590IT,B,US,Brownfort,Michigan,48192,Region 1,UDZB62397862646079,Health Care,Health Care Equipment & Supplies,9400,520,78.88,601.98
+863,10-2427998,2022-03-18,2022-03-30,Second Class,TH2 O8M,B,US,Port Nicoleside,Pennsylvania,18698,Region 1,ARZR23576956292854,Materials,Containers & Packaging,9900,30,80.1,514.31
+864,66-6741888,2022-01-06,2022-01-25,Standard Class,58F UN1,B,US,Salinasview,Idaho,68458,Region 1,NRVN59849562880603,Materials,Metals & Mining,3200,410,87.17,328.61
+865,05-9196703,2022-03-19,2022-04-07,First Class,30-3014Z,A,US,East Maria,Georgia,32142,Region 1,PIRG99594645964785,Health Care,Health Care Providers & Services,2900,720,51.19,772.54
+866,15-3305703,2022-03-22,2022-04-09,Second Class,UJJ-7809,A,US,East Sarahhaven,Maine,48268,Region 1,DLKE27084524041584,Telecommunication Services,Wireless Telecommunication Services,3600,210,79.03,535.75
+867,93-7907890,2022-03-04,2022-03-31,Second Class,333 VFG,B,US,East Jacobfort,California,26261,Region 2,DMSI84557215360865,Energy,"Oil, Gas & Consumable Fuels",7600,290,57.57,947.14
+868,01-4538996,2022-03-30,2022-04-09,Second Class,18-Z021,C,US,New Dianaland,North Carolina,40113,Region 0,NJYW22613879739191,Energy,"Oil, Gas & Consumable Fuels",7700,910,45.46,254.13
+869,47-6182968,2022-03-29,2022-04-07,Standard Class,QWD A64,C,US,New Tony,Maryland,77344,Region 4,KBJF87370980976279,Health Care,Health Care Providers & Services,9200,10,67.92,806.16
+870,64-4127710,2022-03-31,2022-04-06,First Class,752 DNB,D,US,Robertborough,Missouri,55126,Region 1,XKGJ25812687305376,Industrials,Machinery,3900,160,81.98,544.63
+871,21-1999750,2022-02-20,2022-03-15,Standard Class,1ST 970,A,US,Port Anthonyhaven,Oklahoma,41414,Region 4,ZSQY69610879153136,Information Technology,"Electronic Equipment, Instruments & Components",2100,890,40.76,747.05
+872,23-2484291,2022-03-18,2022-03-22,First Class,ZLN 451,A,US,Ericamouth,Pennsylvania,90033,Region 2,OSSN89217682594739,Consumer Staples,Food & Staples Retailing,1700,110,45.19,123.91
+873,93-6020380,2022-02-22,2022-03-30,Standard Class,ECF-821,A,US,Allenfort,Vermont,10944,Region 2,LBML00188955415605,Materials,Paper & Forest Products,5100,350,63.54,985.06
+874,94-6902010,2022-03-21,2022-04-02,Standard Class,5DHB 69,D,US,North Alexanderland,Illinois,36648,Region 0,LPIJ68987410686095,Energy,"Oil, Gas & Consumable Fuels",7800,380,51.03,448.31
+875,53-1034503,2022-01-02,2022-04-03,First Class,03-4699V,C,US,West Adam,Hawaii,04645,Region 0,PUUL89265241851137,Real Estate,Real Estate Management & Development,8800,840,15.27,903.65
+876,40-6147013,2022-03-03,2022-03-10,Second Class,6X UO183,C,US,Brandonstad,Mississippi,39481,Region 0,EAYL95152451190837,Health Care,Health Care Technology,700,920,1.2,973.46
+877,77-1773710,2022-01-03,2022-03-08,First Class,438P,A,US,South Brianton,Virginia,76702,Region 1,BLFS12586081907154,Consumer Staples,Tobacco,9200,620,92.59,747.35
+878,76-4602001,2022-03-06,2022-03-26,Second Class,JLJ 799,C,US,Lake Rodney,Utah,32868,Region 4,JKMQ83236154820312,Consumer Discretionary,Multiline Retail,2500,760,5.51,597.04
+879,67-6896328,2022-01-04,2022-02-14,First Class,9OX18,A,US,Davidchester,Colorado,02852,Region 1,CMDN02853518330557,Utilities,Electric Utilities,8500,750,58.42,438.22
+880,94-7284152,2022-02-19,2022-03-21,First Class,SCE 663,C,US,East Sarah,California,33030,Region 3,ZLRK93487550671959,Information Technology,"Technology Hardware, Storage & Peripherals",1900,310,12.16,775.48
+881,83-5945341,2022-03-07,2022-03-16,Second Class,MQU4032,D,US,Carterfort,Mississippi,77948,Region 2,QVXR53448238644694,Consumer Staples,Personal Products,2800,580,22.27,478.2
+882,50-9921568,2022-02-23,2022-03-30,Second Class,6ZV34,B,US,Port Jessicaview,Louisiana,82220,Region 4,KJYT59900317583473,Industrials,Construction & Engineering,6100,100,7.67,695.44
+883,60-8233645,2022-04-06,2022-04-07,Standard Class,983 AXI,A,US,Thorntonshire,Florida,55916,Region 2,BFOA46250465781007,Real Estate,Equity Real Estate Investment Trusts,3900,100,59.38,804.52
+884,27-3009388,2022-03-26,2022-04-09,Standard Class,KUQ1658,D,US,New Elizabethtown,Hawaii,70341,Region 2,AFQU89199067759761,Industrials,Airlines,900,780,60.86,8.45
+885,84-9185922,2022-02-07,2022-03-27,First Class,HZX 234,B,US,Jamestown,Idaho,53877,Region 4,AGKG35189592541957,Consumer Staples,Food & Staples Retailing,4000,920,38.72,755.73
+886,30-7483127,2022-03-09,2022-03-18,Standard Class,QSP 023,D,US,Port Theresa,West Virginia,96588,Region 1,WBUN46217854290598,Financials,Insurance,3600,30,68.72,436.32
+887,52-0405534,2022-01-31,2022-02-06,Standard Class,TRF-3843,A,US,Garciatown,New Hampshire,85182,Region 0,JAGO70509000260857,Industrials,Professional Services,9700,490,31.84,476.98
+888,42-0835293,2022-04-02,2022-04-06,First Class,68D R97,A,US,North Stevenfort,Nebraska,61441,Region 0,XJFK48798791670063,Consumer Staples,Beverages,8700,240,34.57,454.02
+889,02-3550743,2022-01-15,2022-03-21,Standard Class,CLS 132,A,US,East Laura,Pennsylvania,81519,Region 1,PMCY84319528966754,Real Estate,Real Estate Management & Development,3900,570,68.63,808.23
+890,73-6739895,2022-02-04,2022-02-24,Standard Class,WJO-5364,C,US,New Paulaport,Utah,21680,Region 4,BFME14553647489302,Financials,Consumer Finance,5600,110,47.08,457.53
+891,73-5089473,2022-04-04,2022-04-05,First Class,716 HXY,B,US,Scottbury,Oklahoma,76477,Region 2,WMQQ61298268707166,Utilities,Water Utilities ,9500,180,46.83,497.44
+892,63-3053051,2022-03-24,2022-04-02,Standard Class,72Z 6901,B,US,Priceside,Hawaii,13579,Region 3,UUXL70392977374716,Telecommunication Services,Diversified Telecommunication Services,500,220,98.87,876.34
+893,52-6978348,2022-04-07,2022-04-08,First Class,49-UA25,C,US,Alexisview,North Dakota,59308,Region 1,SFXH59327826906363,Telecommunication Services,Wireless Telecommunication Services,700,850,31.23,244.78
+894,99-7768525,2022-03-20,2022-03-22,Second Class,MD1 S5A,C,US,Robertsborough,Nebraska,83282,Region 4,JSNZ34381310946576,Information Technology,"Technology Hardware, Storage & Peripherals",7200,310,95.49,25.78
+895,57-7495675,2022-03-31,2022-04-02,Second Class,PFZ9571,B,US,East Christyborough,Louisiana,79455,Region 1,LYWB80561530816477,Real Estate,Equity Real Estate Investment Trusts,2900,120,73.66,838.49
+896,50-8551302,2022-02-15,2022-02-26,Standard Class,603 1HQ,A,US,East Samanthaview,Rhode Island,24510,Region 2,ZBNG43614933284320,Consumer Discretionary,Specialty Retail,5500,980,35.85,86.13
+897,60-8104147,2022-03-11,2022-04-06,Second Class,KDM 183,C,US,West Aimee,Florida,60617,Region 2,SYHI43831710865239,Consumer Staples,Beverages,8600,650,67.66,196.56
+898,71-4149208,2022-01-22,2022-03-22,Standard Class,U 629825,B,US,Perezfurt,New Jersey,22474,Region 1,JIKW49558742012855,Financials,Insurance,4300,400,28.62,728.92
+899,53-4582513,2022-01-20,2022-02-20,Standard Class,LNI 374,D,US,Bishopland,Louisiana,41546,Region 4,VACV46753334903769,Industrials,Machinery,9800,560,16.24,993.83
+900,43-5032950,2022-02-09,2022-04-08,Second Class,MIZ 003,A,US,Port Jamesland,Montana,54889,Region 1,SKWM90562564101906,Energy,Energy Equipment & Services,5900,590,10.57,798.34
+901,02-4204688,2022-04-04,2022-04-05,Standard Class,QCD 238,D,US,Robinsonchester,Connecticut,39551,Region 4,SQMT62149814787868,Information Technology,Software,6600,490,40.5,693.75
+902,68-0362897,2022-03-18,2022-03-23,Second Class,0GZ Z95,D,US,South Davidhaven,West Virginia,10624,Region 1,JDPF48143634597241,Materials,Containers & Packaging,1700,600,25.56,555.45
+903,65-7760072,2022-01-04,2022-04-06,Standard Class,0LA X53,C,US,Mackmouth,Montana,93061,Region 1,DLSB05539500048737,Information Technology,IT Services,3700,450,20.52,591.36
+904,04-5196489,2022-03-30,2022-04-06,First Class,1J FX219,C,US,Samuelfort,Texas,07291,Region 0,FCMM27828603025955,Energy,Energy Equipment & Services,5300,580,22.19,692.92
+905,11-1422722,2022-01-04,2022-01-28,Standard Class,LXC-6700,D,US,Lake Josephshire,West Virginia,62709,Region 4,TWET69362666498348,Industrials,Road & Rail,6100,770,62.27,424.8
+906,20-2065203,2022-02-13,2022-02-24,Second Class,76E 2272,C,US,Anthonybury,Iowa,98631,Region 4,JBZF44196366655052,Consumer Staples,Beverages,3800,540,25.29,844.36
+907,68-0202269,2022-02-28,2022-03-21,Standard Class,RQE 890,A,US,Port Micheleview,Nevada,10451,Region 1,DJDS46634916575401,Industrials,Airlines,4900,140,22.56,644.18
+908,39-6474310,2022-02-04,2022-03-03,Second Class,12-09605,C,US,Brownton,Kentucky,02836,Region 1,ZUYI57672653504548,Financials,Consumer Finance,800,710,96.38,791.07
+909,22-4380114,2022-02-23,2022-04-01,Standard Class,29Y Z59,A,US,Noahland,Wyoming,98909,Region 2,NWZX71376530351470,Consumer Discretionary,Multiline Retail,1200,960,26.83,997.59
+910,11-3664257,2022-03-14,2022-03-23,Standard Class,74-KX58,A,US,Blairfurt,West Virginia,20938,Region 4,UUPA07522320319370,Financials,Consumer Finance,1500,30,10.83,699.7
+911,91-9948656,2022-01-15,2022-02-16,Second Class,9ZC1653,A,US,Parkerhaven,Alaska,44588,Region 3,RXWZ95560729039046,Consumer Staples,Tobacco,7700,850,58.41,678.14
+912,95-6127271,2022-01-05,2022-01-27,Second Class,2YE 633,C,US,Kellyshire,Maryland,50411,Region 0,EOAQ74606561910105,Real Estate,Real Estate Management & Development,8500,60,11.47,56.9
+913,03-3872677,2022-01-22,2022-02-17,Second Class,QHE-5608,A,US,East Kenneth,New Hampshire,22179,Region 2,RFRL11846003715128,Information Technology,Internet Software & Services,3200,180,90.96,413.8
+914,24-0170355,2022-02-23,2022-02-23,Standard Class,JYL-3868,A,US,Stevenside,Arkansas,71042,Region 0,CLSB05656147372670,Real Estate,Real Estate Management & Development,400,980,20.22,294.0
+915,92-5317454,2022-01-19,2022-02-13,Second Class,2OT12,A,US,Lake Michaelmouth,Hawaii,76395,Region 0,KJYP00419486771161,Financials,Consumer Finance,100,500,6.94,584.74
+916,56-2960974,2022-02-12,2022-02-14,Standard Class,6GI 675,A,US,Meyerstad,Oregon,28934,Region 4,VPWF16732355681186,Information Technology,"Electronic Equipment, Instruments & Components",3400,270,58.54,466.25
+917,36-7549011,2022-01-14,2022-02-28,First Class,876Q2,C,US,Juanshire,Texas,73104,Region 0,UNJW07809312152973,Telecommunication Services,Wireless Telecommunication Services,2700,500,47.68,572.92
+918,65-5749181,2022-03-18,2022-03-26,First Class,987182,D,US,Sanchezbury,Kentucky,37555,Region 3,VVVX47576354202752,Health Care,Health Care Equipment & Supplies,8300,170,50.17,242.71
+919,53-2928336,2022-01-15,2022-01-23,Second Class,735V1,B,US,Lake Patriciatown,Michigan,15883,Region 2,PAHU67314743509664,Health Care,Life Sciences Tools & Services,2900,340,75.09,726.87
+920,50-0827601,2022-02-20,2022-03-10,First Class,MPO-068,A,US,Riversfort,North Carolina,47936,Region 3,BDDE25343943959031,Health Care,Health Care Equipment & Supplies,7900,620,69.83,600.04
+921,51-7661916,2022-03-30,2022-04-08,First Class,591VB,D,US,Morenotown,Arkansas,42315,Region 2,WTEM66025206876094,Energy,Energy Equipment & Services,5700,650,3.5,660.05
+922,14-9477261,2022-03-25,2022-04-02,Second Class,738-HXPQ,D,US,Burnsbury,Ohio,88991,Region 0,KEEE65225097369614,Materials,Containers & Packaging,5100,950,77.07,480.34
+923,74-9923774,2022-03-24,2022-03-29,Second Class,LYY0934,D,US,South Aaronstad,Rhode Island,36468,Region 4,GIID92160861804260,Financials,Diversified Financial Services,7600,920,40.25,255.41
+924,73-3000890,2022-02-23,2022-04-07,Second Class,MVV 798,B,US,Tiffanystad,Massachusetts,57088,Region 2,DGTP17364256171046,Industrials,Marine,9200,730,44.92,726.5
+925,65-0369455,2022-03-07,2022-03-18,First Class,152-433,C,US,North Alex,South Dakota,10026,Region 3,LSCK21345779827526,Consumer Staples,Beverages,9000,60,5.37,978.76
+926,48-8538040,2022-01-02,2022-03-27,Standard Class,65-8229G,C,US,Lake Jamie,Nebraska,69126,Region 2,SSSO51726678658393,Real Estate,Equity Real Estate Investment Trusts,6500,220,87.42,269.58
+927,37-1247103,2022-01-02,2022-01-16,Standard Class,ZOM-623,D,US,East Alexisville,Tennessee,01862,Region 2,QMYQ75117585521933,Information Technology,Communications Equipment,2300,420,55.0,203.1
+928,59-5847164,2022-01-04,2022-03-17,Second Class,TPL8165,C,US,Lake Garrett,South Dakota,87245,Region 2,CPVO79950691138608,Energy,Energy Equipment & Services,3300,380,30.52,593.16
+929,57-6374610,2022-03-23,2022-04-01,Standard Class,PKY-2182,B,US,Lake Susan,Florida,21382,Region 1,PMSM99935692348222,Utilities,Water Utilities ,8700,820,69.37,570.14
+930,41-0319892,2022-01-16,2022-03-29,Second Class,128 QHS,B,US,East Donald,Texas,55490,Region 4,SKCM39455523027409,Consumer Discretionary,Multiline Retail,6300,900,36.99,579.43
+931,37-0654954,2022-02-07,2022-03-02,Standard Class,LVK 433,D,US,Michellefort,Arizona,40755,Region 3,IOII25291351587723,Information Technology,"Electronic Equipment, Instruments & Components",5400,770,14.67,599.38
+932,34-4568391,2022-02-15,2022-03-21,First Class,W36 1YQ,D,US,Carolmouth,Mississippi,26800,Region 2,YTDI34931627434215,Information Technology,Communications Equipment,4900,780,50.83,521.8
+933,57-9501069,2022-02-21,2022-03-28,Standard Class,R04 0GY,D,US,Douglasview,Wyoming,54815,Region 2,WLPP25986135801340,Real Estate,Real Estate Management & Development,8100,460,12.66,415.21
+934,91-7899574,2022-01-15,2022-01-29,First Class,348E0,A,US,Port Juliefort,Delaware,78239,Region 2,AQSZ79413263155219,Health Care,Health Care Providers & Services,7000,190,43.75,901.04
+935,33-6371480,2022-03-31,2022-04-01,Second Class,91Q U84,D,US,Michellefurt,Missouri,56766,Region 3,SCKU88220661785721,Consumer Discretionary,Household Durables,9900,330,48.82,594.06
+936,82-3759137,2022-03-10,2022-03-10,First Class,6BI7345,A,US,Veronicaview,Florida,39472,Region 1,YSIR56418285202566,Utilities,Water Utilities ,1100,200,29.35,820.48
+937,99-0040882,2022-03-27,2022-04-05,Standard Class,VZG 689,B,US,North Nicholas,Vermont,60232,Region 2,XOYR46851934698704,Energy,Energy Equipment & Services,8100,760,39.88,450.75
+938,82-8866775,2022-02-27,2022-03-25,Standard Class,3-3343X,B,US,Lake James,Michigan,11997,Region 1,SOGS63940214842453,Materials,Metals & Mining,3700,370,93.62,51.64
+939,99-7194874,2022-01-11,2022-03-15,Second Class,PV 05553,D,US,Port Caleb,Ohio,45986,Region 4,PWRF98879982909803,Health Care,Life Sciences Tools & Services,8200,730,99.67,889.31
+940,05-5435148,2022-01-12,2022-01-27,Standard Class,J37-HKD,C,US,New Jerome,Maine,81793,Region 3,CHOG08662017610143,Telecommunication Services,Wireless Telecommunication Services,5800,920,34.97,955.3
+941,64-4510451,2022-01-02,2022-02-15,First Class,033-UIX,D,US,Jamesmouth,Montana,99567,Region 3,OBXZ06014620172833,Utilities,Independent Power and Renewable Electricity Producers,300,200,88.03,747.24
+942,87-9854997,2022-02-08,2022-03-26,First Class,RZI 156,B,US,Port Kim,Louisiana,53520,Region 4,MCPC45670840105356,Telecommunication Services,Diversified Telecommunication Services,3800,800,13.9,926.3
+943,63-0736320,2022-02-15,2022-02-21,First Class,72M•735,D,US,North Sean,Mississippi,91539,Region 0,YIHI56674136371648,Telecommunication Services,Wireless Telecommunication Services,2600,400,95.7,308.8
+944,38-9666113,2022-02-01,2022-03-22,First Class,40T•095,A,US,Port Megan,South Carolina,76039,Region 1,VSXB80797610398334,Health Care,Health Care Providers & Services,800,840,28.35,914.91
+945,74-8200144,2022-03-05,2022-03-29,Second Class,7NVT929,A,US,Adamfort,Kentucky,32328,Region 1,PAST65913740317453,Financials,Insurance,9700,270,52.54,917.87
+946,34-5686039,2022-01-03,2022-02-09,Standard Class,LG-0378,B,US,New Tracyhaven,Washington,38170,Region 0,RUHG53878624462978,Energy,"Oil, Gas & Consumable Fuels",9100,720,5.23,68.57
+947,64-5667608,2022-01-14,2022-01-28,Second Class,096-UKR,A,US,East Mary,Kansas,11630,Region 1,FGLS28273115506506,Health Care,Life Sciences Tools & Services,3000,440,92.77,632.48
+948,95-7606208,2022-02-05,2022-03-10,First Class,89P S96,D,US,Sarahside,Montana,15776,Region 4,RDRN34074487659882,Consumer Discretionary,"Textiles, Apparel & Luxury Goods",2800,310,93.81,533.21
+949,45-8965819,2022-01-04,2022-02-22,Standard Class,QZ 24132,B,US,Riveratown,Alaska,96780,Region 3,OPYW91989666552764,Utilities,Electric Utilities,5200,540,48.31,806.05
+950,74-3333273,2022-02-14,2022-04-03,Second Class,TGP-8459,B,US,Lake Tracy,Oregon,15131,Region 1,FPDV19569835841669,Industrials,Air Freight & Logistics,2800,790,19.48,402.3
+951,63-6575937,2022-01-07,2022-02-13,First Class,3SC3852,C,US,Port Tylertown,Nevada,70022,Region 4,TVUC60581210476845,Materials,Containers & Packaging,7400,920,94.04,455.41
+952,56-1777958,2022-03-03,2022-03-23,First Class,728-204,A,US,Lake Andrewmouth,New Jersey,77778,Region 0,PXUJ30473482579052,Utilities,Electric Utilities,6600,410,96.69,135.64
+953,77-4012464,2022-01-03,2022-03-06,Standard Class,614 BXN,B,US,Reyesborough,Utah,84589,Region 2,TPPQ04203537895231,Information Technology,"Technology Hardware, Storage & Peripherals",1700,660,61.27,413.9
+954,45-4533096,2022-01-15,2022-02-19,First Class,EEC B89,D,US,Laurafort,Kansas,03049,Region 2,MTTJ06384963041963,Utilities,Gas Utilities,9100,950,56.83,178.2
+955,21-2216606,2022-04-02,2022-04-08,Second Class,4G XZ360,A,US,New Nicole,Florida,16711,Region 3,KJHE37864283752289,Materials,Paper & Forest Products,2000,560,6.82,401.55
+956,51-2280390,2022-02-27,2022-04-03,Standard Class,089870,D,US,Georgefurt,Oregon,36545,Region 4,GCAY02614490379449,Consumer Discretionary,Household Durables,9300,250,59.84,239.12
+957,34-3445150,2022-01-18,2022-03-11,Standard Class,2-9699P,D,US,Henryfurt,Georgia,30154,Region 1,SMWW65508637239119,Materials,Chemicals,5300,400,94.04,5.36
+958,48-1015669,2022-03-20,2022-03-21,Second Class,KYA 809,A,US,Rickyfort,Virginia,35864,Region 4,WYOV40035410900997,Energy,"Oil, Gas & Consumable Fuels",3300,60,70.56,177.3
+959,31-3151986,2022-01-25,2022-01-30,Second Class,8523,D,US,Michelehaven,Texas,09714,Region 3,LQFB44363007601776,Utilities,Independent Power and Renewable Electricity Producers,900,690,92.62,314.69
+960,23-2563161,2022-03-24,2022-04-08,Second Class,PRL 3131,D,US,West Jeffrey,Florida,99106,Region 1,BREF85045679071726,Materials,Metals & Mining,6200,300,53.35,659.0
+961,44-4246329,2022-02-16,2022-03-03,First Class,KL7 H4B,D,US,West Dylan,Delaware,74045,Region 2,NALT23196856979474,Industrials,Building Products,6200,270,48.78,444.89
+962,53-9966312,2022-01-28,2022-02-18,Standard Class,NMS 400,B,US,Jasonchester,North Carolina,99348,Region 1,RFQH12435130451798,Telecommunication Services,Wireless Telecommunication Services,500,470,13.39,409.85
+963,05-0843370,2022-01-05,2022-03-01,Standard Class,2AY 267,C,US,Port Laurieberg,Kentucky,82501,Region 0,OGRY34405099721056,Telecommunication Services,Diversified Telecommunication Services,400,200,8.94,304.55
+964,11-2885305,2022-01-11,2022-03-09,First Class,9IB90,D,US,Allenberg,Utah,44512,Region 2,UTSK63912831536833,Financials,Insurance,5900,450,73.35,39.75
+965,23-6268185,2022-03-18,2022-03-21,First Class,HFO 634,A,US,East Natashaburgh,Maine,78477,Region 1,ZMHC01037155226022,Financials,Consumer Finance,200,510,12.04,196.78
+966,06-7735306,2022-02-21,2022-04-06,Second Class,LQC 670,B,US,East Karen,Tennessee,31054,Region 1,ADXF52525385212098,Utilities,Multi-Utilities,3700,110,34.99,773.35
+967,01-0831743,2022-02-22,2022-04-09,First Class,IIC-0365,C,US,Robinsonport,Missouri,78189,Region 0,QFIF53113404217057,Information Technology,Software,2500,180,45.14,127.61
+968,38-9178045,2022-01-10,2022-02-14,Standard Class,010V6,C,US,Port Mary,West Virginia,67629,Region 0,TXFS85883203588306,Materials,Metals & Mining,1200,870,97.5,853.11
+969,54-9594036,2022-03-12,2022-04-03,Standard Class,HZL 830,D,US,East Lisaland,Montana,89272,Region 0,DEOO06239698750916,Real Estate,Equity Real Estate Investment Trusts,500,130,7.53,337.18
+970,48-6125204,2022-02-01,2022-02-02,First Class,U14-62Q,A,US,Dianeshire,North Carolina,83662,Region 2,NBXE19249427984484,Consumer Discretionary,Auto Components,1000,140,60.11,728.52
+971,47-6516450,2022-03-11,2022-03-30,Standard Class,DWR-5184,D,US,Carlmouth,Nevada,62886,Region 0,FOQC67457951270024,Utilities,Multi-Utilities,7000,350,50.28,708.8
+972,14-2535259,2022-03-21,2022-04-05,Standard Class,45R 423,C,US,Port Lucas,Wyoming,16359,Region 2,QVQT77827308898957,Financials,Thrifts & Mortgage Finance,2700,30,69.43,123.85
+973,36-6734498,2022-01-21,2022-02-10,First Class,9-64545E,D,US,Stanleytown,New Hampshire,60952,Region 2,QAPD61089489107039,Real Estate,Real Estate Management & Development,4000,220,35.6,689.82
+974,39-3125846,2022-01-11,2022-03-21,Second Class,39EF017,A,US,Elizabethfort,Delaware,33758,Region 0,BCUC75848413760217,Materials,Construction Materials,7100,660,59.74,137.92
+975,04-9449432,2022-04-03,2022-04-09,Standard Class,4R 68966,C,US,Ortizside,South Carolina,91596,Region 4,NURX52164629929881,Financials,Insurance,2300,200,70.27,708.97
+976,27-9497396,2022-02-13,2022-03-18,Standard Class,M 038397,A,US,Brandonfort,Utah,60418,Region 4,BUSI59795790114681,Energy,Energy Equipment & Services,3200,910,69.92,465.36
+977,60-7619503,2022-01-19,2022-04-01,Second Class,LAB 061,C,US,Kevinland,North Dakota,86902,Region 2,YSMI33677060461294,Consumer Discretionary,Distributors,1000,970,44.6,149.59
+978,43-8505135,2022-01-15,2022-03-30,Standard Class,MDQ 941,C,US,North Shannonburgh,Mississippi,29278,Region 4,ZMBT43870944462614,Consumer Discretionary,Diversified Consumer Services,3200,300,75.18,39.04
+979,13-1056222,2022-01-22,2022-03-03,Standard Class,9100,A,US,South Laurenhaven,Alaska,74850,Region 2,VQAX28563861213946,Energy,Energy Equipment & Services,5800,220,43.9,543.36
+980,39-2257034,2022-04-08,2022-04-09,First Class,1KD 087,B,US,North Angelaberg,Ohio,66064,Region 3,KHYJ09276696268629,Health Care,Pharmaceuticals,4100,60,5.1,657.37
+981,01-6575196,2022-03-13,2022-03-24,Standard Class,38P•247,D,US,East Cameronshire,Minnesota,88740,Region 4,QNGW45539488288156,Energy,"Oil, Gas & Consumable Fuels",8200,450,75.48,6.26
+982,26-7180907,2022-02-14,2022-03-19,First Class,280-223,A,US,Jimenezbury,Wisconsin,02137,Region 4,ZPPT14957205336714,Consumer Discretionary,"Hotels, Restaurants & Leisure",200,70,35.24,575.65
+983,86-9438356,2022-02-12,2022-02-18,Standard Class,1853,A,US,Jeffreybury,Nevada,71272,Region 4,XAYG01043838709815,Health Care,Health Care Equipment & Supplies,9200,970,93.3,407.69
+984,45-5582194,2022-04-03,2022-04-04,Standard Class,42-R069,C,US,North Lauren,Louisiana,15593,Region 3,HNQZ34973718910694,Information Technology,Communications Equipment,9400,320,19.28,522.72
+985,06-0860173,2022-04-05,2022-04-06,Standard Class,56B•329,D,US,South Jamesberg,North Dakota,60093,Region 3,WRKL17061521174645,Telecommunication Services,Wireless Telecommunication Services,6400,700,54.61,588.7
+986,65-7052618,2022-03-22,2022-04-09,Standard Class,89D•203,C,US,East Christopher,Nevada,99939,Region 3,IUGA45480217337309,Information Technology,Internet Software & Services,4500,890,47.12,125.37
+987,51-4436256,2022-02-13,2022-03-22,Standard Class,GHI 139,C,US,North Stephenborough,New Mexico,01224,Region 0,BDKE43505605693842,Energy,"Oil, Gas & Consumable Fuels",6700,290,91.29,904.39
+988,90-6155174,2022-02-05,2022-03-01,Second Class,5GN 731,D,US,Port Briana,New Mexico,34403,Region 3,QIIF85107333523636,Industrials,Trading Companies & Distributors,5200,880,2.7,29.68
+989,59-2303676,2022-03-14,2022-03-20,Standard Class,LO8 S7J,C,US,East Terriburgh,New Jersey,08949,Region 1,YNGK37616347842061,Telecommunication Services,Diversified Telecommunication Services,3000,640,30.31,660.36
+990,66-8106283,2022-01-07,2022-04-04,First Class,431951,D,US,Reyesborough,California,49875,Region 1,RXAV41171891180815,Materials,Construction Materials,4500,480,64.01,205.23
+991,38-5027364,2022-03-22,2022-04-08,First Class,1329 XL,B,US,Adamport,Maine,69586,Region 0,ZGLJ85478668631588,Real Estate,Real Estate Management & Development,4300,920,23.28,17.59
+992,16-1243346,2022-01-05,2022-03-19,Second Class,KDE 057,A,US,Lake Sharonside,Illinois,25650,Region 2,KDKY51267481767806,Health Care,Health Care Equipment & Supplies,9800,990,31.22,51.24
+993,04-7972213,2022-02-22,2022-02-26,First Class,122UGW,A,US,Port Shannonburgh,Virginia,90853,Region 4,DQJR32439380617155,Materials,Metals & Mining,3400,330,80.77,184.97
+994,14-3149284,2022-04-01,2022-04-07,First Class,6P P9092,A,US,Lake Emily,Arkansas,57042,Region 0,VTUD41382876553964,Real Estate,Equity Real Estate Investment Trusts,9300,410,77.51,442.1
+995,40-1758832,2022-03-14,2022-03-19,Standard Class,WDY 831,C,US,Lake Cynthia,Illinois,51926,Region 3,YRJC91429087499092,Energy,Energy Equipment & Services,1100,920,28.88,874.23
+996,77-9458234,2022-02-15,2022-03-29,First Class,LLH 512,C,US,Lake Charles,Massachusetts,37868,Region 4,TMEM26929612332266,Financials,Mortgage REITs,7900,1000,96.45,868.86
+997,64-6927723,2022-01-11,2022-04-02,Standard Class,3CPV 00,C,US,Lake Jeffreyview,Nevada,96885,Region 2,UHCQ81190123570161,Industrials,Aerospace & Defense,7000,920,46.84,69.79
+998,44-4141326,2022-02-06,2022-02-24,Second Class,320 PCR,C,US,North Jeremyfurt,Tennessee,35105,Region 3,HHRR64466727328876,Industrials,Construction & Engineering,1100,630,87.64,545.58
+999,20-1405913,2022-01-27,2022-03-30,Second Class,407-KKB,D,US,Blakeport,Rhode Island,58598,Region 1,VNPC14624521857743,Utilities,Independent Power and Renewable Electricity Producers,2800,240,36.36,192.22
